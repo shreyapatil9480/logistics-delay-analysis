@@ -1,4 +1,3 @@
-https://github.com/shreyapatil9480/logistics-delay-analysis/new/main
 # Logistics Delivery Delay Analysis
 
 This project contains a synthetic dataset and an end-to-end analysis pipeline for predicting shipping delays in a logistics operation. 
