@@ -1,0 +1,1501 @@
+order_id,order_date,shipping_mode,product_category,product_subcategory,weight_kg,distance_km,shipping_cost,expected_delivery_date,actual_delivery_date,delay_days,is_delayed,warehouse_region,customer_segment
+ORDER-00001,2023-04-13,Second Class,Technology,Accessories,27.15,279.9,469.49,2023-04-15,2023-04-15,0,0,North,Home Office
+ORDER-00002,2024-03-11,First Class,Office Supplies,Binders,45.7,266.2,992.15,2024-03-15,2024-03-17,2,1,West,Corporate
+ORDER-00003,2023-09-28,Standard Class,Office Supplies,Pens,19.7,329.4,337.41,2023-09-29,2023-10-01,2,1,North,Home Office
+ORDER-00004,2023-04-17,Second Class,Office Supplies,Binders,41.56,120.4,310.53,2023-04-19,2023-04-20,1,1,East,Consumer
+ORDER-00005,2023-03-13,Standard Class,Furniture,Tables,7.12,432.9,171.07,2023-03-14,2023-03-16,2,1,East,Home Office
+ORDER-00006,2023-01-21,Second Class,Office Supplies,Binders,46.8,158.1,455.59,2023-01-23,2023-01-25,2,1,West,Corporate
+ORDER-00007,2023-05-02,Standard Class,Technology,Copiers,37.7,348.6,666.89,2023-05-06,2023-05-08,2,1,North,Corporate
+ORDER-00008,2024-04-11,Standard Class,Furniture,Chairs,47.1,13.0,46.46,2024-04-16,2024-04-19,3,1,East,Home Office
+ORDER-00009,2023-08-03,Standard Class,Technology,Accessories,33.99,189.5,339.08,2023-08-07,2023-08-08,1,1,East,Corporate
+ORDER-00010,2023-11-27,First Class,Office Supplies,Pens,18.49,179.1,281.8,2023-11-28,2023-11-30,2,1,North,Corporate
+ORDER-00011,2024-04-03,Standard Class,Technology,Copiers,46.94,274.0,662.74,2024-04-09,2024-04-14,5,1,North,Corporate
+ORDER-00012,2023-03-29,Second Class,Furniture,Furnishings,14.14,41.0,51.58,2023-03-30,2023-03-30,0,0,South,Consumer
+ORDER-00013,2024-01-08,Same Day,Furniture,Bookcases,16.94,396.1,687.54,2024-01-09,2024-01-09,0,0,West,Consumer
+ORDER-00014,2023-04-10,Standard Class,Office Supplies,Paper,35.19,112.8,216.33,2023-04-16,2023-04-19,3,1,West,Corporate
+ORDER-00015,2023-05-11,Second Class,Furniture,Tables,38.38,340.1,788.19,2023-05-17,2023-05-18,1,1,North,Home Office
+ORDER-00016,2023-11-05,Standard Class,Technology,Copiers,46.51,402.6,946.68,2023-11-10,2023-11-14,4,1,West,Consumer
+ORDER-00017,2023-12-10,First Class,Technology,Phones,10.64,283.1,257.04,2023-12-12,2023-12-13,1,1,East,Home Office
+ORDER-00018,2024-05-06,Standard Class,Furniture,Bookcases,40.0,371.7,757.4,2024-05-12,2024-05-16,4,1,North,Corporate
+ORDER-00019,2024-02-18,Second Class,Office Supplies,Pens,37.06,332.6,747.23,2024-02-22,2024-02-25,3,1,North,Corporate
+ORDER-00020,2024-01-21,First Class,Office Supplies,Pens,3.66,181.0,62.55,2024-01-27,2024-01-27,0,0,North,Home Office
+ORDER-00021,2023-07-11,Same Day,Office Supplies,Pens,19.67,405.4,807.47,2023-07-12,2023-07-12,0,0,South,Consumer
+ORDER-00022,2023-10-04,Second Class,Technology,Copiers,14.5,150.9,144.8,2023-10-08,2023-10-08,0,0,West,Home Office
+ORDER-00023,2023-06-10,Standard Class,Technology,Phones,15.57,287.8,241.53,2023-06-15,2023-06-15,0,0,South,Home Office
+ORDER-00024,2024-04-04,Second Class,Office Supplies,Binders,49.16,374.0,1122.14,2024-04-07,2024-04-08,1,1,East,Corporate
+ORDER-00025,2023-11-10,First Class,Technology,Accessories,32.32,192.6,514.24,2023-11-14,2023-11-16,2,1,West,Consumer
+ORDER-00026,2023-01-22,Second Class,Office Supplies,Binders,36.02,154.9,352.41,2023-01-30,2023-01-30,0,0,South,Home Office
+ORDER-00027,2023-09-10,Standard Class,Technology,Accessories,48.84,232.4,579.57,2023-09-14,2023-09-15,1,1,North,Consumer
+ORDER-00028,2024-04-19,Same Day,Office Supplies,Paper,19.17,409.9,796.62,2024-04-20,2024-04-20,0,0,South,Corporate
+ORDER-00029,2023-02-28,Second Class,Technology,Machines,40.19,465.3,1132.92,2023-03-07,2023-03-11,4,1,North,Consumer
+ORDER-00030,2024-05-25,Second Class,Technology,Machines,22.01,274.8,377.14,2024-05-30,2024-05-30,0,0,South,Corporate
+ORDER-00031,2024-04-20,Standard Class,Furniture,Chairs,43.54,332.4,730.5,2024-04-21,2024-04-22,1,1,South,Consumer
+ORDER-00032,2023-07-09,Second Class,Technology,Phones,9.44,452.1,269.76,2023-07-12,2023-07-12,0,0,South,Home Office
+ORDER-00033,2023-09-01,Standard Class,Furniture,Bookcases,47.41,53.8,142.51,2023-09-05,2023-09-06,1,1,North,Corporate
+ORDER-00034,2024-05-19,Second Class,Office Supplies,Pens,11.33,119.9,93.09,2024-05-21,2024-05-24,3,1,South,Home Office
+ORDER-00035,2023-05-11,Standard Class,Office Supplies,Pens,16.65,355.9,315.58,2023-05-14,2023-05-15,1,1,West,Corporate
+ORDER-00036,2024-04-29,Second Class,Technology,Accessories,37.93,412.8,953.57,2024-05-02,2024-05-05,3,1,West,Consumer
+ORDER-00037,2023-01-21,Same Day,Technology,Copiers,19.99,429.2,866.27,2023-01-22,2023-01-22,0,0,West,Consumer
+ORDER-00038,2023-06-16,Standard Class,Technology,Machines,30.61,210.5,334.36,2023-06-21,2023-06-23,2,1,North,Corporate
+ORDER-00039,2023-10-01,Same Day,Technology,Accessories,22.51,49.2,125.88,2023-10-02,2023-10-02,0,0,North,Corporate
+ORDER-00040,2024-01-23,Standard Class,Office Supplies,Pens,37.25,221.7,422.77,2024-01-26,2024-01-28,2,1,West,Corporate
+ORDER-00041,2023-11-12,First Class,Technology,Accessories,11.8,119.2,118.72,2023-11-17,2023-11-18,1,1,West,Consumer
+ORDER-00042,2023-01-14,First Class,Office Supplies,Storage,3.39,149.1,54.19,2023-01-16,2023-01-16,0,0,West,Corporate
+ORDER-00043,2023-08-30,Second Class,Office Supplies,Pens,15.35,387.3,375.92,2023-08-31,2023-09-01,1,1,East,Corporate
+ORDER-00044,2023-12-12,First Class,Furniture,Furnishings,23.98,42.4,93.62,2023-12-16,2023-12-16,0,0,West,Home Office
+ORDER-00045,2023-12-06,First Class,Technology,Machines,8.82,414.7,311.2,2023-12-09,2023-12-12,3,1,South,Corporate
+ORDER-00046,2023-04-02,Standard Class,Technology,Machines,18.06,216.7,213.21,2023-04-06,2023-04-06,0,0,East,Home Office
+ORDER-00047,2024-01-02,Standard Class,Office Supplies,Pens,20.3,300.1,311.81,2024-01-07,2024-01-10,3,1,East,Home Office
+ORDER-00048,2024-03-30,Second Class,Furniture,Chairs,3.34,49.4,25.52,2024-04-03,2024-04-04,1,1,North,Home Office
+ORDER-00049,2024-03-03,First Class,Technology,Copiers,29.37,172.0,415.66,2024-03-09,2024-03-09,0,0,South,Consumer
+ORDER-00050,2024-05-23,First Class,Furniture,Furnishings,44.27,49.4,183.71,2024-05-24,2024-05-25,1,1,North,Home Office
+ORDER-00051,2023-02-04,First Class,Technology,Copiers,8.01,481.0,323.53,2023-02-07,2023-02-09,2,1,North,Corporate
+ORDER-00052,2023-07-25,Standard Class,Technology,Machines,30.09,404.6,624.86,2023-08-02,2023-08-04,2,1,South,Consumer
+ORDER-00053,2023-03-22,First Class,Office Supplies,Paper,33.4,232.5,628.94,2023-03-24,2023-03-24,0,0,North,Consumer
+ORDER-00054,2024-01-23,Standard Class,Furniture,Tables,21.26,115.7,141.71,2024-01-27,2024-01-28,1,1,South,Consumer
+ORDER-00055,2023-01-02,Second Class,Technology,Phones,35.2,467.1,1002.78,2023-01-06,2023-01-08,2,1,South,Consumer
+ORDER-00056,2024-01-25,Standard Class,Technology,Phones,20.83,175.6,201.89,2024-02-01,2024-02-03,2,1,North,Consumer
+ORDER-00057,2023-04-16,Standard Class,Office Supplies,Binders,25.48,84.7,117.66,2023-04-22,2023-04-23,1,1,West,Consumer
+ORDER-00058,2024-04-21,Standard Class,Technology,Copiers,0.86,283.8,31.29,2024-04-22,2024-04-22,0,0,North,Consumer
+ORDER-00059,2024-02-06,Standard Class,Furniture,Tables,34.74,472.2,830.74,2024-02-11,2024-02-14,3,1,East,Home Office
+ORDER-00060,2023-06-11,Second Class,Office Supplies,Pens,33.24,6.9,19.57,2023-06-12,2023-06-12,0,0,North,Corporate
+ORDER-00061,2023-07-21,Standard Class,Technology,Copiers,2.4,122.9,31.19,2023-07-30,2023-07-31,1,1,South,Corporate
+ORDER-00062,2023-09-27,Standard Class,Technology,Machines,18.73,469.5,455.24,2023-10-01,2023-10-03,2,1,East,Home Office
+ORDER-00063,2023-09-28,Standard Class,Furniture,Furnishings,48.96,89.7,233.55,2023-10-02,2023-10-04,2,1,South,Home Office
+ORDER-00064,2024-03-31,Standard Class,Technology,Accessories,21.33,61.1,77.51,2024-04-04,2024-04-04,0,0,West,Consumer
+ORDER-00065,2024-04-06,Standard Class,Office Supplies,Paper,25.35,287.2,369.51,2024-04-11,2024-04-13,2,1,West,Consumer
+ORDER-00066,2023-09-09,Standard Class,Office Supplies,Binders,45.54,431.6,997.12,2023-09-15,2023-09-16,1,1,East,Home Office
+ORDER-00067,2023-10-23,Second Class,Furniture,Bookcases,36.0,241.2,532.24,2023-10-24,2023-10-24,0,0,West,Consumer
+ORDER-00068,2023-12-04,Second Class,Technology,Machines,29.31,497.3,887.95,2023-12-10,2023-12-11,1,1,West,Corporate
+ORDER-00069,2023-02-22,Second Class,Furniture,Tables,39.99,341.2,830.12,2023-02-24,2023-02-25,1,1,North,Corporate
+ORDER-00070,2023-08-05,Standard Class,Office Supplies,Binders,43.29,41.7,109.75,2023-08-12,2023-08-13,1,1,North,Consumer
+ORDER-00071,2023-07-07,Standard Class,Furniture,Furnishings,23.12,496.5,588.02,2023-07-17,2023-07-17,0,0,West,Consumer
+ORDER-00072,2024-01-15,First Class,Technology,Machines,24.02,206.9,413.82,2024-01-17,2024-01-17,0,0,West,Consumer
+ORDER-00073,2024-05-07,Second Class,Office Supplies,Storage,19.61,147.3,192.36,2024-05-10,2024-05-12,2,1,North,Corporate
+ORDER-00074,2023-02-10,Standard Class,Technology,Copiers,48.35,281.2,693.67,2023-02-14,2023-02-17,3,1,West,Consumer
+ORDER-00075,2023-06-06,Standard Class,Furniture,Furnishings,35.01,155.6,277.56,2023-06-15,2023-06-15,0,0,West,Home Office
+ORDER-00076,2023-01-15,Standard Class,Office Supplies,Paper,4.62,47.8,16.56,2023-01-16,2023-01-16,0,0,South,Consumer
+ORDER-00077,2023-03-06,Standard Class,Office Supplies,Binders,43.22,5.7,27.85,2023-03-18,2023-03-19,1,1,West,Home Office
+ORDER-00078,2024-06-04,Standard Class,Technology,Machines,24.29,227.5,285.49,2024-06-13,2024-06-14,1,1,East,Consumer
+ORDER-00079,2023-12-10,Second Class,Technology,Machines,3.9,419.2,111.78,2023-12-17,2023-12-17,0,0,South,Consumer
+ORDER-00080,2023-05-09,Second Class,Furniture,Bookcases,27.71,288.3,487.36,2023-05-13,2023-05-15,2,1,East,Corporate
+ORDER-00081,2024-04-16,Second Class,Office Supplies,Pens,21.15,499.6,643.05,2024-04-20,2024-04-21,1,1,West,Home Office
+ORDER-00082,2023-03-04,First Class,Furniture,Tables,43.95,147.0,529.42,2023-03-06,2023-03-06,0,0,North,Home Office
+ORDER-00083,2023-05-19,First Class,Office Supplies,Paper,10.6,143.8,141.58,2023-05-20,2023-05-23,3,1,South,Home Office
+ORDER-00084,2024-05-13,First Class,Furniture,Tables,41.41,84.1,292.85,2024-05-15,2024-05-20,5,1,North,Corporate
+ORDER-00085,2024-01-27,Same Day,Office Supplies,Storage,28.11,86.2,261.35,2024-01-28,2024-01-28,0,0,South,Home Office
+ORDER-00086,2024-02-23,Standard Class,Office Supplies,Paper,3.2,146.2,42.78,2024-02-29,2024-03-01,1,1,North,Corporate
+ORDER-00087,2023-10-16,Standard Class,Office Supplies,Paper,48.61,397.5,974.25,2023-10-23,2023-10-25,2,1,South,Consumer
+ORDER-00088,2024-01-14,Standard Class,Office Supplies,Paper,25.87,453.3,596.01,2024-01-19,2024-01-21,2,1,South,Consumer
+ORDER-00089,2024-05-04,Second Class,Technology,Phones,14.9,487.7,452.55,2024-05-08,2024-05-10,2,1,East,Home Office
+ORDER-00090,2023-08-19,First Class,Office Supplies,Binders,23.74,120.0,245.91,2023-08-22,2023-08-25,3,1,North,Consumer
+ORDER-00091,2023-02-10,Standard Class,Furniture,Bookcases,42.96,441.2,960.49,2023-02-14,2023-02-14,0,0,East,Consumer
+ORDER-00092,2023-01-28,Same Day,Technology,Copiers,15.59,167.5,281.03,2023-01-29,2023-01-29,0,0,East,Home Office
+ORDER-00093,2023-05-15,Standard Class,Furniture,Furnishings,10.04,60.9,35.75,2023-05-16,2023-05-16,0,0,North,Consumer
+ORDER-00094,2023-07-20,Same Day,Office Supplies,Pens,6.89,435.7,309.69,2023-07-21,2023-07-24,3,1,South,Home Office
+ORDER-00095,2023-02-02,Standard Class,Office Supplies,Pens,15.24,319.9,258.11,2023-02-09,2023-02-10,1,1,East,Home Office
+ORDER-00096,2023-02-17,Standard Class,Office Supplies,Pens,39.11,86.5,181.19,2023-02-24,2023-02-27,3,1,North,Consumer
+ORDER-00097,2024-05-17,Standard Class,Furniture,Bookcases,23.85,217.8,266.48,2024-05-18,2024-05-19,1,1,South,Consumer
+ORDER-00098,2024-02-11,Standard Class,Office Supplies,Storage,11.76,147.2,97.07,2024-02-22,2024-02-25,3,1,East,Consumer
+ORDER-00099,2023-04-09,Standard Class,Technology,Accessories,8.73,369.7,166.76,2023-04-16,2023-04-19,3,1,East,Consumer
+ORDER-00100,2024-04-06,Standard Class,Office Supplies,Paper,16.97,229.4,209.29,2024-04-07,2024-04-10,3,1,East,Consumer
+ORDER-00101,2023-01-05,First Class,Office Supplies,Pens,47.03,494.7,1879.65,2023-01-07,2023-01-09,2,1,South,Corporate
+ORDER-00102,2023-08-06,Second Class,Office Supplies,Binders,17.48,32.1,51.94,2023-08-13,2023-08-13,0,0,East,Consumer
+ORDER-00103,2024-05-17,Standard Class,Furniture,Bookcases,49.41,180.7,461.91,2024-05-23,2024-05-23,0,0,South,Corporate
+ORDER-00104,2024-02-02,Second Class,Office Supplies,Pens,24.52,243.5,370.22,2024-02-08,2024-02-09,1,1,West,Home Office
+ORDER-00105,2024-01-28,First Class,Technology,Phones,9.37,254.1,203.15,2024-01-30,2024-01-30,0,0,East,Consumer
+ORDER-00106,2023-07-26,Standard Class,Furniture,Chairs,44.61,161.4,367.06,2023-07-31,2023-08-01,1,1,West,Consumer
+ORDER-00107,2023-01-15,Standard Class,Furniture,Chairs,23.29,366.0,436.32,2023-01-21,2023-01-26,5,1,North,Consumer
+ORDER-00108,2024-04-05,Standard Class,Furniture,Bookcases,35.63,438.0,788.11,2024-04-08,2024-04-10,2,1,East,Home Office
+ORDER-00109,2023-08-29,Standard Class,Office Supplies,Pens,49.19,469.7,1172.55,2023-08-30,2023-09-01,2,1,North,Corporate
+ORDER-00110,2023-04-06,Second Class,Technology,Copiers,2.98,403.5,90.87,2023-04-14,2023-04-15,1,1,North,Corporate
+ORDER-00111,2024-04-29,Standard Class,Furniture,Chairs,5.29,426.0,125.73,2024-05-03,2024-05-07,4,1,North,Consumer
+ORDER-00112,2024-02-11,Second Class,Office Supplies,Storage,36.16,277.5,617.98,2024-02-16,2024-02-18,2,1,West,Consumer
+ORDER-00113,2023-08-19,First Class,Furniture,Tables,14.45,413.8,485.17,2023-08-24,2023-08-26,2,1,South,Consumer
+ORDER-00114,2023-06-20,Standard Class,Technology,Machines,9.62,155.2,88.78,2023-06-26,2023-06-29,3,1,West,Consumer
+ORDER-00115,2024-06-24,Second Class,Furniture,Bookcases,2.45,202.2,45.27,2024-06-30,2024-07-01,1,1,West,Home Office
+ORDER-00116,2023-02-05,Standard Class,Office Supplies,Pens,1.58,161.9,24.58,2023-02-12,2023-02-13,1,1,North,Consumer
+ORDER-00117,2024-06-08,Same Day,Technology,Machines,38.84,236.4,926.83,2024-06-09,2024-06-10,1,1,East,Home Office
+ORDER-00118,2023-06-09,Standard Class,Technology,Copiers,7.15,146.4,70.5,2023-06-12,2023-06-12,0,0,South,Consumer
+ORDER-00119,2023-08-31,First Class,Office Supplies,Binders,23.65,481.0,926.2,2023-09-03,2023-09-03,0,0,North,Corporate
+ORDER-00120,2023-03-27,Second Class,Office Supplies,Pens,30.49,159.9,311.02,2023-03-29,2023-03-30,1,1,South,Corporate
+ORDER-00121,2023-01-28,Standard Class,Office Supplies,Binders,21.7,53.5,75.32,2023-02-01,2023-02-03,2,1,West,Consumer
+ORDER-00122,2023-12-06,Second Class,Furniture,Furnishings,1.84,265.8,49.2,2023-12-11,2023-12-12,1,1,South,Consumer
+ORDER-00123,2023-11-27,Same Day,Furniture,Furnishings,39.28,33.3,138.68,2023-11-28,2023-11-29,1,1,South,Home Office
+ORDER-00124,2024-05-20,Second Class,Office Supplies,Pens,1.02,59.7,9.95,2024-05-25,2024-05-27,2,1,East,Consumer
+ORDER-00125,2023-12-14,First Class,Furniture,Tables,38.21,113.6,357.31,2023-12-17,2023-12-17,0,0,North,Consumer
+ORDER-00126,2024-04-17,First Class,Furniture,Bookcases,44.72,234.9,847.31,2024-04-24,2024-04-28,4,1,South,Consumer
+ORDER-00127,2023-08-19,Standard Class,Office Supplies,Paper,21.93,219.5,253.53,2023-08-23,2023-08-26,3,1,South,Corporate
+ORDER-00128,2023-07-09,Standard Class,Technology,Phones,27.01,400.8,555.78,2023-07-11,2023-07-11,0,0,West,Home Office
+ORDER-00129,2023-08-13,Second Class,Office Supplies,Paper,24.11,371.0,550.36,2023-08-14,2023-08-16,2,1,West,Corporate
+ORDER-00130,2024-01-20,Standard Class,Furniture,Chairs,19.77,216.0,222.4,2024-01-26,2024-01-26,0,0,South,Home Office
+ORDER-00131,2024-01-12,First Class,Furniture,Bookcases,44.43,170.2,623.59,2024-01-15,2024-01-16,1,1,North,Corporate
+ORDER-00132,2023-10-10,Same Day,Technology,Phones,44.75,161.7,728.93,2023-10-11,2023-10-13,2,1,South,Consumer
+ORDER-00133,2023-09-16,Standard Class,Furniture,Tables,17.12,388.1,342.43,2023-09-23,2023-09-25,2,1,South,Corporate
+ORDER-00134,2023-12-25,Standard Class,Furniture,Furnishings,30.95,30.8,63.45,2023-12-31,2024-01-05,5,1,East,Corporate
+ORDER-00135,2024-03-31,First Class,Office Supplies,Storage,46.38,11.3,58.43,2024-04-01,2024-04-03,2,1,North,Home Office
+ORDER-00136,2024-02-15,Standard Class,Office Supplies,Paper,48.12,398.8,970.75,2024-02-17,2024-02-17,0,0,East,Home Office
+ORDER-00137,2023-11-14,First Class,Office Supplies,Paper,25.69,241.2,500.97,2023-11-15,2023-11-15,0,0,North,Corporate
+ORDER-00138,2023-08-13,Standard Class,Furniture,Chairs,22.91,69.8,94.23,2023-08-16,2023-08-17,1,1,North,Home Office
+ORDER-00139,2023-08-22,Second Class,Furniture,Bookcases,14.3,121.6,110.28,2023-08-25,2023-08-25,0,0,North,Home Office
+ORDER-00140,2024-01-09,Standard Class,Technology,Machines,47.96,466.6,1125.52,2024-01-16,2024-01-18,2,1,East,Home Office
+ORDER-00141,2024-04-16,Second Class,Furniture,Chairs,7.57,430.5,210.29,2024-04-19,2024-04-23,4,1,East,Home Office
+ORDER-00142,2023-08-21,Standard Class,Office Supplies,Binders,29.2,356.3,529.89,2023-08-25,2023-08-27,2,1,East,Home Office
+ORDER-00143,2023-04-23,Second Class,Technology,Phones,14.49,243.7,222.09,2023-04-28,2023-04-29,1,1,West,Corporate
+ORDER-00144,2024-05-11,Standard Class,Office Supplies,Storage,14.31,262.6,200.19,2024-05-17,2024-05-18,1,1,East,Home Office
+ORDER-00145,2024-03-17,First Class,Office Supplies,Paper,20.55,487.7,821.46,2024-03-21,2024-03-21,0,0,West,Consumer
+ORDER-00146,2023-09-25,First Class,Furniture,Furnishings,49.94,483.1,1949.56,2023-09-30,2023-09-30,0,0,West,Corporate
+ORDER-00147,2024-05-24,Standard Class,Office Supplies,Paper,3.22,111.6,29.21,2024-05-25,2024-05-27,2,1,West,Corporate
+ORDER-00148,2024-01-21,Standard Class,Technology,Accessories,29.14,406.5,601.25,2024-01-30,2024-01-31,1,1,South,Corporate
+ORDER-00149,2024-01-22,Standard Class,Technology,Phones,4.59,102.6,33.09,2024-01-28,2024-01-29,1,1,South,Home Office
+ORDER-00150,2023-04-23,Second Class,Furniture,Tables,8.15,110.7,63.16,2023-04-28,2023-05-01,3,1,South,Consumer
+ORDER-00151,2023-03-22,Second Class,Furniture,Tables,22.26,339.7,466.69,2023-03-27,2023-03-29,2,1,West,Home Office
+ORDER-00152,2023-04-23,Second Class,Technology,Phones,25.77,205.5,331.85,2023-04-27,2023-04-27,0,0,West,Corporate
+ORDER-00153,2023-01-02,Standard Class,Technology,Accessories,13.31,466.1,322.52,2023-01-11,2023-01-11,0,0,North,Corporate
+ORDER-00154,2023-08-08,Standard Class,Technology,Copiers,16.16,49.1,50.79,2023-08-13,2023-08-15,2,1,West,Corporate
+ORDER-00155,2023-08-13,Second Class,Furniture,Chairs,4.8,258.2,82.53,2023-08-16,2023-08-16,0,0,South,Corporate
+ORDER-00156,2024-01-20,Standard Class,Office Supplies,Paper,15.51,459.7,368.73,2024-01-26,2024-01-28,2,1,West,Home Office
+ORDER-00157,2024-02-07,Same Day,Technology,Accessories,48.34,452.5,2197.5,2024-02-09,2024-02-11,2,1,West,Consumer
+ORDER-00158,2023-05-10,Standard Class,Office Supplies,Binders,47.26,82.5,208.07,2023-05-11,2023-05-13,2,1,North,Consumer
+ORDER-00159,2023-02-22,Second Class,Office Supplies,Paper,17.08,186.5,206.25,2023-02-28,2023-02-28,0,0,West,Corporate
+ORDER-00160,2024-02-20,Standard Class,Furniture,Bookcases,28.76,311.5,462.44,2024-02-22,2024-02-23,1,1,East,Consumer
+ORDER-00161,2023-09-04,Standard Class,Office Supplies,Binders,45.52,83.9,202.89,2023-09-08,2023-09-10,2,1,North,Corporate
+ORDER-00162,2024-03-14,First Class,Furniture,Tables,0.81,484.2,44.72,2024-03-16,2024-03-16,0,0,West,Corporate
+ORDER-00163,2023-07-22,Second Class,Office Supplies,Storage,40.63,457.8,1125.3,2023-07-24,2023-07-25,1,1,West,Consumer
+ORDER-00164,2023-07-03,Same Day,Technology,Copiers,47.44,87.6,420.94,2023-07-06,2023-07-09,3,1,North,Corporate
+ORDER-00165,2023-05-03,Standard Class,Office Supplies,Pens,5.02,65.0,30.69,2023-05-06,2023-05-07,1,1,West,Consumer
+ORDER-00166,2024-02-05,Standard Class,Technology,Phones,8.49,47.3,28.87,2024-02-09,2024-02-11,2,1,South,Corporate
+ORDER-00167,2023-10-21,First Class,Furniture,Bookcases,48.06,455.2,1765.19,2023-10-22,2023-10-23,1,1,East,Consumer
+ORDER-00168,2023-10-07,Second Class,Office Supplies,Paper,27.11,100.8,180.17,2023-10-08,2023-10-09,1,1,East,Corporate
+ORDER-00169,2023-07-17,Standard Class,Technology,Machines,1.2,211.1,31.4,2023-07-20,2023-07-20,0,0,South,Consumer
+ORDER-00170,2024-05-25,Standard Class,Furniture,Bookcases,13.25,227.2,169.89,2024-05-29,2024-05-29,0,0,West,Corporate
+ORDER-00171,2023-05-24,Standard Class,Furniture,Tables,22.77,301.5,348.42,2023-05-26,2023-05-29,3,1,West,Corporate
+ORDER-00172,2023-07-20,First Class,Office Supplies,Storage,34.8,40.5,132.61,2023-07-26,2023-07-27,1,1,East,Corporate
+ORDER-00173,2023-05-04,Standard Class,Furniture,Chairs,36.79,117.2,230.83,2023-05-11,2023-05-13,2,1,West,Consumer
+ORDER-00174,2023-07-06,Standard Class,Technology,Machines,49.77,466.1,1174.54,2023-07-10,2023-07-11,1,1,East,Home Office
+ORDER-00175,2023-11-22,Standard Class,Technology,Phones,14.73,454.7,340.11,2023-12-01,2023-12-02,1,1,East,Corporate
+ORDER-00176,2024-04-08,Standard Class,Office Supplies,Storage,27.14,391.7,549.46,2024-04-19,2024-04-20,1,1,South,Corporate
+ORDER-00177,2023-12-15,Standard Class,Furniture,Chairs,26.9,14.6,26.82,2023-12-19,2023-12-19,0,0,East,Consumer
+ORDER-00178,2024-02-07,Second Class,Office Supplies,Pens,20.58,166.9,223.65,2024-02-09,2024-02-11,2,1,West,Corporate
+ORDER-00179,2023-12-12,Standard Class,Technology,Accessories,8.87,315.8,145.29,2023-12-20,2023-12-22,2,1,West,Corporate
+ORDER-00180,2024-05-25,First Class,Furniture,Chairs,48.88,141.2,566.84,2024-05-26,2024-05-27,1,1,North,Corporate
+ORDER-00181,2023-05-27,Standard Class,Office Supplies,Storage,42.74,455.2,984.28,2023-05-29,2023-05-29,0,0,West,Corporate
+ORDER-00182,2023-05-28,Second Class,Office Supplies,Paper,25.17,318.8,489.46,2023-05-31,2023-05-31,0,0,North,Home Office
+ORDER-00183,2024-05-03,First Class,Office Supplies,Paper,30.36,40.6,105.22,2024-05-09,2024-05-11,2,1,East,Home Office
+ORDER-00184,2023-12-04,Second Class,Furniture,Chairs,11.75,455.0,332.38,2023-12-06,2023-12-12,6,1,West,Corporate
+ORDER-00185,2024-04-17,Second Class,Technology,Machines,27.42,479.1,795.06,2024-04-23,2024-04-26,3,1,South,Corporate
+ORDER-00186,2023-05-31,Standard Class,Furniture,Tables,34.9,43.5,88.2,2023-06-02,2023-06-03,1,1,South,Corporate
+ORDER-00187,2024-02-19,Standard Class,Furniture,Bookcases,26.0,268.5,363.43,2024-02-24,2024-02-24,0,0,South,Home Office
+ORDER-00188,2023-10-25,Second Class,Technology,Accessories,49.52,155.2,478.54,2023-10-26,2023-10-28,2,1,East,Home Office
+ORDER-00189,2023-09-20,Same Day,Technology,Phones,30.76,199.5,628.84,2023-09-21,2023-09-21,0,0,East,Consumer
+ORDER-00190,2023-05-24,Second Class,Furniture,Furnishings,18.86,93.9,112.24,2023-05-30,2023-05-30,0,0,North,Consumer
+ORDER-00191,2023-12-12,Second Class,Furniture,Tables,38.72,291.1,685.9,2023-12-16,2023-12-16,0,0,South,Corporate
+ORDER-00192,2023-01-02,First Class,Furniture,Chairs,8.94,479.2,352.04,2023-01-07,2023-01-09,2,1,North,Corporate
+ORDER-00193,2023-10-31,Standard Class,Furniture,Bookcases,19.53,254.0,266.76,2023-11-04,2023-11-04,0,0,North,Home Office
+ORDER-00194,2023-09-11,Standard Class,Furniture,Bookcases,17.67,46.0,58.66,2023-09-12,2023-09-16,4,1,West,Corporate
+ORDER-00195,2024-03-28,Second Class,Furniture,Bookcases,21.87,311.9,419.83,2024-03-30,2024-03-31,1,1,West,Corporate
+ORDER-00196,2023-02-06,Same Day,Office Supplies,Paper,39.2,173.4,685.8,2023-02-07,2023-02-10,3,1,South,Home Office
+ORDER-00197,2023-06-09,Standard Class,Technology,Machines,24.47,428.7,542.93,2023-06-15,2023-06-16,1,1,East,Home Office
+ORDER-00198,2023-01-09,Second Class,Office Supplies,Binders,39.8,220.2,544.16,2023-01-15,2023-01-16,1,1,West,Home Office
+ORDER-00199,2023-08-21,Standard Class,Office Supplies,Pens,29.04,100.5,163.75,2023-08-29,2023-08-30,1,1,East,Home Office
+ORDER-00200,2023-04-09,Second Class,Furniture,Chairs,17.43,99.6,121.84,2023-04-10,2023-04-11,1,1,North,Consumer
+ORDER-00201,2023-07-27,Standard Class,Technology,Phones,40.59,385.5,794.58,2023-08-05,2023-08-09,4,1,North,Home Office
+ORDER-00202,2023-05-11,Standard Class,Technology,Accessories,12.3,136.5,91.61,2023-05-16,2023-05-20,4,1,North,Home Office
+ORDER-00203,2024-02-08,First Class,Technology,Copiers,11.61,384.8,369.56,2024-02-12,2024-02-14,2,1,North,Corporate
+ORDER-00204,2023-06-01,Standard Class,Technology,Phones,25.47,106.9,148.56,2023-06-05,2023-06-11,6,1,South,Corporate
+ORDER-00205,2023-02-23,Second Class,Technology,Accessories,13.41,164.2,144.46,2023-02-25,2023-02-26,1,1,North,Corporate
+ORDER-00206,2023-04-30,First Class,Office Supplies,Storage,0.95,235.4,30.97,2023-05-04,2023-05-06,2,1,West,Consumer
+ORDER-00207,2024-02-24,Same Day,Furniture,Furnishings,32.59,471.9,1546.79,2024-02-25,2024-02-25,0,0,North,Home Office
+ORDER-00208,2024-02-26,Standard Class,Office Supplies,Storage,25.8,466.2,611.89,2024-03-03,2024-03-04,1,1,East,Home Office
+ORDER-00209,2023-04-14,Standard Class,Technology,Copiers,22.55,107.4,132.61,2023-04-15,2023-04-16,1,1,West,Consumer
+ORDER-00210,2023-09-11,Standard Class,Technology,Accessories,48.36,182.3,447.77,2023-09-12,2023-09-13,1,1,East,Home Office
+ORDER-00211,2023-08-15,Same Day,Office Supplies,Binders,28.77,79.0,239.11,2023-08-16,2023-08-16,0,0,East,Corporate
+ORDER-00212,2023-04-22,Same Day,Furniture,Chairs,43.24,257.4,1130.15,2023-04-23,2023-04-23,0,0,South,Consumer
+ORDER-00213,2024-05-24,Second Class,Office Supplies,Paper,7.4,233.0,120.87,2024-05-31,2024-06-02,2,1,South,Home Office
+ORDER-00214,2024-04-17,First Class,Technology,Phones,28.68,450.9,1045.72,2024-04-22,2024-04-23,1,1,East,Consumer
+ORDER-00215,2023-04-09,Second Class,Office Supplies,Binders,43.46,465.4,1226.36,2023-04-11,2023-04-13,2,1,East,Consumer
+ORDER-00216,2023-06-02,Second Class,Office Supplies,Paper,29.36,194.9,348.84,2023-06-06,2023-06-07,1,1,North,Home Office
+ORDER-00217,2023-12-04,Standard Class,Furniture,Tables,36.04,248.4,462.73,2023-12-10,2023-12-10,0,0,West,Corporate
+ORDER-00218,2023-06-12,First Class,Office Supplies,Binders,18.92,448.6,690.07,2023-06-17,2023-06-18,1,1,North,Home Office
+ORDER-00219,2023-06-10,Standard Class,Technology,Machines,5.08,404.3,114.37,2023-06-11,2023-06-13,2,1,South,Home Office
+ORDER-00220,2024-02-02,First Class,Office Supplies,Paper,23.17,6.8,30.71,2024-02-07,2024-02-09,2,1,South,Corporate
+ORDER-00221,2023-10-04,First Class,Technology,Machines,20.03,163.4,273.76,2023-10-10,2023-10-11,1,1,North,Home Office
+ORDER-00222,2024-05-18,First Class,Office Supplies,Pens,43.42,213.8,747.97,2024-05-20,2024-05-20,0,0,West,Home Office
+ORDER-00223,2024-01-27,Standard Class,Office Supplies,Pens,12.58,118.7,83.07,2024-02-02,2024-02-03,1,1,East,Home Office
+ORDER-00224,2023-05-15,Standard Class,Furniture,Bookcases,48.35,103.8,263.07,2023-05-23,2023-05-25,2,1,North,Consumer
+ORDER-00225,2023-07-14,Standard Class,Technology,Accessories,47.93,23.7,68.16,2023-07-20,2023-07-22,2,1,South,Consumer
+ORDER-00226,2024-02-05,Standard Class,Office Supplies,Binders,12.76,323.5,224.3,2024-02-13,2024-02-16,3,1,West,Consumer
+ORDER-00227,2023-02-02,Standard Class,Office Supplies,Binders,17.73,134.9,132.72,2023-02-11,2023-02-11,0,0,South,Home Office
+ORDER-00228,2024-04-04,Same Day,Office Supplies,Paper,44.83,30.9,153.87,2024-04-05,2024-04-06,1,1,West,Corporate
+ORDER-00229,2024-04-14,Second Class,Technology,Machines,48.35,119.3,358.13,2024-04-21,2024-04-22,1,1,West,Consumer
+ORDER-00230,2024-01-10,Standard Class,Furniture,Tables,22.45,401.9,462.73,2024-01-11,2024-01-14,3,1,West,Corporate
+ORDER-00231,2023-01-22,Standard Class,Technology,Machines,16.39,426.5,361.21,2023-01-23,2023-01-24,1,1,North,Home Office
+ORDER-00232,2023-02-07,Standard Class,Furniture,Furnishings,26.54,244.1,335.08,2023-02-08,2023-02-10,2,1,North,Consumer
+ORDER-00233,2023-08-18,Second Class,Office Supplies,Storage,34.54,211.0,450.36,2023-08-25,2023-08-25,0,0,North,Home Office
+ORDER-00234,2023-12-31,Second Class,Furniture,Chairs,14.04,489.0,420.69,2024-01-02,2024-01-06,4,1,West,Corporate
+ORDER-00235,2024-03-13,Same Day,Office Supplies,Paper,36.96,104.3,403.86,2024-03-14,2024-03-17,3,1,West,Consumer
+ORDER-00236,2023-10-10,Standard Class,Office Supplies,Pens,3.06,111.6,27.07,2023-10-14,2023-10-15,1,1,South,Consumer
+ORDER-00237,2023-01-27,Same Day,Furniture,Bookcases,2.94,149.5,51.17,2023-01-28,2023-01-28,0,0,East,Consumer
+ORDER-00238,2023-08-14,First Class,Office Supplies,Storage,19.62,90.5,148.5,2023-08-17,2023-08-19,2,1,North,Consumer
+ORDER-00239,2023-10-04,Standard Class,Technology,Copiers,18.0,192.8,178.72,2023-10-10,2023-10-11,1,1,West,Corporate
+ORDER-00240,2023-10-11,Same Day,Furniture,Furnishings,16.12,455.9,746.25,2023-10-12,2023-10-13,1,1,South,Consumer
+ORDER-00241,2024-04-25,Standard Class,Technology,Phones,24.81,309.6,391.87,2024-04-29,2024-05-02,3,1,South,Home Office
+ORDER-00242,2024-03-28,First Class,Office Supplies,Paper,16.38,208.9,279.07,2024-03-31,2024-04-01,1,1,South,Consumer
+ORDER-00243,2024-05-30,Standard Class,Office Supplies,Paper,10.02,467.5,247.02,2024-06-04,2024-06-06,2,1,North,Corporate
+ORDER-00244,2023-07-11,First Class,Furniture,Tables,15.82,29.0,51.9,2023-07-12,2023-07-14,2,1,North,Consumer
+ORDER-00245,2023-02-18,First Class,Furniture,Furnishings,48.76,109.1,431.86,2023-02-20,2023-02-21,1,1,East,Corporate
+ORDER-00246,2024-05-26,First Class,Furniture,Chairs,20.85,285.1,487.46,2024-05-31,2024-05-31,0,0,South,Corporate
+ORDER-00247,2023-01-17,First Class,Furniture,Furnishings,22.51,309.7,573.86,2023-01-18,2023-01-22,4,1,North,Home Office
+ORDER-00248,2023-06-21,Standard Class,Furniture,Bookcases,29.04,24.6,55.51,2023-06-25,2023-06-27,2,1,South,Consumer
+ORDER-00249,2023-08-08,Standard Class,Office Supplies,Pens,49.18,204.5,517.87,2023-08-14,2023-08-15,1,1,West,Consumer
+ORDER-00250,2023-06-07,Standard Class,Technology,Phones,12.46,326.3,211.96,2023-06-14,2023-06-15,1,1,South,Consumer
+ORDER-00251,2024-04-21,Standard Class,Technology,Machines,34.22,350.5,615.45,2024-04-27,2024-04-28,1,1,East,Home Office
+ORDER-00252,2023-02-15,Second Class,Office Supplies,Paper,35.94,320.9,705.96,2023-02-16,2023-02-21,5,1,North,Home Office
+ORDER-00253,2024-01-08,Standard Class,Furniture,Bookcases,30.56,163.7,258.31,2024-01-11,2024-01-13,2,1,West,Corporate
+ORDER-00254,2024-06-01,Same Day,Furniture,Chairs,4.88,51.3,42.8,2024-06-02,2024-06-02,0,0,North,Corporate
+ORDER-00255,2023-04-09,Second Class,Office Supplies,Storage,34.01,216.4,453.0,2023-04-13,2023-04-15,2,1,West,Corporate
+ORDER-00256,2023-02-06,First Class,Furniture,Bookcases,3.67,68.7,39.6,2023-02-07,2023-02-08,1,1,South,Home Office
+ORDER-00257,2023-10-07,Standard Class,Office Supplies,Binders,30.01,474.1,727.23,2023-10-12,2023-10-13,1,1,South,Home Office
+ORDER-00258,2023-12-15,First Class,Office Supplies,Pens,37.11,240.2,727.77,2023-12-16,2023-12-16,0,0,East,Home Office
+ORDER-00259,2024-05-11,Same Day,Office Supplies,Binders,10.94,162.0,193.15,2024-05-12,2024-05-12,0,0,East,Corporate
+ORDER-00260,2023-10-29,Standard Class,Office Supplies,Paper,42.16,384.3,822.28,2023-11-04,2023-11-05,1,1,West,Home Office
+ORDER-00261,2023-06-30,Second Class,Technology,Phones,2.0,251.5,42.76,2023-07-05,2023-07-07,2,1,East,Corporate
+ORDER-00262,2023-04-09,First Class,Technology,Machines,42.27,158.5,553.75,2023-04-14,2023-04-15,1,1,East,Corporate
+ORDER-00263,2023-04-26,Standard Class,Office Supplies,Binders,23.29,406.9,489.05,2023-04-27,2023-04-30,3,1,East,Consumer
+ORDER-00264,2023-07-10,Second Class,Technology,Phones,11.27,434.2,312.06,2023-07-18,2023-07-18,0,0,East,Consumer
+ORDER-00265,2023-09-10,Standard Class,Technology,Accessories,7.12,338.1,138.73,2023-09-14,2023-09-14,0,0,South,Consumer
+ORDER-00266,2023-06-10,Standard Class,Office Supplies,Paper,47.69,28.2,86.89,2023-06-12,2023-06-13,1,1,East,Corporate
+ORDER-00267,2023-09-13,Standard Class,Office Supplies,Pens,4.1,285.3,73.99,2023-09-18,2023-09-18,0,0,South,Consumer
+ORDER-00268,2023-11-19,Standard Class,Office Supplies,Paper,10.36,382.8,210.82,2023-11-23,2023-11-24,1,1,South,Consumer
+ORDER-00269,2023-05-08,Standard Class,Technology,Machines,17.72,72.6,71.82,2023-05-09,2023-05-10,1,1,North,Consumer
+ORDER-00270,2023-01-18,Standard Class,Technology,Copiers,31.2,118.2,199.97,2023-01-23,2023-01-25,2,1,South,Home Office
+ORDER-00271,2023-11-19,Same Day,Furniture,Furnishings,27.47,441.8,1223.0,2023-11-20,2023-11-22,2,1,South,Corporate
+ORDER-00272,2023-10-15,Second Class,Office Supplies,Pens,6.72,15.0,15.29,2023-10-16,2023-10-18,2,1,East,Consumer
+ORDER-00273,2023-06-04,Same Day,Office Supplies,Binders,14.84,377.6,568.93,2023-06-05,2023-06-10,5,1,South,Home Office
+ORDER-00274,2024-05-04,Standard Class,Office Supplies,Storage,12.32,239.5,165.66,2024-05-07,2024-05-08,1,1,West,Home Office
+ORDER-00275,2024-01-21,Standard Class,Furniture,Chairs,11.07,226.2,143.22,2024-01-22,2024-01-23,1,1,East,Home Office
+ORDER-00276,2023-04-14,Second Class,Technology,Accessories,20.85,8.5,25.1,2023-04-15,2023-04-15,0,0,East,Consumer
+ORDER-00277,2024-01-28,Standard Class,Office Supplies,Paper,35.35,410.6,737.83,2024-02-03,2024-02-06,3,1,East,Home Office
+ORDER-00278,2023-09-03,Standard Class,Technology,Copiers,11.26,183.1,118.17,2023-09-06,2023-09-06,0,0,North,Corporate
+ORDER-00279,2023-06-25,Second Class,Technology,Copiers,18.65,272.7,319.26,2023-07-01,2023-07-02,1,1,East,Home Office
+ORDER-00280,2023-02-08,Standard Class,Technology,Phones,19.85,340.3,348.98,2023-02-12,2023-02-12,0,0,South,Home Office
+ORDER-00281,2024-04-21,Second Class,Office Supplies,Paper,48.83,352.8,1044.33,2024-04-24,2024-04-28,4,1,West,Home Office
+ORDER-00282,2024-06-21,Second Class,Office Supplies,Binders,47.76,478.2,1381.07,2024-06-24,2024-06-26,2,1,East,Home Office
+ORDER-00283,2024-02-12,Standard Class,Furniture,Chairs,40.11,268.0,551.31,2024-02-19,2024-02-20,1,1,East,Corporate
+ORDER-00284,2024-06-08,Standard Class,Office Supplies,Storage,12.46,202.9,141.12,2024-06-13,2024-06-15,2,1,West,Consumer
+ORDER-00285,2024-05-20,First Class,Furniture,Furnishings,3.87,477.1,159.49,2024-05-21,2024-05-24,3,1,East,Corporate
+ORDER-00286,2023-02-05,Standard Class,Office Supplies,Paper,16.19,322.8,280.84,2023-02-06,2023-02-07,1,1,North,Corporate
+ORDER-00287,2023-01-20,Standard Class,Furniture,Furnishings,13.71,152.6,110.86,2023-01-24,2023-01-25,1,1,South,Consumer
+ORDER-00288,2023-11-17,Same Day,Furniture,Chairs,25.54,67.6,182.86,2023-11-18,2023-11-18,0,0,West,Home Office
+ORDER-00289,2024-05-26,Standard Class,Furniture,Tables,39.0,422.1,834.38,2024-05-31,2024-06-03,3,1,West,Consumer
+ORDER-00290,2024-02-04,Second Class,Furniture,Furnishings,42.99,184.3,480.64,2024-02-09,2024-02-11,2,1,North,Consumer
+ORDER-00291,2024-04-15,Same Day,Technology,Machines,42.32,331.9,1415.08,2024-04-16,2024-04-18,2,1,South,Corporate
+ORDER-00292,2023-05-23,Standard Class,Technology,Phones,18.3,238.1,226.97,2023-05-24,2023-05-25,1,1,North,Consumer
+ORDER-00293,2023-04-02,Standard Class,Office Supplies,Storage,34.52,103.5,191.23,2023-04-07,2023-04-08,1,1,South,Home Office
+ORDER-00294,2023-12-20,Standard Class,Furniture,Bookcases,15.99,302.8,252.13,2023-12-21,2023-12-25,4,1,North,Corporate
+ORDER-00295,2023-02-20,Standard Class,Furniture,Tables,3.51,35.0,22.04,2023-02-28,2023-02-28,0,0,East,Home Office
+ORDER-00296,2023-07-09,Standard Class,Furniture,Tables,35.23,209.6,381.86,2023-07-12,2023-07-13,1,1,North,Corporate
+ORDER-00297,2023-05-05,Second Class,Furniture,Furnishings,0.99,275.6,23.32,2023-05-07,2023-05-08,1,1,West,Home Office
+ORDER-00298,2023-05-30,Standard Class,Technology,Machines,20.75,220.8,245.33,2023-06-08,2023-06-09,1,1,West,Consumer
+ORDER-00299,2023-11-10,Second Class,Furniture,Bookcases,16.8,375.6,385.09,2023-11-16,2023-11-18,2,1,West,Consumer
+ORDER-00300,2023-12-08,Same Day,Office Supplies,Pens,34.82,414.8,1461.92,2023-12-10,2023-12-11,1,1,North,Consumer
+ORDER-00301,2023-11-01,First Class,Furniture,Furnishings,38.43,386.8,1208.15,2023-11-06,2023-11-10,4,1,West,Home Office
+ORDER-00302,2023-02-23,Second Class,Furniture,Furnishings,15.55,24.2,32.42,2023-02-28,2023-03-01,1,1,West,Corporate
+ORDER-00303,2024-03-19,Standard Class,Office Supplies,Pens,40.68,101.1,224.53,2024-03-20,2024-03-21,1,1,East,Corporate
+ORDER-00304,2023-09-21,Second Class,Office Supplies,Paper,15.05,270.6,261.25,2023-09-24,2023-09-25,1,1,East,Corporate
+ORDER-00305,2023-02-22,Second Class,Furniture,Bookcases,22.59,467.7,652.76,2023-02-24,2023-02-24,0,0,South,Consumer
+ORDER-00306,2023-01-05,Standard Class,Furniture,Chairs,36.49,418.3,778.18,2023-01-10,2023-01-10,0,0,South,Home Office
+ORDER-00307,2023-04-13,Standard Class,Office Supplies,Binders,34.8,422.1,742.99,2023-04-21,2023-04-22,1,1,South,Corporate
+ORDER-00308,2023-07-15,First Class,Furniture,Tables,49.37,155.1,631.0,2023-07-17,2023-07-20,3,1,North,Home Office
+ORDER-00309,2023-12-16,Standard Class,Furniture,Bookcases,11.65,217.6,134.52,2023-12-20,2023-12-21,1,1,South,Corporate
+ORDER-00310,2023-02-16,Standard Class,Technology,Phones,33.28,238.0,404.23,2023-02-17,2023-02-19,2,1,North,Consumer
+ORDER-00311,2023-09-26,Standard Class,Office Supplies,Pens,30.68,82.9,136.23,2023-10-05,2023-10-08,3,1,North,Home Office
+ORDER-00312,2024-01-05,Standard Class,Office Supplies,Pens,45.8,20.4,56.28,2024-01-09,2024-01-10,1,1,South,Corporate
+ORDER-00313,2023-04-16,First Class,Office Supplies,Paper,8.24,473.7,324.98,2023-04-20,2023-04-23,3,1,South,Corporate
+ORDER-00314,2023-04-30,First Class,Office Supplies,Pens,37.71,124.2,390.39,2023-05-01,2023-05-01,0,0,North,Corporate
+ORDER-00315,2023-02-27,First Class,Office Supplies,Binders,28.63,123.8,302.44,2023-03-02,2023-03-04,2,1,East,Corporate
+ORDER-00316,2023-12-12,Standard Class,Office Supplies,Storage,14.1,46.3,38.97,2023-12-15,2023-12-18,3,1,West,Consumer
+ORDER-00317,2024-04-18,Standard Class,Technology,Machines,23.98,464.6,576.37,2024-04-25,2024-04-27,2,1,West,Corporate
+ORDER-00318,2023-04-27,Standard Class,Furniture,Bookcases,17.02,292.0,267.31,2023-05-07,2023-05-07,0,0,West,Corporate
+ORDER-00319,2023-05-07,Standard Class,Office Supplies,Paper,29.18,335.2,494.87,2023-05-19,2023-05-19,0,0,East,Consumer
+ORDER-00320,2024-01-28,Standard Class,Office Supplies,Paper,44.51,456.2,1025.68,2024-01-31,2024-02-01,1,1,North,Corporate
+ORDER-00321,2023-02-27,First Class,Technology,Accessories,28.68,176.1,421.24,2023-02-28,2023-02-28,0,0,South,Home Office
+ORDER-00322,2024-05-27,Standard Class,Office Supplies,Paper,31.77,312.6,510.74,2024-06-02,2024-06-03,1,1,North,Home Office
+ORDER-00323,2023-04-06,Second Class,Office Supplies,Paper,26.18,24.2,54.7,2023-04-09,2023-04-12,3,1,North,Corporate
+ORDER-00324,2023-04-28,Standard Class,Furniture,Tables,3.03,97.5,30.56,2023-05-05,2023-05-05,0,0,South,Consumer
+ORDER-00325,2024-05-02,Standard Class,Office Supplies,Pens,12.03,416.5,262.98,2024-05-05,2024-05-06,1,1,East,Consumer
+ORDER-00326,2023-08-25,Standard Class,Furniture,Furnishings,24.85,384.6,483.48,2023-08-30,2023-08-31,1,1,West,Consumer
+ORDER-00327,2023-09-29,Same Day,Office Supplies,Binders,15.86,178.6,297.02,2023-09-30,2023-09-30,0,0,West,Corporate
+ORDER-00328,2023-07-08,First Class,Furniture,Bookcases,9.5,191.5,151.27,2023-07-11,2023-07-13,2,1,North,Corporate
+ORDER-00329,2024-03-22,Same Day,Office Supplies,Binders,25.45,269.1,698.92,2024-03-23,2024-03-23,0,0,East,Home Office
+ORDER-00330,2023-09-04,Standard Class,Furniture,Bookcases,16.48,5.1,21.21,2023-09-09,2023-09-10,1,1,West,Consumer
+ORDER-00331,2023-03-17,Standard Class,Office Supplies,Binders,13.28,124.4,96.38,2023-03-18,2023-03-19,1,1,East,Corporate
+ORDER-00332,2023-06-03,Second Class,Technology,Copiers,23.47,108.1,172.18,2023-06-06,2023-06-07,1,1,South,Corporate
+ORDER-00333,2024-03-10,Standard Class,Furniture,Tables,7.1,129.0,57.63,2024-03-18,2024-03-18,0,0,North,Corporate
+ORDER-00334,2023-03-27,First Class,Office Supplies,Pens,46.42,403.9,1516.16,2023-03-31,2023-04-02,2,1,North,Consumer
+ORDER-00335,2023-10-12,Standard Class,Office Supplies,Binders,43.45,143.4,326.54,2023-10-16,2023-10-18,2,1,East,Consumer
+ORDER-00336,2023-08-08,Standard Class,Furniture,Furnishings,35.53,99.8,197.17,2023-08-09,2023-08-12,3,1,West,Home Office
+ORDER-00337,2023-03-10,Standard Class,Technology,Machines,5.76,254.6,89.02,2023-03-12,2023-03-15,3,1,East,Consumer
+ORDER-00338,2023-02-16,Standard Class,Furniture,Chairs,38.91,433.5,850.83,2023-02-23,2023-02-24,1,1,South,Corporate
+ORDER-00339,2023-04-04,First Class,Office Supplies,Pens,40.49,124.5,422.61,2023-04-05,2023-04-06,1,1,West,Home Office
+ORDER-00340,2024-03-28,Standard Class,Office Supplies,Binders,38.5,43.9,99.52,2024-03-30,2024-03-31,1,1,West,Consumer
+ORDER-00341,2023-07-23,Standard Class,Office Supplies,Pens,6.14,181.4,61.58,2023-07-29,2023-07-30,1,1,East,Consumer
+ORDER-00342,2023-08-06,Standard Class,Office Supplies,Storage,32.37,375.1,621.96,2023-08-09,2023-08-09,0,0,South,Consumer
+ORDER-00343,2024-04-18,Standard Class,Furniture,Bookcases,41.8,277.6,598.43,2024-04-19,2024-04-20,1,1,West,Consumer
+ORDER-00344,2024-03-07,First Class,Furniture,Tables,29.08,409.3,965.85,2024-03-13,2024-03-14,1,1,North,Corporate
+ORDER-00345,2023-12-07,First Class,Technology,Copiers,32.5,480.0,1258.31,2023-12-10,2023-12-10,0,0,South,Consumer
+ORDER-00346,2023-10-16,Same Day,Office Supplies,Binders,23.19,397.4,938.88,2023-10-17,2023-10-19,2,1,West,Corporate
+ORDER-00347,2023-09-11,First Class,Technology,Machines,26.67,303.9,665.14,2023-09-17,2023-09-17,0,0,East,Corporate
+ORDER-00348,2023-12-23,Standard Class,Technology,Machines,2.2,249.2,40.57,2023-12-28,2023-12-28,0,0,West,Corporate
+ORDER-00349,2023-01-23,Second Class,Technology,Machines,32.13,24.8,55.12,2023-01-24,2023-01-25,1,1,North,Home Office
+ORDER-00350,2024-06-05,Standard Class,Office Supplies,Paper,4.53,492.2,120.25,2024-06-07,2024-06-13,6,1,South,Corporate
+ORDER-00351,2023-04-10,Standard Class,Office Supplies,Storage,22.03,194.8,230.65,2023-04-19,2023-04-19,0,0,West,Consumer
+ORDER-00352,2023-06-29,First Class,Technology,Copiers,14.99,80.4,113.51,2023-07-02,2023-07-03,1,1,North,Home Office
+ORDER-00353,2023-08-11,Standard Class,Office Supplies,Paper,27.5,335.0,469.81,2023-08-15,2023-08-15,0,0,West,Consumer
+ORDER-00354,2024-03-17,Same Day,Furniture,Furnishings,7.1,145.7,113.97,2024-03-18,2024-03-18,0,0,West,Corporate
+ORDER-00355,2023-11-21,Standard Class,Technology,Copiers,34.74,295.0,518.58,2023-11-27,2023-12-01,4,1,South,Consumer
+ORDER-00356,2024-05-30,Second Class,Technology,Copiers,39.85,295.5,722.24,2024-06-03,2024-06-05,2,1,East,Home Office
+ORDER-00357,2023-01-16,Second Class,Office Supplies,Pens,8.59,225.6,121.33,2023-01-18,2023-01-19,1,1,East,Home Office
+ORDER-00358,2023-12-02,First Class,Furniture,Tables,5.66,418.9,195.38,2023-12-07,2023-12-09,2,1,North,Consumer
+ORDER-00359,2023-09-15,Second Class,Office Supplies,Paper,7.7,136.2,67.99,2023-09-17,2023-09-19,2,1,North,Consumer
+ORDER-00360,2024-05-11,Second Class,Technology,Copiers,43.92,227.1,613.13,2024-05-14,2024-05-16,2,1,North,Consumer
+ORDER-00361,2023-06-09,Standard Class,Technology,Accessories,26.65,271.2,372.63,2023-06-15,2023-06-16,1,1,South,Home Office
+ORDER-00362,2024-04-19,Second Class,Furniture,Furnishings,23.63,333.5,482.3,2024-04-21,2024-04-21,0,0,East,Corporate
+ORDER-00363,2024-01-15,Standard Class,Furniture,Bookcases,5.78,393.1,132.3,2024-01-20,2024-01-20,0,0,North,Consumer
+ORDER-00364,2024-06-28,First Class,Technology,Accessories,32.65,200.4,531.34,2024-06-29,2024-06-29,0,0,North,Corporate
+ORDER-00365,2024-03-02,Second Class,Office Supplies,Pens,43.47,324.8,857.98,2024-03-09,2024-03-12,3,1,West,Home Office
+ORDER-00366,2023-09-25,Second Class,Office Supplies,Paper,41.5,79.6,217.31,2023-09-27,2023-09-28,1,1,West,Consumer
+ORDER-00367,2024-02-21,Standard Class,Technology,Phones,31.49,466.7,746.23,2024-02-25,2024-02-27,2,1,North,Consumer
+ORDER-00368,2023-06-17,Standard Class,Furniture,Furnishings,4.23,194.6,54.48,2023-06-29,2023-06-30,1,1,West,Home Office
+ORDER-00369,2023-02-12,First Class,Office Supplies,Pens,6.06,366.1,183.69,2023-02-14,2023-02-17,3,1,West,Consumer
+ORDER-00370,2023-10-12,Standard Class,Furniture,Tables,2.94,15.1,19.07,2023-10-13,2023-10-15,2,1,West,Corporate
+ORDER-00371,2024-02-01,Standard Class,Office Supplies,Storage,13.25,106.6,81.96,2024-02-10,2024-02-11,1,1,South,Home Office
+ORDER-00372,2023-01-12,Standard Class,Technology,Copiers,7.22,246.1,105.85,2023-01-16,2023-01-17,1,1,North,Home Office
+ORDER-00373,2023-10-29,Same Day,Office Supplies,Storage,13.37,439.7,596.69,2023-10-30,2023-10-30,0,0,North,Consumer
+ORDER-00374,2023-09-10,First Class,Technology,Accessories,19.56,266.0,427.57,2023-09-13,2023-09-14,1,1,West,Home Office
+ORDER-00375,2024-05-13,Standard Class,Office Supplies,Storage,47.18,465.3,1114.44,2024-05-15,2024-05-18,3,1,South,Consumer
+ORDER-00376,2023-02-04,Standard Class,Office Supplies,Storage,30.71,244.5,395.04,2023-02-06,2023-02-08,2,1,West,Consumer
+ORDER-00377,2023-03-31,Standard Class,Furniture,Furnishings,41.83,247.8,524.17,2023-04-01,2023-04-02,1,1,South,Home Office
+ORDER-00378,2024-02-22,First Class,Office Supplies,Pens,35.66,64.3,200.62,2024-02-28,2024-03-02,3,1,North,Consumer
+ORDER-00379,2023-04-25,Second Class,Office Supplies,Binders,6.07,402.3,156.03,2023-04-29,2023-05-03,4,1,West,Corporate
+ORDER-00380,2023-07-15,Standard Class,Furniture,Chairs,36.93,127.2,248.14,2023-07-19,2023-07-21,2,1,North,Corporate
+ORDER-00381,2024-05-15,Standard Class,Office Supplies,Pens,14.12,450.3,327.26,2024-05-21,2024-05-21,0,0,South,Consumer
+ORDER-00382,2024-05-07,Standard Class,Office Supplies,Paper,32.14,455.9,746.83,2024-05-15,2024-05-16,1,1,East,Corporate
+ORDER-00383,2023-03-16,Second Class,Technology,Phones,17.38,471.9,502.4,2023-03-17,2023-03-17,0,0,South,Consumer
+ORDER-00384,2024-02-17,First Class,Office Supplies,Pens,49.88,262.5,1057.48,2024-02-21,2024-02-26,5,1,East,Corporate
+ORDER-00385,2024-01-11,Standard Class,Technology,Copiers,13.55,340.2,236.05,2024-01-15,2024-01-18,3,1,North,Home Office
+ORDER-00386,2024-02-24,Standard Class,Furniture,Tables,14.32,390.4,286.73,2024-03-03,2024-03-03,0,0,North,Consumer
+ORDER-00387,2023-10-04,Standard Class,Furniture,Tables,46.57,69.9,181.52,2023-10-05,2023-10-09,4,1,West,Consumer
+ORDER-00388,2024-01-29,Same Day,Office Supplies,Storage,1.72,302.5,72.0,2024-01-30,2024-01-30,0,0,East,Consumer
+ORDER-00389,2024-04-01,Standard Class,Office Supplies,Paper,34.99,22.0,55.2,2024-04-06,2024-04-09,3,1,South,Consumer
+ORDER-00390,2023-07-11,First Class,Furniture,Tables,36.4,251.3,741.09,2023-07-12,2023-07-13,1,1,North,Consumer
+ORDER-00391,2023-04-09,Second Class,Technology,Machines,41.9,81.6,216.18,2023-04-11,2023-04-11,0,0,East,Consumer
+ORDER-00392,2023-04-06,Standard Class,Technology,Accessories,48.73,95.5,248.78,2023-04-12,2023-04-14,2,1,South,Home Office
+ORDER-00393,2023-07-09,Standard Class,Office Supplies,Pens,48.79,185.7,472.54,2023-07-10,2023-07-12,2,1,East,Home Office
+ORDER-00394,2023-02-06,Standard Class,Furniture,Tables,3.73,219.1,52.69,2023-02-09,2023-02-09,0,0,South,Corporate
+ORDER-00395,2024-01-04,Second Class,Technology,Phones,41.18,313.5,792.04,2024-01-05,2024-01-06,1,1,South,Consumer
+ORDER-00396,2024-06-08,First Class,Office Supplies,Binders,32.49,41.8,128.27,2024-06-09,2024-06-12,3,1,South,Corporate
+ORDER-00397,2023-10-06,Second Class,Technology,Phones,32.54,254.3,514.6,2023-10-13,2023-10-14,1,1,South,Corporate
+ORDER-00398,2023-08-05,Second Class,Technology,Copiers,6.85,95.4,47.62,2023-08-10,2023-08-10,0,0,East,Home Office
+ORDER-00399,2023-09-30,Standard Class,Technology,Phones,32.68,289.1,477.51,2023-10-09,2023-10-10,1,1,East,Corporate
+ORDER-00400,2023-03-03,Same Day,Office Supplies,Binders,49.13,320.5,1587.0,2023-03-04,2023-03-05,1,1,West,Home Office
+ORDER-00401,2023-12-08,First Class,Furniture,Furnishings,45.64,280.6,1037.5,2023-12-11,2023-12-14,3,1,East,Corporate
+ORDER-00402,2024-02-01,Standard Class,Office Supplies,Pens,22.24,370.5,420.01,2024-02-07,2024-02-09,2,1,East,Consumer
+ORDER-00403,2023-01-19,Same Day,Office Supplies,Binders,2.48,171.1,51.7,2023-01-20,2023-01-20,0,0,West,Corporate
+ORDER-00404,2023-06-26,Second Class,Technology,Copiers,18.43,383.7,440.77,2023-06-28,2023-07-01,3,1,East,Home Office
+ORDER-00405,2024-01-31,Second Class,Furniture,Bookcases,41.41,219.2,556.68,2024-02-02,2024-02-03,1,1,South,Home Office
+ORDER-00406,2024-03-20,First Class,Furniture,Tables,35.22,244.7,699.23,2024-03-21,2024-03-25,4,1,North,Home Office
+ORDER-00407,2023-08-21,First Class,Technology,Accessories,23.24,325.8,620.07,2023-08-23,2023-08-26,3,1,North,Corporate
+ORDER-00408,2023-03-17,Second Class,Technology,Machines,3.23,14.1,17.52,2023-03-20,2023-03-21,1,1,West,Corporate
+ORDER-00409,2023-09-22,Standard Class,Technology,Copiers,21.63,328.7,372.03,2023-09-25,2023-09-26,1,1,East,Home Office
+ORDER-00410,2024-03-30,Standard Class,Technology,Copiers,23.72,311.2,376.43,2024-04-01,2024-04-01,0,0,East,Consumer
+ORDER-00411,2024-01-19,Same Day,Office Supplies,Binders,46.46,158.4,752.05,2024-01-20,2024-01-21,1,1,West,Consumer
+ORDER-00412,2024-05-20,Standard Class,Office Supplies,Paper,32.23,47.5,90.54,2024-05-29,2024-05-30,1,1,North,Corporate
+ORDER-00413,2024-01-02,Standard Class,Technology,Accessories,15.93,50.0,45.69,2024-01-08,2024-01-08,0,0,South,Corporate
+ORDER-00414,2023-05-24,Standard Class,Office Supplies,Pens,26.5,462.0,628.81,2023-05-25,2023-05-30,5,1,East,Home Office
+ORDER-00415,2023-03-10,Standard Class,Office Supplies,Binders,3.77,346.2,76.0,2023-03-19,2023-03-19,0,0,West,Corporate
+ORDER-00416,2023-04-09,Second Class,Furniture,Furnishings,48.64,67.9,208.12,2023-04-14,2023-04-15,1,1,South,Corporate
+ORDER-00417,2024-01-31,Same Day,Office Supplies,Paper,18.32,181.6,344.41,2024-02-01,2024-02-01,0,0,West,Home Office
+ORDER-00418,2023-01-25,Standard Class,Technology,Accessories,24.15,298.3,370.39,2023-01-29,2023-01-29,0,0,West,Home Office
+ORDER-00419,2024-04-13,Standard Class,Furniture,Furnishings,18.09,418.6,388.7,2024-04-21,2024-04-21,0,0,West,Corporate
+ORDER-00420,2024-04-28,Standard Class,Furniture,Bookcases,34.28,26.6,62.71,2024-05-02,2024-05-04,2,1,North,Consumer
+ORDER-00421,2023-05-31,First Class,Office Supplies,Binders,33.28,122.1,331.95,2023-06-05,2023-06-07,2,1,North,Corporate
+ORDER-00422,2023-05-24,Second Class,Furniture,Bookcases,35.91,445.4,979.22,2023-05-26,2023-05-28,2,1,West,Consumer
+ORDER-00423,2023-02-08,Standard Class,Furniture,Furnishings,13.77,9.5,19.86,2023-02-21,2023-02-24,3,1,East,Consumer
+ORDER-00424,2023-04-19,First Class,Office Supplies,Pens,16.13,104.7,142.85,2023-04-20,2023-04-20,0,0,South,Consumer
+ORDER-00425,2023-02-11,First Class,Technology,Machines,6.7,479.7,264.09,2023-02-14,2023-02-17,3,1,East,Home Office
+ORDER-00426,2023-07-05,First Class,Office Supplies,Storage,32.95,308.6,827.34,2023-07-08,2023-07-10,2,1,North,Home Office
+ORDER-00427,2024-02-02,Same Day,Furniture,Furnishings,2.47,134.5,47.72,2024-02-04,2024-02-05,1,1,South,Home Office
+ORDER-00428,2023-08-11,Standard Class,Furniture,Tables,30.09,38.2,63.27,2023-08-13,2023-08-14,1,1,West,Corporate
+ORDER-00429,2023-05-13,First Class,Office Supplies,Pens,43.55,19.0,74.84,2023-05-17,2023-05-19,2,1,East,Home Office
+ORDER-00430,2023-06-12,Standard Class,Office Supplies,Pens,44.6,126.1,298.13,2023-06-19,2023-06-20,1,1,East,Home Office
+ORDER-00431,2023-08-03,First Class,Technology,Phones,22.73,441.3,808.2,2023-08-04,2023-08-05,1,1,West,Corporate
+ORDER-00432,2023-08-23,First Class,Office Supplies,Paper,23.24,210.9,409.93,2023-08-27,2023-08-27,0,0,East,Corporate
+ORDER-00433,2023-01-09,First Class,Technology,Phones,4.31,361.6,139.55,2023-01-13,2023-01-15,2,1,North,Consumer
+ORDER-00434,2023-03-15,Second Class,Furniture,Chairs,33.7,459.6,940.83,2023-03-17,2023-03-20,3,1,West,Corporate
+ORDER-00435,2024-05-06,Standard Class,Office Supplies,Pens,41.15,207.0,436.1,2024-05-12,2024-05-12,0,0,East,Corporate
+ORDER-00436,2023-09-10,Second Class,Furniture,Furnishings,12.61,99.7,80.72,2023-09-13,2023-09-14,1,1,West,Home Office
+ORDER-00437,2023-08-18,Same Day,Technology,Machines,21.35,261.0,574.61,2023-08-19,2023-08-19,0,0,South,Consumer
+ORDER-00438,2024-06-02,Same Day,Office Supplies,Binders,42.02,454.5,1916.95,2024-06-03,2024-06-03,0,0,West,Consumer
+ORDER-00439,2023-06-23,Standard Class,Office Supplies,Storage,43.92,403.2,895.07,2023-07-02,2023-07-03,1,1,East,Corporate
+ORDER-00440,2023-06-17,Standard Class,Furniture,Bookcases,12.54,37.6,37.11,2023-06-19,2023-06-20,1,1,North,Home Office
+ORDER-00441,2023-06-19,Standard Class,Furniture,Bookcases,27.75,347.8,491.26,2023-06-23,2023-06-25,2,1,West,Home Office
+ORDER-00442,2024-01-28,First Class,Office Supplies,Pens,10.03,288.1,243.63,2024-01-30,2024-01-31,1,1,West,Home Office
+ORDER-00443,2023-07-13,First Class,Furniture,Tables,5.54,454.2,218.44,2023-07-16,2023-07-17,1,1,East,Home Office
+ORDER-00444,2024-05-31,Standard Class,Office Supplies,Paper,45.6,65.6,161.63,2024-06-01,2024-06-03,2,1,North,Corporate
+ORDER-00445,2023-01-29,Second Class,Furniture,Furnishings,41.12,269.3,683.65,2023-02-03,2023-02-04,1,1,North,Home Office
+ORDER-00446,2023-06-14,First Class,Office Supplies,Pens,38.12,440.3,1360.45,2023-06-15,2023-06-18,3,1,South,Consumer
+ORDER-00447,2024-02-26,First Class,Technology,Copiers,2.91,208.0,58.42,2024-02-28,2024-02-28,0,0,South,Consumer
+ORDER-00448,2023-12-05,Second Class,Technology,Phones,42.26,243.6,628.67,2023-12-11,2023-12-13,2,1,East,Corporate
+ORDER-00449,2024-05-10,Second Class,Technology,Copiers,22.18,39.9,64.45,2024-05-14,2024-05-14,0,0,North,Home Office
+ORDER-00450,2023-12-31,Second Class,Furniture,Furnishings,17.45,142.7,163.8,2024-01-04,2024-01-05,1,1,North,Home Office
+ORDER-00451,2023-12-08,Standard Class,Furniture,Tables,27.55,165.6,237.42,2023-12-10,2023-12-12,2,1,South,Home Office
+ORDER-00452,2024-05-14,Second Class,Office Supplies,Pens,5.02,472.8,161.95,2024-05-15,2024-05-17,2,1,South,Home Office
+ORDER-00453,2024-05-25,Second Class,Office Supplies,Storage,37.95,144.9,344.07,2024-05-27,2024-05-29,2,1,East,Corporate
+ORDER-00454,2023-11-23,First Class,Office Supplies,Pens,29.33,233.1,557.94,2023-11-25,2023-11-25,0,0,North,Home Office
+ORDER-00455,2023-08-05,Second Class,Furniture,Chairs,9.74,337.3,211.79,2023-08-11,2023-08-12,1,1,West,Corporate
+ORDER-00456,2023-10-28,First Class,Furniture,Bookcases,9.82,85.3,77.94,2023-11-02,2023-11-04,2,1,South,Home Office
+ORDER-00457,2023-05-12,Standard Class,Furniture,Bookcases,9.62,245.8,135.5,2023-05-13,2023-05-14,1,1,East,Home Office
+ORDER-00458,2023-03-11,Standard Class,Technology,Accessories,3.32,370.6,75.04,2023-03-14,2023-03-17,3,1,North,Consumer
+ORDER-00459,2023-09-09,Standard Class,Furniture,Chairs,29.6,434.1,648.1,2023-09-16,2023-09-18,2,1,North,Corporate
+ORDER-00460,2024-02-19,Standard Class,Office Supplies,Paper,42.1,315.0,670.73,2024-02-27,2024-02-29,2,1,South,Consumer
+ORDER-00461,2024-03-20,First Class,Furniture,Tables,1.37,336.2,54.82,2024-03-23,2024-03-25,2,1,East,Corporate
+ORDER-00462,2023-07-01,Same Day,Office Supplies,Pens,2.93,67.5,33.22,2023-07-02,2023-07-02,0,0,West,Home Office
+ORDER-00463,2023-06-16,Standard Class,Office Supplies,Storage,28.85,473.2,701.85,2023-06-22,2023-06-24,2,1,South,Home Office
+ORDER-00464,2023-04-01,Standard Class,Technology,Phones,41.07,70.6,151.06,2023-04-06,2023-04-06,0,0,East,Corporate
+ORDER-00465,2024-06-14,First Class,Technology,Phones,16.67,388.5,527.53,2024-06-16,2024-06-17,1,1,North,Consumer
+ORDER-00466,2023-02-08,Standard Class,Office Supplies,Pens,17.81,136.1,129.1,2023-02-10,2023-02-12,2,1,West,Corporate
+ORDER-00467,2023-05-06,Second Class,Technology,Copiers,30.02,467.1,854.65,2023-05-08,2023-05-12,4,1,East,Corporate
+ORDER-00468,2024-03-26,First Class,Technology,Phones,14.07,361.4,417.53,2024-03-30,2024-04-01,2,1,West,Home Office
+ORDER-00469,2023-06-22,Second Class,Technology,Copiers,1.82,378.1,48.65,2023-06-27,2023-06-29,2,1,East,Consumer
+ORDER-00470,2023-08-08,Standard Class,Technology,Machines,36.89,113.4,223.81,2023-08-15,2023-08-18,3,1,East,Corporate
+ORDER-00471,2023-02-27,Standard Class,Furniture,Chairs,31.47,224.3,365.98,2023-03-06,2023-03-09,3,1,East,Consumer
+ORDER-00472,2024-04-20,First Class,Office Supplies,Storage,29.25,310.8,736.39,2024-04-21,2024-04-22,1,1,East,Consumer
+ORDER-00473,2024-03-31,Second Class,Furniture,Furnishings,37.21,386.1,874.2,2024-04-03,2024-04-04,1,1,West,Corporate
+ORDER-00474,2023-12-27,Standard Class,Furniture,Bookcases,33.92,56.5,112.01,2024-01-01,2024-01-03,2,1,South,Consumer
+ORDER-00475,2023-01-01,First Class,Technology,Machines,10.69,481.4,419.77,2023-01-04,2023-01-05,1,1,West,Home Office
+ORDER-00476,2024-01-22,Standard Class,Office Supplies,Pens,17.95,445.7,409.41,2024-01-24,2024-01-24,0,0,East,Home Office
+ORDER-00477,2023-12-14,First Class,Technology,Accessories,6.74,138.8,85.03,2023-12-17,2023-12-17,0,0,West,Home Office
+ORDER-00478,2023-07-09,Standard Class,Technology,Copiers,6.93,412.3,159.06,2023-07-10,2023-07-11,1,1,West,Home Office
+ORDER-00479,2024-05-19,Same Day,Technology,Machines,33.97,261.6,906.36,2024-05-20,2024-05-20,0,0,West,Consumer
+ORDER-00480,2023-07-10,Standard Class,Technology,Accessories,43.0,233.6,512.89,2023-07-15,2023-07-15,0,0,East,Home Office
+ORDER-00481,2024-05-22,Standard Class,Furniture,Bookcases,48.16,160.6,396.17,2024-05-28,2024-05-28,0,0,West,Corporate
+ORDER-00482,2024-01-04,Standard Class,Furniture,Furnishings,31.6,292.6,480.65,2024-01-12,2024-01-13,1,1,North,Home Office
+ORDER-00483,2024-02-13,Standard Class,Office Supplies,Paper,9.61,366.3,196.0,2024-02-20,2024-02-21,1,1,East,Corporate
+ORDER-00484,2023-04-27,First Class,Furniture,Chairs,5.73,208.4,110.59,2023-05-02,2023-05-03,1,1,West,Corporate
+ORDER-00485,2023-05-14,Same Day,Furniture,Bookcases,40.74,316.5,1309.27,2023-05-15,2023-05-16,1,1,North,Home Office
+ORDER-00486,2023-02-27,Standard Class,Office Supplies,Pens,29.15,351.2,526.77,2023-03-01,2023-03-03,2,1,West,Home Office
+ORDER-00487,2023-06-22,Standard Class,Technology,Phones,31.11,357.0,571.32,2023-06-28,2023-06-29,1,1,South,Consumer
+ORDER-00488,2023-05-29,First Class,Office Supplies,Storage,39.18,30.7,107.06,2023-05-30,2023-05-31,1,1,West,Corporate
+ORDER-00489,2023-03-21,First Class,Office Supplies,Storage,35.31,430.6,1227.85,2023-03-26,2023-03-28,2,1,West,Home Office
+ORDER-00490,2023-08-01,Second Class,Office Supplies,Storage,41.81,231.8,588.66,2023-08-03,2023-08-04,1,1,South,Consumer
+ORDER-00491,2023-07-22,Standard Class,Furniture,Bookcases,3.28,134.9,39.46,2023-07-24,2023-07-25,1,1,East,Home Office
+ORDER-00492,2023-08-17,Standard Class,Furniture,Tables,37.5,124.7,252.78,2023-08-18,2023-08-19,1,1,South,Home Office
+ORDER-00493,2023-08-15,Second Class,Technology,Accessories,42.62,244.1,638.56,2023-08-21,2023-08-23,2,1,East,Home Office
+ORDER-00494,2024-06-15,Standard Class,Office Supplies,Binders,14.66,444.0,335.61,2024-06-19,2024-06-20,1,1,South,Corporate
+ORDER-00495,2024-03-16,Second Class,Technology,Accessories,32.2,192.3,378.83,2024-03-19,2024-03-19,0,0,West,Home Office
+ORDER-00496,2024-02-06,Standard Class,Furniture,Tables,16.05,376.1,310.8,2024-02-09,2024-02-09,0,0,West,Consumer
+ORDER-00497,2023-02-16,First Class,Technology,Copiers,47.92,52.9,211.63,2023-02-17,2023-02-18,1,1,East,Home Office
+ORDER-00498,2023-08-21,Standard Class,Office Supplies,Pens,2.15,240.6,40.07,2023-08-23,2023-08-25,2,1,East,Home Office
+ORDER-00499,2023-11-01,Second Class,Office Supplies,Binders,29.2,495.9,887.99,2023-11-05,2023-11-05,0,0,North,Consumer
+ORDER-00500,2024-06-09,Standard Class,Office Supplies,Pens,8.74,386.4,174.58,2024-06-14,2024-06-17,3,1,North,Consumer
+ORDER-00501,2023-05-23,Second Class,Technology,Copiers,35.75,109.2,239.25,2023-05-26,2023-05-27,1,1,West,Corporate
+ORDER-00502,2024-02-19,Standard Class,Office Supplies,Binders,9.21,253.2,130.6,2024-02-20,2024-02-23,3,1,West,Corporate
+ORDER-00503,2024-05-27,Second Class,Office Supplies,Storage,12.15,120.6,97.18,2024-06-03,2024-06-05,2,1,North,Corporate
+ORDER-00504,2024-01-08,Second Class,Technology,Copiers,24.97,207.7,329.38,2024-01-12,2024-01-13,1,1,North,Corporate
+ORDER-00505,2023-09-16,Second Class,Technology,Machines,45.78,391.1,1084.18,2023-09-21,2023-09-23,2,1,East,Consumer
+ORDER-00506,2024-04-15,Second Class,Office Supplies,Pens,10.98,386.8,264.17,2024-04-19,2024-04-22,3,1,South,Home Office
+ORDER-00507,2023-01-12,Second Class,Technology,Copiers,7.64,117.9,63.09,2023-01-14,2023-01-15,1,1,East,Home Office
+ORDER-00508,2023-11-26,First Class,Office Supplies,Binders,38.07,461.5,1412.72,2023-11-27,2023-11-28,1,1,North,Home Office
+ORDER-00509,2023-12-24,Standard Class,Furniture,Bookcases,25.28,298.3,390.77,2023-12-30,2023-12-31,1,1,West,Corporate
+ORDER-00510,2024-02-12,First Class,Office Supplies,Paper,45.63,193.1,712.42,2024-02-13,2024-02-14,1,1,North,Consumer
+ORDER-00511,2024-01-08,Standard Class,Technology,Phones,7.76,253.5,109.73,2024-01-09,2024-01-10,1,1,West,Consumer
+ORDER-00512,2023-01-08,Standard Class,Technology,Accessories,32.47,304.5,506.27,2023-01-12,2023-01-14,2,1,West,Consumer
+ORDER-00513,2023-05-02,Standard Class,Office Supplies,Storage,12.03,282.1,174.99,2023-05-06,2023-05-06,0,0,West,Home Office
+ORDER-00514,2023-12-14,Standard Class,Office Supplies,Storage,8.26,245.8,106.77,2023-12-20,2023-12-21,1,1,West,Corporate
+ORDER-00515,2023-03-31,First Class,Furniture,Furnishings,34.33,254.9,712.86,2023-04-05,2023-04-07,2,1,South,Consumer
+ORDER-00516,2023-11-12,First Class,Technology,Phones,29.89,92.3,236.15,2023-11-15,2023-11-15,0,0,North,Corporate
+ORDER-00517,2023-06-27,First Class,Technology,Machines,37.86,407.3,1252.76,2023-06-29,2023-06-30,1,1,East,Consumer
+ORDER-00518,2024-06-23,Second Class,Office Supplies,Storage,15.82,273.2,267.01,2024-06-27,2024-06-27,0,0,West,Corporate
+ORDER-00519,2023-02-10,Standard Class,Technology,Accessories,22.67,69.9,85.78,2023-02-15,2023-02-15,0,0,West,Consumer
+ORDER-00520,2024-05-16,Standard Class,Technology,Machines,20.57,384.2,400.93,2024-05-24,2024-05-24,0,0,East,Corporate
+ORDER-00521,2023-05-25,Standard Class,Office Supplies,Paper,49.21,466.6,1159.61,2023-06-03,2023-06-06,3,1,East,Consumer
+ORDER-00522,2023-07-20,Standard Class,Furniture,Chairs,14.97,473.9,369.06,2023-07-21,2023-07-21,0,0,West,Consumer
+ORDER-00523,2024-04-05,Standard Class,Office Supplies,Paper,15.09,187.7,159.23,2024-04-06,2024-04-08,2,1,East,Corporate
+ORDER-00524,2023-09-10,Standard Class,Office Supplies,Binders,18.05,72.1,80.31,2023-09-17,2023-09-18,1,1,East,Corporate
+ORDER-00525,2024-01-25,Second Class,Office Supplies,Binders,28.45,261.6,454.68,2024-01-29,2024-01-30,1,1,South,Home Office
+ORDER-00526,2023-09-13,First Class,Office Supplies,Pens,12.99,60.7,75.01,2023-09-17,2023-09-19,2,1,East,Corporate
+ORDER-00527,2024-03-25,Same Day,Technology,Machines,45.81,467.3,2159.36,2024-03-26,2024-03-27,1,1,North,Consumer
+ORDER-00528,2023-01-10,Same Day,Furniture,Tables,13.65,95.9,140.8,2023-01-12,2023-01-13,1,1,North,Consumer
+ORDER-00529,2023-08-30,Second Class,Office Supplies,Paper,44.84,130.1,362.5,2023-09-03,2023-09-04,1,1,North,Corporate
+ORDER-00530,2023-09-08,Standard Class,Office Supplies,Paper,5.62,206.3,77.35,2023-09-09,2023-09-10,1,1,West,Home Office
+ORDER-00531,2023-01-05,Second Class,Office Supplies,Binders,33.0,194.7,401.53,2023-01-11,2023-01-13,2,1,North,Corporate
+ORDER-00532,2023-04-29,First Class,Office Supplies,Binders,45.4,398.4,1463.2,2023-05-04,2023-05-09,5,1,South,Consumer
+ORDER-00533,2024-01-09,Standard Class,Furniture,Tables,8.85,230.9,110.96,2024-01-12,2024-01-12,0,0,North,Consumer
+ORDER-00534,2023-03-06,Standard Class,Furniture,Bookcases,48.43,89.5,227.94,2023-03-15,2023-03-17,2,1,West,Home Office
+ORDER-00535,2023-05-26,First Class,Office Supplies,Paper,22.92,137.3,257.99,2023-06-01,2023-06-03,2,1,South,Corporate
+ORDER-00536,2023-08-12,Standard Class,Office Supplies,Pens,47.31,257.0,622.03,2023-08-18,2023-08-22,4,1,North,Consumer
+ORDER-00537,2023-08-27,Second Class,Furniture,Bookcases,34.0,78.0,165.68,2023-08-31,2023-09-02,2,1,South,Consumer
+ORDER-00538,2023-06-26,Second Class,Technology,Machines,15.43,307.8,302.5,2023-06-29,2023-06-30,1,1,South,Consumer
+ORDER-00539,2023-10-09,Standard Class,Office Supplies,Paper,9.82,285.0,157.15,2023-10-11,2023-10-12,1,1,West,Corporate
+ORDER-00540,2023-03-04,Standard Class,Office Supplies,Paper,15.53,358.8,291.61,2023-03-11,2023-03-12,1,1,West,Corporate
+ORDER-00541,2023-08-05,Standard Class,Technology,Accessories,5.1,469.2,126.76,2023-08-11,2023-08-12,1,1,South,Home Office
+ORDER-00542,2024-04-05,Standard Class,Furniture,Tables,7.62,456.6,179.35,2024-04-06,2024-04-08,2,1,North,Consumer
+ORDER-00543,2023-04-15,Standard Class,Furniture,Furnishings,5.68,473.3,151.37,2023-04-18,2023-04-19,1,1,West,Consumer
+ORDER-00544,2023-04-09,First Class,Technology,Copiers,21.44,126.1,230.29,2023-04-10,2023-04-11,1,1,South,Home Office
+ORDER-00545,2024-05-25,Standard Class,Office Supplies,Binders,39.88,70.1,155.44,2024-05-27,2024-05-28,1,1,East,Consumer
+ORDER-00546,2024-01-20,Second Class,Office Supplies,Binders,7.5,154.6,79.13,2024-01-25,2024-01-28,3,1,East,Home Office
+ORDER-00547,2024-02-09,Standard Class,Technology,Phones,6.95,448.1,168.36,2024-02-15,2024-02-15,0,0,West,Home Office
+ORDER-00548,2024-06-01,Same Day,Technology,Phones,32.35,486.2,1589.06,2024-06-03,2024-06-04,1,1,North,Consumer
+ORDER-00549,2024-04-20,Standard Class,Technology,Accessories,10.26,430.4,232.73,2024-04-23,2024-04-25,2,1,East,Corporate
+ORDER-00550,2024-03-12,Standard Class,Office Supplies,Paper,5.33,59.5,29.88,2024-03-17,2024-03-17,0,0,East,Corporate
+ORDER-00551,2023-01-23,First Class,Office Supplies,Storage,8.76,474.0,349.03,2023-01-25,2023-01-25,0,0,East,Corporate
+ORDER-00552,2024-04-02,First Class,Office Supplies,Binders,46.22,214.6,801.73,2024-04-05,2024-04-07,2,1,North,Corporate
+ORDER-00553,2023-03-24,Standard Class,Furniture,Chairs,41.16,9.6,25.75,2023-03-28,2023-03-28,0,0,North,Consumer
+ORDER-00554,2023-05-25,First Class,Office Supplies,Storage,18.03,224.0,336.07,2023-05-26,2023-05-26,0,0,West,Home Office
+ORDER-00555,2023-03-26,Standard Class,Furniture,Chairs,32.96,27.8,51.75,2023-03-27,2023-03-29,2,1,West,Home Office
+ORDER-00556,2023-03-19,Standard Class,Technology,Phones,27.1,274.2,388.04,2023-03-29,2023-03-30,1,1,East,Consumer
+ORDER-00557,2024-04-01,Standard Class,Office Supplies,Paper,34.02,172.6,309.38,2024-04-06,2024-04-06,0,0,North,Corporate
+ORDER-00558,2023-01-01,Standard Class,Office Supplies,Binders,34.29,239.4,428.68,2023-01-09,2023-01-10,1,1,South,Home Office
+ORDER-00559,2023-02-20,First Class,Office Supplies,Pens,31.62,308.5,794.98,2023-02-21,2023-02-22,1,1,East,Consumer
+ORDER-00560,2024-03-21,Standard Class,Furniture,Chairs,13.67,435.1,303.4,2024-03-26,2024-03-27,1,1,West,Consumer
+ORDER-00561,2024-03-24,Standard Class,Furniture,Furnishings,2.43,332.6,49.21,2024-03-28,2024-03-31,3,1,North,Corporate
+ORDER-00562,2024-05-02,First Class,Office Supplies,Binders,23.05,219.9,422.61,2024-05-06,2024-05-07,1,1,West,Consumer
+ORDER-00563,2023-02-03,First Class,Furniture,Tables,44.6,410.6,1472.53,2023-02-04,2023-02-05,1,1,West,Home Office
+ORDER-00564,2023-12-14,Standard Class,Office Supplies,Storage,28.69,453.3,665.74,2023-12-21,2023-12-24,3,1,North,Home Office
+ORDER-00565,2023-04-05,Second Class,Technology,Phones,41.7,64.3,177.58,2023-04-06,2023-04-06,0,0,East,Consumer
+ORDER-00566,2023-03-13,Standard Class,Technology,Copiers,49.59,268.3,675.2,2023-03-21,2023-03-22,1,1,North,Home Office
+ORDER-00567,2023-06-03,First Class,Office Supplies,Paper,8.6,145.8,110.14,2023-06-05,2023-06-06,1,1,East,Consumer
+ORDER-00568,2023-09-07,Second Class,Furniture,Furnishings,34.74,28.3,72.36,2023-09-09,2023-09-12,3,1,West,Home Office
+ORDER-00569,2024-03-13,Same Day,Technology,Accessories,33.88,335.9,1155.95,2024-03-14,2024-03-15,1,1,North,Corporate
+ORDER-00570,2023-04-28,Standard Class,Technology,Copiers,49.01,432.1,1067.22,2023-05-04,2023-05-05,1,1,South,Home Office
+ORDER-00571,2023-11-02,Standard Class,Furniture,Tables,49.29,85.6,230.08,2023-11-03,2023-11-05,2,1,East,Corporate
+ORDER-00572,2023-09-25,Standard Class,Technology,Machines,34.49,407.1,716.03,2023-09-29,2023-10-01,2,1,South,Corporate
+ORDER-00573,2023-02-23,Standard Class,Furniture,Chairs,12.56,427.4,288.29,2023-02-28,2023-03-02,2,1,East,Consumer
+ORDER-00574,2023-08-24,Standard Class,Technology,Copiers,40.03,457.6,922.23,2023-08-30,2023-09-02,3,1,North,Corporate
+ORDER-00575,2024-01-24,Same Day,Technology,Accessories,5.8,136.3,85.95,2024-01-26,2024-01-27,1,1,South,Home Office
+ORDER-00576,2024-02-05,Standard Class,Furniture,Tables,39.14,452.5,902.94,2024-02-12,2024-02-13,1,1,North,Home Office
+ORDER-00577,2023-10-30,Standard Class,Technology,Accessories,45.55,163.7,390.8,2023-11-02,2023-11-04,2,1,East,Corporate
+ORDER-00578,2023-07-26,First Class,Office Supplies,Paper,19.45,278.4,444.87,2023-07-29,2023-07-29,0,0,East,Consumer
+ORDER-00579,2023-08-17,Standard Class,Technology,Copiers,31.72,30.0,63.29,2023-08-26,2023-08-27,1,1,East,Corporate
+ORDER-00580,2023-03-16,First Class,Office Supplies,Paper,21.79,26.7,64.56,2023-03-18,2023-03-18,0,0,East,Home Office
+ORDER-00581,2024-03-10,Standard Class,Technology,Phones,22.17,361.6,406.48,2024-03-14,2024-03-16,2,1,West,Home Office
+ORDER-00582,2023-04-13,Standard Class,Furniture,Chairs,15.86,225.0,192.03,2023-04-19,2023-04-21,2,1,East,Corporate
+ORDER-00583,2024-02-26,Standard Class,Office Supplies,Storage,38.23,131.9,269.93,2024-03-07,2024-03-11,4,1,South,Corporate
+ORDER-00584,2023-11-02,Standard Class,Furniture,Furnishings,46.84,99.3,243.53,2023-11-03,2023-11-05,2,1,East,Corporate
+ORDER-00585,2023-04-08,Same Day,Technology,Machines,47.07,336.6,1593.91,2023-04-09,2023-04-10,1,1,North,Home Office
+ORDER-00586,2023-12-01,Standard Class,Technology,Copiers,9.15,5.2,19.31,2023-12-03,2023-12-03,0,0,West,Home Office
+ORDER-00587,2024-03-10,Second Class,Technology,Phones,43.8,403.9,1071.49,2024-03-15,2024-03-15,0,0,South,Home Office
+ORDER-00588,2024-03-22,Standard Class,Technology,Phones,37.0,44.2,86.82,2024-04-01,2024-04-02,1,1,West,Consumer
+ORDER-00589,2023-11-04,Standard Class,Furniture,Furnishings,13.02,99.8,84.36,2023-11-10,2023-11-11,1,1,West,Home Office
+ORDER-00590,2023-09-06,First Class,Office Supplies,Paper,3.83,196.2,74.0,2023-09-09,2023-09-09,0,0,West,Home Office
+ORDER-00591,2023-06-15,Standard Class,Furniture,Chairs,13.77,245.0,185.98,2023-06-18,2023-06-22,4,1,North,Consumer
+ORDER-00592,2024-04-25,Second Class,Furniture,Tables,45.65,180.7,512.32,2024-04-30,2024-05-02,2,1,West,Consumer
+ORDER-00593,2023-12-01,Same Day,Furniture,Chairs,31.84,163.8,527.54,2023-12-02,2023-12-05,3,1,West,Consumer
+ORDER-00594,2024-06-25,Second Class,Office Supplies,Binders,36.19,482.1,1054.39,2024-07-01,2024-07-01,0,0,East,Consumer
+ORDER-00595,2023-04-16,Same Day,Furniture,Chairs,13.23,322.6,436.47,2023-04-17,2023-04-18,1,1,North,Consumer
+ORDER-00596,2023-03-22,Standard Class,Furniture,Bookcases,36.11,16.6,39.78,2023-03-30,2023-04-03,4,1,South,Consumer
+ORDER-00597,2023-05-13,Standard Class,Furniture,Furnishings,1.89,217.9,35.47,2023-05-15,2023-05-16,1,1,South,Corporate
+ORDER-00598,2023-05-18,Standard Class,Furniture,Tables,19.08,438.1,432.29,2023-05-20,2023-05-22,2,1,South,Corporate
+ORDER-00599,2023-07-03,First Class,Technology,Machines,31.52,154.2,401.25,2023-07-04,2023-07-05,1,1,North,Corporate
+ORDER-00600,2024-02-05,Same Day,Technology,Accessories,7.73,51.8,48.21,2024-02-06,2024-02-08,2,1,South,Corporate
+ORDER-00601,2023-11-26,Standard Class,Technology,Accessories,41.24,380.4,795.11,2023-11-29,2023-12-02,3,1,North,Home Office
+ORDER-00602,2024-05-22,Second Class,Office Supplies,Binders,12.13,305.0,235.13,2024-05-27,2024-05-28,1,1,East,Consumer
+ORDER-00603,2023-03-10,Standard Class,Furniture,Bookcases,32.79,287.3,483.05,2023-03-13,2023-03-13,0,0,East,Home Office
+ORDER-00604,2024-06-29,Second Class,Technology,Phones,20.56,31.5,45.77,2024-07-04,2024-07-04,0,0,North,Consumer
+ORDER-00605,2023-02-22,Standard Class,Office Supplies,Binders,30.0,74.5,126.49,2023-02-27,2023-02-28,1,1,South,Consumer
+ORDER-00606,2024-03-25,Same Day,Furniture,Bookcases,5.82,313.2,188.38,2024-03-26,2024-03-26,0,0,North,Home Office
+ORDER-00607,2023-07-24,Second Class,Furniture,Tables,1.34,107.9,19.35,2023-07-29,2023-08-03,5,1,North,Corporate
+ORDER-00608,2023-05-06,Standard Class,Furniture,Chairs,45.52,254.5,594.89,2023-05-13,2023-05-14,1,1,West,Home Office
+ORDER-00609,2023-02-12,Standard Class,Furniture,Tables,13.85,274.7,195.53,2023-02-16,2023-02-17,1,1,North,Home Office
+ORDER-00610,2023-04-21,Standard Class,Office Supplies,Pens,41.07,145.3,311.92,2023-04-29,2023-04-30,1,1,West,Consumer
+ORDER-00611,2023-07-02,Standard Class,Office Supplies,Paper,49.97,474.5,1195.56,2023-07-04,2023-07-04,0,0,East,Consumer
+ORDER-00612,2023-04-05,Standard Class,Furniture,Bookcases,10.97,422.0,236.6,2023-04-06,2023-04-08,2,1,West,Consumer
+ORDER-00613,2024-01-09,First Class,Furniture,Chairs,13.63,362.6,403.23,2024-01-10,2024-01-13,3,1,North,Corporate
+ORDER-00614,2024-06-03,Second Class,Technology,Phones,33.31,43.6,106.25,2024-06-05,2024-06-07,2,1,East,Home Office
+ORDER-00615,2023-12-26,Second Class,Furniture,Furnishings,48.29,57.5,179.42,2023-12-29,2023-12-31,2,1,West,Home Office
+ORDER-00616,2023-10-08,Standard Class,Office Supplies,Storage,45.83,248.9,590.31,2023-10-13,2023-10-14,1,1,North,Corporate
+ORDER-00617,2023-07-14,First Class,Technology,Machines,25.39,84.6,184.71,2023-07-18,2023-07-18,0,0,East,Home Office
+ORDER-00618,2023-07-14,First Class,Furniture,Chairs,39.86,489.2,1573.12,2023-07-16,2023-07-18,2,1,West,Home Office
+ORDER-00619,2023-04-03,Standard Class,Furniture,Tables,7.22,83.5,41.02,2023-04-05,2023-04-05,0,0,North,Consumer
+ORDER-00620,2023-03-02,First Class,Office Supplies,Pens,48.88,246.3,972.78,2023-03-03,2023-03-05,2,1,North,Corporate
+ORDER-00621,2023-02-20,Second Class,Office Supplies,Pens,48.24,185.2,544.82,2023-02-21,2023-02-22,1,1,South,Consumer
+ORDER-00622,2024-02-07,Standard Class,Office Supplies,Pens,8.6,321.5,148.4,2024-02-10,2024-02-10,0,0,South,Corporate
+ORDER-00623,2023-01-05,Standard Class,Technology,Machines,15.32,68.9,64.68,2023-01-12,2023-01-12,0,0,West,Consumer
+ORDER-00624,2024-04-10,Standard Class,Furniture,Chairs,5.46,218.0,67.39,2024-04-19,2024-04-21,2,1,West,Home Office
+ORDER-00625,2024-06-17,Standard Class,Office Supplies,Storage,13.95,141.0,106.72,2024-06-20,2024-06-21,1,1,West,Corporate
+ORDER-00626,2024-02-09,Same Day,Office Supplies,Binders,40.89,444.4,1826.22,2024-02-10,2024-02-11,1,1,North,Corporate
+ORDER-00627,2024-05-27,First Class,Furniture,Chairs,19.23,25.1,50.35,2024-06-01,2024-06-03,2,1,West,Consumer
+ORDER-00628,2023-08-21,Second Class,Office Supplies,Pens,4.88,457.3,148.69,2023-08-26,2023-08-28,2,1,North,Corporate
+ORDER-00629,2024-06-07,Standard Class,Furniture,Furnishings,17.44,417.3,381.73,2024-06-14,2024-06-16,2,1,West,Home Office
+ORDER-00630,2023-12-12,Standard Class,Office Supplies,Storage,49.08,152.3,383.05,2023-12-13,2023-12-13,0,0,North,Home Office
+ORDER-00631,2023-02-15,Second Class,Furniture,Tables,31.67,395.7,759.67,2023-02-18,2023-02-21,3,1,North,Home Office
+ORDER-00632,2024-06-29,Second Class,Office Supplies,Binders,21.1,20.5,36.64,2024-07-01,2024-07-02,1,1,South,Consumer
+ORDER-00633,2023-03-19,Standard Class,Office Supplies,Storage,8.74,483.6,229.75,2023-03-23,2023-03-23,0,0,East,Corporate
+ORDER-00634,2023-03-14,Second Class,Technology,Accessories,49.32,265.7,791.41,2023-03-20,2023-03-22,2,1,North,Consumer
+ORDER-00635,2023-09-06,First Class,Furniture,Bookcases,41.13,155.1,525.51,2023-09-08,2023-09-09,1,1,West,Home Office
+ORDER-00636,2023-02-16,Standard Class,Office Supplies,Binders,14.43,184.5,145.27,2023-02-22,2023-02-22,0,0,South,Corporate
+ORDER-00637,2023-05-01,Standard Class,Office Supplies,Binders,3.97,37.9,14.94,2023-05-06,2023-05-06,0,0,West,Home Office
+ORDER-00638,2023-08-02,First Class,Technology,Machines,3.3,494.7,140.42,2023-08-03,2023-08-04,1,1,West,Corporate
+ORDER-00639,2023-08-27,Standard Class,Office Supplies,Storage,6.46,24.4,16.26,2023-08-29,2023-08-30,1,1,North,Corporate
+ORDER-00640,2023-02-25,Standard Class,Office Supplies,Paper,29.25,329.2,499.62,2023-02-26,2023-03-02,4,1,North,Consumer
+ORDER-00641,2023-12-16,Standard Class,Technology,Phones,46.47,224.2,533.16,2023-12-17,2023-12-18,1,1,East,Corporate
+ORDER-00642,2023-04-17,Standard Class,Technology,Machines,25.09,474.7,608.96,2023-04-23,2023-04-26,3,1,North,Home Office
+ORDER-00643,2023-02-17,First Class,Office Supplies,Binders,42.23,126.8,442.29,2023-02-20,2023-02-22,2,1,North,Corporate
+ORDER-00644,2023-12-03,Second Class,Office Supplies,Binders,22.57,268.4,378.06,2023-12-06,2023-12-07,1,1,East,Home Office
+ORDER-00645,2023-01-26,Standard Class,Technology,Phones,35.57,243.8,446.03,2023-02-01,2023-02-02,1,1,West,Consumer
+ORDER-00646,2023-09-14,First Class,Technology,Phones,36.73,352.9,1042.23,2023-09-16,2023-09-19,3,1,East,Home Office
+ORDER-00647,2023-01-08,First Class,Technology,Phones,9.11,38.7,38.23,2023-01-10,2023-01-12,2,1,East,Corporate
+ORDER-00648,2023-09-10,First Class,Office Supplies,Pens,18.38,100.9,156.12,2023-09-15,2023-09-15,0,0,East,Home Office
+ORDER-00649,2023-10-30,Standard Class,Furniture,Bookcases,32.05,111.2,193.4,2023-10-31,2023-10-31,0,0,South,Home Office
+ORDER-00650,2023-02-25,Standard Class,Office Supplies,Paper,4.0,370.4,79.93,2023-03-02,2023-03-03,1,1,West,Corporate
+ORDER-00651,2024-06-09,Same Day,Technology,Accessories,18.4,98.6,194.88,2024-06-10,2024-06-10,0,0,South,Home Office
+ORDER-00652,2024-04-18,First Class,Office Supplies,Paper,26.97,288.9,631.49,2024-04-23,2024-04-24,1,1,South,Corporate
+ORDER-00653,2023-01-28,Standard Class,Office Supplies,Pens,49.81,111.5,296.92,2023-01-30,2023-01-30,0,0,North,Consumer
+ORDER-00654,2023-03-19,Standard Class,Technology,Accessories,23.99,431.5,527.62,2023-03-26,2023-03-29,3,1,East,Home Office
+ORDER-00655,2023-08-04,Standard Class,Office Supplies,Pens,40.89,471.4,973.66,2023-08-11,2023-08-11,0,0,East,Consumer
+ORDER-00656,2024-01-21,Same Day,Technology,Accessories,21.89,261.7,591.71,2024-01-22,2024-01-22,0,0,South,Home Office
+ORDER-00657,2023-12-31,Second Class,Office Supplies,Pens,39.92,179.4,440.96,2024-01-02,2024-01-04,2,1,North,Home Office
+ORDER-00658,2024-06-09,Standard Class,Office Supplies,Binders,29.97,120.9,200.61,2024-06-15,2024-06-15,0,0,North,Consumer
+ORDER-00659,2023-11-08,Standard Class,Office Supplies,Binders,44.39,29.6,71.06,2023-11-13,2023-11-18,5,1,North,Home Office
+ORDER-00660,2023-01-07,Second Class,Technology,Accessories,20.84,137.9,182.03,2023-01-08,2023-01-08,0,0,West,Home Office
+ORDER-00661,2023-01-03,First Class,Furniture,Tables,30.41,328.8,814.9,2023-01-05,2023-01-06,1,1,South,Consumer
+ORDER-00662,2023-12-29,Standard Class,Furniture,Furnishings,31.69,269.1,444.75,2024-01-03,2024-01-04,1,1,West,Home Office
+ORDER-00663,2024-05-22,First Class,Technology,Copiers,21.16,472.3,808.36,2024-05-29,2024-05-30,1,1,North,Corporate
+ORDER-00664,2023-10-01,Same Day,Furniture,Bookcases,7.64,201.2,172.67,2023-10-02,2023-10-02,0,0,North,Home Office
+ORDER-00665,2024-05-20,Standard Class,Office Supplies,Storage,5.13,348.5,103.3,2024-05-24,2024-05-25,1,1,North,Home Office
+ORDER-00666,2023-01-15,Second Class,Office Supplies,Binders,1.33,247.2,36.74,2023-01-19,2023-01-19,0,0,East,Home Office
+ORDER-00667,2023-07-11,Standard Class,Office Supplies,Binders,43.74,258.7,576.74,2023-07-22,2023-07-24,2,1,South,Consumer
+ORDER-00668,2024-04-29,First Class,Office Supplies,Pens,12.21,137.5,142.49,2024-05-02,2024-05-03,1,1,East,Corporate
+ORDER-00669,2023-01-28,Second Class,Furniture,Furnishings,10.97,230.2,170.19,2023-01-31,2023-01-31,0,0,West,Corporate
+ORDER-00670,2023-02-08,Second Class,Office Supplies,Binders,36.93,238.0,546.36,2023-02-11,2023-02-15,4,1,East,Home Office
+ORDER-00671,2023-09-30,First Class,Office Supplies,Binders,16.34,354.8,476.26,2023-10-01,2023-10-02,1,1,South,Consumer
+ORDER-00672,2023-08-19,Standard Class,Office Supplies,Binders,25.55,470.6,606.29,2023-08-21,2023-08-21,0,0,East,Consumer
+ORDER-00673,2023-03-27,Same Day,Furniture,Chairs,8.54,168.0,150.12,2023-03-29,2023-03-30,1,1,North,Corporate
+ORDER-00674,2024-04-18,Second Class,Office Supplies,Storage,48.01,25.9,88.2,2024-04-22,2024-04-24,2,1,West,Consumer
+ORDER-00675,2023-05-06,Standard Class,Furniture,Tables,42.65,250.7,539.97,2023-05-11,2023-05-12,1,1,West,Home Office
+ORDER-00676,2024-06-20,Second Class,Furniture,Chairs,43.26,274.5,723.45,2024-06-23,2024-06-23,0,0,North,Home Office
+ORDER-00677,2023-05-25,First Class,Furniture,Furnishings,20.64,88.4,155.52,2023-05-28,2023-05-29,1,1,North,Consumer
+ORDER-00678,2024-06-08,Standard Class,Furniture,Tables,38.24,381.4,744.95,2024-06-10,2024-06-12,2,1,North,Home Office
+ORDER-00679,2023-07-31,First Class,Technology,Copiers,7.62,492.5,306.06,2023-08-02,2023-08-04,2,1,South,Corporate
+ORDER-00680,2023-01-25,Same Day,Furniture,Chairs,0.93,473.2,56.34,2023-01-26,2023-01-28,2,1,East,Home Office
+ORDER-00681,2024-01-29,Standard Class,Technology,Phones,1.49,102.6,21.33,2024-01-30,2024-01-31,1,1,West,Consumer
+ORDER-00682,2023-03-08,Same Day,Technology,Accessories,29.54,438.3,1309.0,2023-03-09,2023-03-10,1,1,East,Corporate
+ORDER-00683,2023-08-21,Standard Class,Office Supplies,Binders,23.04,353.7,418.54,2023-08-22,2023-08-24,2,1,North,Home Office
+ORDER-00684,2023-04-19,Standard Class,Furniture,Chairs,26.14,229.7,309.78,2023-04-26,2023-04-27,1,1,North,Corporate
+ORDER-00685,2023-05-26,Standard Class,Office Supplies,Pens,0.87,272.6,27.1,2023-06-03,2023-06-03,0,0,East,Consumer
+ORDER-00686,2023-04-21,First Class,Technology,Copiers,21.42,425.6,747.02,2023-04-25,2023-04-27,2,1,West,Home Office
+ORDER-00687,2023-08-16,Second Class,Office Supplies,Storage,36.04,242.7,540.22,2023-08-20,2023-08-20,0,0,South,Home Office
+ORDER-00688,2023-04-21,Standard Class,Furniture,Tables,22.41,189.7,231.54,2023-04-28,2023-04-28,0,0,East,Corporate
+ORDER-00689,2024-04-14,Standard Class,Office Supplies,Pens,36.74,249.2,473.54,2024-04-17,2024-04-20,3,1,North,Home Office
+ORDER-00690,2023-02-03,Second Class,Technology,Machines,12.03,291.7,227.02,2023-02-07,2023-02-08,1,1,North,Home Office
+ORDER-00691,2024-01-04,Standard Class,Technology,Copiers,40.75,98.6,208.42,2024-01-05,2024-01-05,0,0,South,Home Office
+ORDER-00692,2024-02-29,First Class,Furniture,Tables,29.63,450.9,1080.11,2024-03-07,2024-03-10,3,1,East,Home Office
+ORDER-00693,2024-06-01,First Class,Office Supplies,Storage,10.93,338.7,308.44,2024-06-03,2024-06-06,3,1,South,Consumer
+ORDER-00694,2023-10-09,Second Class,Furniture,Furnishings,12.22,318.5,242.37,2023-10-14,2023-10-15,1,1,South,Home Office
+ORDER-00695,2023-11-16,Same Day,Furniture,Furnishings,31.59,54.3,184.46,2023-11-17,2023-11-18,1,1,West,Corporate
+ORDER-00696,2024-03-18,Standard Class,Technology,Copiers,41.58,304.1,641.59,2024-03-23,2024-03-28,5,1,West,Consumer
+ORDER-00697,2023-11-11,Same Day,Furniture,Tables,21.07,64.9,152.06,2023-11-12,2023-11-12,0,0,North,Corporate
+ORDER-00698,2024-01-12,Second Class,Furniture,Furnishings,13.29,44.0,47.14,2024-01-19,2024-01-19,0,0,East,Corporate
+ORDER-00699,2023-10-16,Second Class,Furniture,Chairs,43.42,266.0,704.87,2023-10-19,2023-10-20,1,1,West,Corporate
+ORDER-00700,2024-03-12,Standard Class,Technology,Accessories,33.63,204.4,363.45,2024-03-16,2024-03-17,1,1,North,Consumer
+ORDER-00701,2023-10-04,First Class,Technology,Phones,22.68,296.5,548.86,2023-10-07,2023-10-08,1,1,East,Consumer
+ORDER-00702,2024-05-17,Standard Class,Office Supplies,Paper,24.65,49.2,71.07,2024-05-21,2024-05-22,1,1,North,Consumer
+ORDER-00703,2024-05-30,Standard Class,Technology,Machines,10.61,218.3,125.59,2024-06-04,2024-06-05,1,1,West,Home Office
+ORDER-00704,2023-12-16,Standard Class,Furniture,Furnishings,31.53,91.5,162.67,2023-12-21,2023-12-21,0,0,North,Corporate
+ORDER-00705,2024-03-21,Second Class,Office Supplies,Pens,18.26,493.6,553.24,2024-03-28,2024-03-31,3,1,East,Consumer
+ORDER-00706,2023-12-16,Second Class,Office Supplies,Pens,49.78,282.8,858.67,2023-12-23,2023-12-23,0,0,East,Corporate
+ORDER-00707,2023-05-17,First Class,Furniture,Bookcases,24.27,345.3,678.15,2023-05-22,2023-05-24,2,1,North,Consumer
+ORDER-00708,2023-08-31,First Class,Office Supplies,Binders,24.55,166.1,339.33,2023-09-07,2023-09-08,1,1,East,Consumer
+ORDER-00709,2024-06-26,Standard Class,Technology,Copiers,28.51,51.9,83.1,2024-06-27,2024-06-27,0,0,North,Consumer
+ORDER-00710,2023-02-09,First Class,Furniture,Chairs,45.88,488.1,1807.48,2023-02-10,2023-02-11,1,1,East,Corporate
+ORDER-00711,2023-08-17,Standard Class,Furniture,Bookcases,40.14,146.7,311.91,2023-08-27,2023-08-28,1,1,North,Home Office
+ORDER-00712,2023-08-11,First Class,Furniture,Furnishings,22.83,214.8,408.03,2023-08-12,2023-08-12,0,0,North,Consumer
+ORDER-00713,2023-01-06,First Class,Furniture,Bookcases,36.08,326.7,958.94,2023-01-07,2023-01-10,3,1,North,Consumer
+ORDER-00714,2023-11-18,Second Class,Technology,Accessories,29.52,17.2,43.15,2023-11-19,2023-11-20,1,1,South,Consumer
+ORDER-00715,2024-04-12,First Class,Office Supplies,Binders,24.87,406.1,823.66,2024-04-17,2024-04-18,1,1,East,Home Office
+ORDER-00716,2023-03-16,Standard Class,Office Supplies,Paper,10.02,270.6,146.91,2023-03-24,2023-03-24,0,0,West,Corporate
+ORDER-00717,2023-01-04,Standard Class,Technology,Accessories,23.46,142.7,182.16,2023-01-05,2023-01-05,0,0,North,Corporate
+ORDER-00718,2023-04-28,First Class,Furniture,Bookcases,12.67,35.5,44.87,2023-05-01,2023-05-02,1,1,South,Corporate
+ORDER-00719,2024-05-18,Standard Class,Office Supplies,Storage,45.78,85.4,201.53,2024-05-20,2024-05-21,1,1,West,Corporate
+ORDER-00720,2024-03-16,Standard Class,Office Supplies,Binders,17.1,448.0,394.24,2024-03-22,2024-03-24,2,1,North,Consumer
+ORDER-00721,2023-07-13,Standard Class,Office Supplies,Paper,47.64,344.6,832.76,2023-07-17,2023-07-18,1,1,West,Home Office
+ORDER-00722,2024-01-27,First Class,Technology,Copiers,26.89,128.7,285.71,2024-01-31,2024-01-31,0,0,South,Consumer
+ORDER-00723,2023-01-26,Standard Class,Technology,Phones,31.76,37.5,75.47,2023-01-27,2023-01-29,2,1,West,Home Office
+ORDER-00724,2024-03-10,Standard Class,Office Supplies,Binders,27.38,346.9,481.01,2024-03-15,2024-03-17,2,1,North,Corporate
+ORDER-00725,2023-06-22,First Class,Technology,Accessories,6.9,288.3,167.48,2023-06-28,2023-06-29,1,1,West,Home Office
+ORDER-00726,2023-10-27,First Class,Furniture,Chairs,19.1,205.2,329.77,2023-10-28,2023-10-28,0,0,West,Consumer
+ORDER-00727,2023-11-22,Standard Class,Furniture,Bookcases,5.41,185.0,61.6,2023-11-29,2023-11-30,1,1,North,Consumer
+ORDER-00728,2024-02-14,Standard Class,Furniture,Tables,31.34,112.3,191.55,2024-02-16,2024-02-16,0,0,South,Corporate
+ORDER-00729,2023-04-28,Standard Class,Office Supplies,Storage,22.62,336.5,394.09,2023-04-29,2023-04-29,0,0,South,Consumer
+ORDER-00730,2023-08-13,Standard Class,Office Supplies,Binders,39.01,485.5,966.23,2023-08-19,2023-08-23,4,1,West,Consumer
+ORDER-00731,2024-06-15,Standard Class,Office Supplies,Pens,11.41,92.0,66.45,2024-06-16,2024-06-17,1,1,East,Home Office
+ORDER-00732,2023-04-23,First Class,Technology,Accessories,8.65,300.6,213.24,2023-04-24,2023-04-26,2,1,West,Consumer
+ORDER-00733,2023-05-20,Second Class,Office Supplies,Paper,20.61,215.0,276.16,2023-05-25,2023-05-25,0,0,East,Corporate
+ORDER-00734,2023-01-01,Second Class,Office Supplies,Binders,46.37,226.1,636.2,2023-01-02,2023-01-03,1,1,West,Corporate
+ORDER-00735,2023-03-31,Standard Class,Furniture,Tables,35.67,130.8,252.15,2023-04-02,2023-04-03,1,1,South,Consumer
+ORDER-00736,2023-11-16,First Class,Furniture,Bookcases,21.24,413.4,709.01,2023-11-18,2023-11-19,1,1,West,Corporate
+ORDER-00737,2023-05-19,Standard Class,Office Supplies,Paper,26.1,245.2,330.8,2023-05-20,2023-05-20,0,0,West,Home Office
+ORDER-00738,2024-05-25,Same Day,Office Supplies,Pens,4.67,274.0,136.35,2024-05-26,2024-05-26,0,0,East,Home Office
+ORDER-00739,2023-09-16,Second Class,Technology,Accessories,49.24,155.9,478.29,2023-09-21,2023-09-21,0,0,South,Consumer
+ORDER-00740,2023-01-10,Standard Class,Furniture,Furnishings,33.49,95.0,168.71,2023-01-11,2023-01-13,2,1,East,Consumer
+ORDER-00741,2023-09-18,Second Class,Furniture,Tables,14.63,47.5,61.57,2023-09-21,2023-09-23,2,1,West,Home Office
+ORDER-00742,2023-06-21,Standard Class,Office Supplies,Pens,29.5,358.5,534.37,2023-06-22,2023-06-23,1,1,North,Corporate
+ORDER-00743,2023-01-13,Second Class,Furniture,Furnishings,5.92,102.1,43.19,2023-01-16,2023-01-16,0,0,West,Consumer
+ORDER-00744,2023-06-17,Standard Class,Furniture,Bookcases,48.31,346.6,845.58,2023-06-19,2023-06-20,1,1,West,Consumer
+ORDER-00745,2023-11-17,Standard Class,Technology,Copiers,9.15,198.2,107.84,2023-11-22,2023-11-23,1,1,East,Corporate
+ORDER-00746,2023-11-15,First Class,Furniture,Chairs,32.58,210.8,567.61,2023-11-19,2023-11-21,2,1,North,Consumer
+ORDER-00747,2023-11-25,Standard Class,Office Supplies,Storage,12.65,237.2,156.1,2023-12-02,2023-12-02,0,0,North,Corporate
+ORDER-00748,2024-02-23,First Class,Furniture,Tables,36.02,187.0,544.35,2024-02-25,2024-02-26,1,1,East,Corporate
+ORDER-00749,2023-04-05,Standard Class,Furniture,Bookcases,38.95,54.8,122.89,2023-04-07,2023-04-11,4,1,South,Corporate
+ORDER-00750,2023-11-14,Second Class,Office Supplies,Binders,33.83,158.3,328.32,2023-11-20,2023-11-22,2,1,North,Corporate
+ORDER-00751,2023-08-24,Second Class,Technology,Phones,30.92,333.5,625.7,2023-08-27,2023-08-28,1,1,North,Corporate
+ORDER-00752,2023-11-30,Second Class,Office Supplies,Paper,44.68,334.6,902.33,2023-12-05,2023-12-06,1,1,East,Home Office
+ORDER-00753,2024-01-11,Standard Class,Technology,Machines,4.39,146.7,37.95,2024-01-16,2024-01-19,3,1,South,Corporate
+ORDER-00754,2024-04-03,Standard Class,Furniture,Chairs,16.88,232.8,205.44,2024-04-07,2024-04-07,0,0,South,Home Office
+ORDER-00755,2023-05-17,Standard Class,Technology,Phones,12.79,100.8,70.44,2023-05-25,2023-05-25,0,0,West,Corporate
+ORDER-00756,2024-05-27,Standard Class,Furniture,Tables,49.41,109.1,280.06,2024-06-01,2024-06-04,3,1,West,Consumer
+ORDER-00757,2023-10-23,Second Class,Office Supplies,Paper,19.77,16.4,36.95,2023-10-30,2023-10-31,1,1,East,Home Office
+ORDER-00758,2023-11-16,Same Day,Office Supplies,Paper,36.76,448.9,1660.05,2023-11-17,2023-11-19,2,1,South,Consumer
+ORDER-00759,2023-12-15,First Class,Technology,Copiers,34.39,109.3,316.62,2023-12-17,2023-12-19,2,1,East,Corporate
+ORDER-00760,2023-08-17,First Class,Office Supplies,Paper,11.0,117.6,109.9,2023-08-18,2023-08-20,2,1,West,Corporate
+ORDER-00761,2023-09-27,First Class,Furniture,Bookcases,12.33,143.4,156.34,2023-09-28,2023-09-28,0,0,East,Consumer
+ORDER-00762,2023-10-18,Second Class,Furniture,Chairs,14.42,68.1,68.67,2023-10-22,2023-10-24,2,1,East,Corporate
+ORDER-00763,2023-06-14,Standard Class,Technology,Phones,20.85,321.4,351.31,2023-06-15,2023-06-16,1,1,North,Consumer
+ORDER-00764,2023-01-05,Same Day,Office Supplies,Storage,12.1,42.2,58.11,2023-01-06,2023-01-07,1,1,North,Corporate
+ORDER-00765,2024-01-14,Second Class,Technology,Machines,1.47,71.4,24.77,2024-01-15,2024-01-16,1,1,North,Corporate
+ORDER-00766,2023-03-19,Second Class,Furniture,Bookcases,44.03,324.2,865.11,2023-03-23,2023-03-28,5,1,West,Home Office
+ORDER-00767,2024-02-14,Standard Class,Office Supplies,Paper,48.3,173.1,428.33,2024-02-19,2024-02-22,3,1,East,Consumer
+ORDER-00768,2023-05-12,Standard Class,Furniture,Tables,17.41,355.4,328.63,2023-05-19,2023-05-21,2,1,North,Corporate
+ORDER-00769,2023-02-11,Standard Class,Technology,Machines,17.26,280.9,256.09,2023-02-19,2023-02-20,1,1,North,Consumer
+ORDER-00770,2023-03-30,First Class,Office Supplies,Binders,0.85,131.7,19.44,2023-03-31,2023-04-02,2,1,North,Home Office
+ORDER-00771,2024-02-06,Second Class,Technology,Machines,34.17,327.2,690.07,2024-02-09,2024-02-09,0,0,West,Consumer
+ORDER-00772,2023-10-23,Standard Class,Furniture,Furnishings,41.36,62.6,139.39,2023-10-29,2023-10-31,2,1,West,Home Office
+ORDER-00773,2023-10-22,Same Day,Office Supplies,Paper,7.76,270.5,216.33,2023-10-23,2023-10-24,1,1,East,Consumer
+ORDER-00774,2024-06-09,Standard Class,Office Supplies,Storage,8.4,221.4,112.94,2024-06-15,2024-06-17,2,1,East,Consumer
+ORDER-00775,2024-02-26,Standard Class,Office Supplies,Binders,39.61,137.6,281.53,2024-03-04,2024-03-06,2,1,East,Home Office
+ORDER-00776,2023-01-23,Standard Class,Technology,Machines,31.01,304.0,489.12,2023-01-26,2023-01-26,0,0,North,Corporate
+ORDER-00777,2023-05-23,First Class,Technology,Copiers,2.72,436.3,102.42,2023-05-26,2023-05-27,1,1,South,Corporate
+ORDER-00778,2023-05-25,Same Day,Technology,Phones,31.32,499.5,1580.4,2023-05-26,2023-05-26,0,0,West,Corporate
+ORDER-00779,2023-08-13,Standard Class,Technology,Phones,15.79,305.8,254.3,2023-08-16,2023-08-17,1,1,North,Consumer
+ORDER-00780,2024-05-17,First Class,Furniture,Bookcases,18.75,205.3,327.66,2024-05-22,2024-05-23,1,1,North,Consumer
+ORDER-00781,2023-04-14,Standard Class,Furniture,Bookcases,38.6,116.5,238.14,2023-04-20,2023-04-22,2,1,East,Corporate
+ORDER-00782,2023-02-08,Same Day,Technology,Copiers,40.64,132.3,543.04,2023-02-09,2023-02-10,1,1,East,Consumer
+ORDER-00783,2023-07-17,First Class,Furniture,Furnishings,20.32,242.3,407.94,2023-07-23,2023-07-24,1,1,North,Consumer
+ORDER-00784,2024-01-26,First Class,Technology,Phones,47.38,186.8,715.23,2024-01-29,2024-02-01,3,1,West,Corporate
+ORDER-00785,2023-06-28,Standard Class,Technology,Copiers,20.62,457.3,488.45,2023-07-01,2023-07-01,0,0,West,Home Office
+ORDER-00786,2024-03-23,Same Day,Office Supplies,Storage,38.71,187.3,742.89,2024-03-24,2024-03-24,0,0,North,Consumer
+ORDER-00787,2024-05-14,First Class,Technology,Copiers,24.45,189.9,383.68,2024-05-17,2024-05-19,2,1,South,Consumer
+ORDER-00788,2023-01-15,Standard Class,Office Supplies,Binders,44.93,194.8,454.37,2023-01-16,2023-01-17,1,1,South,Consumer
+ORDER-00789,2023-10-16,First Class,Office Supplies,Binders,45.43,419.1,1530.35,2023-10-17,2023-10-23,6,1,West,Consumer
+ORDER-00790,2024-04-22,Standard Class,Furniture,Chairs,4.83,327.1,91.38,2024-04-23,2024-04-25,2,1,East,Home Office
+ORDER-00791,2023-08-19,First Class,Office Supplies,Storage,46.86,309.0,1169.29,2023-08-22,2023-08-22,0,0,South,Corporate
+ORDER-00792,2024-02-24,Standard Class,Furniture,Tables,41.36,170.4,366.56,2024-02-29,2024-03-03,3,1,South,Consumer
+ORDER-00793,2023-06-06,First Class,Office Supplies,Binders,39.67,409.9,1306.53,2023-06-09,2023-06-09,0,0,East,Corporate
+ORDER-00794,2024-03-16,Second Class,Technology,Machines,10.45,24.0,31.33,2024-03-20,2024-03-21,1,1,South,Consumer
+ORDER-00795,2023-04-07,Standard Class,Technology,Copiers,40.35,436.0,885.82,2023-04-14,2023-04-19,5,1,North,Home Office
+ORDER-00796,2024-02-15,Standard Class,Furniture,Furnishings,42.58,258.8,565.83,2024-02-27,2024-02-28,1,1,South,Corporate
+ORDER-00797,2023-10-16,Standard Class,Office Supplies,Pens,14.81,202.1,154.93,2023-10-23,2023-10-23,0,0,East,Home Office
+ORDER-00798,2023-09-11,Standard Class,Technology,Accessories,47.64,251.1,615.6,2023-09-15,2023-09-20,5,1,North,Consumer
+ORDER-00799,2023-07-15,Standard Class,Furniture,Tables,2.97,335.4,57.43,2023-07-23,2023-07-26,3,1,South,Home Office
+ORDER-00800,2024-06-05,Second Class,Furniture,Tables,7.92,11.3,18.1,2024-06-08,2024-06-08,0,0,West,Home Office
+ORDER-00801,2024-05-31,Standard Class,Furniture,Chairs,27.11,436.4,600.46,2024-06-03,2024-06-05,2,1,North,Consumer
+ORDER-00802,2023-04-28,Standard Class,Office Supplies,Paper,29.0,226.1,343.68,2023-05-05,2023-05-05,0,0,North,Consumer
+ORDER-00803,2023-06-08,First Class,Furniture,Chairs,32.43,174.8,463.32,2023-06-11,2023-06-13,2,1,West,Corporate
+ORDER-00804,2023-08-16,Standard Class,Technology,Machines,1.34,73.4,20.79,2023-08-24,2023-08-24,0,0,West,Consumer
+ORDER-00805,2023-08-04,Same Day,Office Supplies,Binders,48.04,222.5,1078.16,2023-08-05,2023-08-07,2,1,South,Corporate
+ORDER-00806,2023-01-15,First Class,Office Supplies,Binders,2.71,250.7,70.64,2023-01-19,2023-01-19,0,0,South,Home Office
+ORDER-00807,2023-06-06,Second Class,Furniture,Furnishings,7.58,204.8,98.6,2023-06-10,2023-06-10,0,0,East,Home Office
+ORDER-00808,2023-09-18,Second Class,Office Supplies,Paper,1.19,340.9,33.59,2023-09-21,2023-09-21,0,0,East,Corporate
+ORDER-00809,2023-06-06,First Class,Office Supplies,Storage,28.56,213.3,499.83,2023-06-08,2023-06-09,1,1,North,Consumer
+ORDER-00810,2023-02-16,Standard Class,Technology,Phones,46.65,480.9,1127.38,2023-02-25,2023-02-27,2,1,West,Consumer
+ORDER-00811,2023-11-20,Standard Class,Technology,Accessories,33.46,301.6,512.37,2023-11-28,2023-12-03,5,1,West,Home Office
+ORDER-00812,2023-05-10,Standard Class,Office Supplies,Pens,41.22,404.7,853.1,2023-05-11,2023-05-12,1,1,East,Corporate
+ORDER-00813,2024-02-15,First Class,Technology,Phones,1.16,59.1,25.14,2024-02-17,2024-02-17,0,0,North,Home Office
+ORDER-00814,2023-04-05,Standard Class,Technology,Accessories,27.33,201.7,291.72,2023-04-10,2023-04-12,2,1,North,Home Office
+ORDER-00815,2023-10-19,Second Class,Technology,Accessories,23.25,171.7,248.3,2023-10-20,2023-10-22,2,1,East,Consumer
+ORDER-00816,2023-10-10,Same Day,Furniture,Bookcases,25.2,286.9,731.9,2023-10-12,2023-10-12,0,0,East,Corporate
+ORDER-00817,2023-03-10,First Class,Furniture,Tables,4.07,431.3,155.12,2023-03-11,2023-03-11,0,0,East,Home Office
+ORDER-00818,2023-01-11,Second Class,Furniture,Tables,34.38,43.8,97.11,2023-01-14,2023-01-16,2,1,South,Consumer
+ORDER-00819,2023-09-11,Standard Class,Office Supplies,Paper,25.41,40.9,71.19,2023-09-16,2023-09-17,1,1,North,Home Office
+ORDER-00820,2023-05-14,First Class,Office Supplies,Paper,38.37,425.9,1315.71,2023-05-15,2023-05-16,1,1,North,Home Office
+ORDER-00821,2023-01-23,Second Class,Office Supplies,Pens,24.52,110.4,182.42,2023-01-27,2023-01-28,1,1,North,Consumer
+ORDER-00822,2023-12-12,Standard Class,Technology,Copiers,7.89,336.0,144.99,2023-12-20,2023-12-21,1,1,East,Consumer
+ORDER-00823,2023-10-29,Standard Class,Technology,Accessories,32.59,273.7,462.57,2023-10-30,2023-10-30,0,0,East,Corporate
+ORDER-00824,2023-12-29,Same Day,Technology,Phones,9.03,417.3,381.85,2023-12-30,2023-12-30,0,0,East,Home Office
+ORDER-00825,2024-01-31,Second Class,Office Supplies,Pens,43.68,66.9,193.66,2024-02-01,2024-02-02,1,1,East,Corporate
+ORDER-00826,2023-08-06,First Class,Office Supplies,Pens,30.85,69.2,179.84,2023-08-08,2023-08-09,1,1,West,Consumer
+ORDER-00827,2023-05-21,First Class,Furniture,Furnishings,8.28,280.6,200.89,2023-05-23,2023-05-23,0,0,East,Consumer
+ORDER-00828,2023-07-29,Second Class,Furniture,Bookcases,48.14,473.5,1384.75,2023-08-02,2023-08-04,2,1,South,Home Office
+ORDER-00829,2024-04-04,Second Class,Furniture,Tables,26.16,210.4,337.71,2024-04-08,2024-04-08,0,0,West,Corporate
+ORDER-00830,2023-12-22,Standard Class,Office Supplies,Paper,4.11,166.8,45.92,2023-12-27,2023-12-29,2,1,West,Corporate
+ORDER-00831,2023-11-20,Standard Class,Office Supplies,Pens,31.53,305.3,493.71,2023-11-25,2023-11-26,1,1,East,Home Office
+ORDER-00832,2023-05-13,Standard Class,Technology,Machines,13.03,465.6,313.02,2023-05-14,2023-05-16,2,1,North,Home Office
+ORDER-00833,2023-05-07,First Class,Furniture,Chairs,40.28,419.3,1363.38,2023-05-13,2023-05-13,0,0,East,Corporate
+ORDER-00834,2023-04-16,Second Class,Technology,Copiers,40.98,497.8,1233.75,2023-04-22,2023-04-24,2,1,North,Consumer
+ORDER-00835,2024-01-13,First Class,Office Supplies,Storage,48.96,16.2,73.86,2024-01-16,2024-01-18,2,1,East,Consumer
+ORDER-00836,2023-02-20,Standard Class,Furniture,Bookcases,25.34,60.9,92.2,2023-02-25,2023-02-27,2,1,East,Home Office
+ORDER-00837,2023-01-29,Second Class,Office Supplies,Paper,23.02,306.7,438.1,2023-02-03,2023-02-04,1,1,North,Corporate
+ORDER-00838,2024-04-06,Second Class,Furniture,Chairs,37.8,411.2,941.09,2024-04-15,2024-04-16,1,1,North,Corporate
+ORDER-00839,2023-10-23,Second Class,Office Supplies,Paper,7.06,146.2,80.39,2023-10-28,2023-10-29,1,1,North,Corporate
+ORDER-00840,2023-10-24,First Class,Office Supplies,Binders,27.57,123.4,290.11,2023-10-26,2023-10-26,0,0,North,Consumer
+ORDER-00841,2024-02-11,Standard Class,Furniture,Bookcases,27.54,394.6,556.0,2024-02-16,2024-02-16,0,0,South,Consumer
+ORDER-00842,2024-02-09,Second Class,Furniture,Tables,4.93,32.9,21.23,2024-02-13,2024-02-13,0,0,North,Corporate
+ORDER-00843,2023-12-12,Standard Class,Office Supplies,Paper,21.19,187.8,209.63,2023-12-15,2023-12-15,0,0,East,Corporate
+ORDER-00844,2024-02-24,Standard Class,Technology,Machines,42.74,255.4,561.4,2024-02-25,2024-02-26,1,1,East,Home Office
+ORDER-00845,2023-07-01,Standard Class,Office Supplies,Pens,42.88,282.4,620.54,2023-07-09,2023-07-13,4,1,South,Home Office
+ORDER-00846,2023-01-01,Second Class,Technology,Accessories,5.41,365.7,126.65,2023-01-02,2023-01-02,0,0,North,Corporate
+ORDER-00847,2024-01-06,Same Day,Office Supplies,Pens,4.99,180.6,105.19,2024-01-07,2024-01-09,2,1,East,Corporate
+ORDER-00848,2024-03-06,Second Class,Technology,Machines,13.5,308.3,258.51,2024-03-09,2024-03-09,0,0,South,Consumer
+ORDER-00849,2023-11-05,First Class,Technology,Accessories,43.8,294.8,1038.26,2023-11-07,2023-11-07,0,0,East,Corporate
+ORDER-00850,2023-05-17,Second Class,Office Supplies,Paper,6.88,276.1,129.46,2023-05-21,2023-05-22,1,1,South,Home Office
+ORDER-00851,2023-07-21,Second Class,Office Supplies,Binders,36.14,322.0,712.9,2023-07-23,2023-07-25,2,1,South,Consumer
+ORDER-00852,2024-03-11,Standard Class,Technology,Copiers,5.51,133.4,47.91,2024-03-14,2024-03-15,1,1,West,Home Office
+ORDER-00853,2023-11-09,Standard Class,Office Supplies,Pens,31.35,46.9,86.4,2023-11-12,2023-11-13,1,1,West,Home Office
+ORDER-00854,2023-04-27,Standard Class,Office Supplies,Pens,18.13,64.0,77.22,2023-04-28,2023-04-29,1,1,North,Consumer
+ORDER-00855,2023-09-01,Standard Class,Furniture,Bookcases,39.55,116.2,243.71,2023-09-09,2023-09-10,1,1,West,Home Office
+ORDER-00856,2024-06-20,Standard Class,Technology,Phones,12.07,252.6,167.31,2024-06-27,2024-06-29,2,1,South,Corporate
+ORDER-00857,2023-03-16,Standard Class,Technology,Accessories,32.14,421.0,682.51,2023-03-17,2023-03-20,3,1,East,Home Office
+ORDER-00858,2024-01-21,Standard Class,Furniture,Chairs,12.17,352.1,221.74,2024-01-27,2024-01-28,1,1,East,Consumer
+ORDER-00859,2023-07-29,Same Day,Office Supplies,Paper,35.83,395.6,1426.95,2023-07-30,2023-08-02,3,1,North,Consumer
+ORDER-00860,2024-04-19,Standard Class,Office Supplies,Paper,43.75,178.7,404.0,2024-04-26,2024-05-01,5,1,West,Consumer
+ORDER-00861,2024-02-22,Standard Class,Furniture,Bookcases,6.78,205.3,86.25,2024-03-03,2024-03-03,0,0,North,Home Office
+ORDER-00862,2023-12-13,Standard Class,Technology,Copiers,43.4,199.9,443.6,2023-12-14,2023-12-15,1,1,South,Corporate
+ORDER-00863,2024-06-12,Second Class,Furniture,Bookcases,29.88,100.0,189.63,2024-06-16,2024-06-17,1,1,West,Consumer
+ORDER-00864,2023-06-28,Standard Class,Furniture,Tables,6.79,35.3,20.83,2023-07-04,2023-07-04,0,0,North,Corporate
+ORDER-00865,2023-07-01,Standard Class,Office Supplies,Storage,21.66,297.5,331.01,2023-07-09,2023-07-09,0,0,East,Consumer
+ORDER-00866,2023-01-25,Second Class,Technology,Copiers,8.46,494.7,270.34,2023-01-26,2023-01-27,1,1,East,Corporate
+ORDER-00867,2023-06-29,Standard Class,Furniture,Tables,35.17,87.6,168.58,2023-07-05,2023-07-07,2,1,North,Corporate
+ORDER-00868,2024-05-15,Standard Class,Office Supplies,Pens,38.06,28.1,60.81,2024-05-20,2024-05-20,0,0,North,Corporate
+ORDER-00869,2023-06-10,Standard Class,Office Supplies,Pens,5.74,390.9,128.02,2023-06-13,2023-06-13,0,0,North,Consumer
+ORDER-00870,2023-06-26,Standard Class,Furniture,Chairs,25.55,130.0,181.91,2023-06-29,2023-06-29,0,0,South,Home Office
+ORDER-00871,2023-10-12,Standard Class,Furniture,Chairs,40.82,415.7,863.44,2023-10-16,2023-10-19,3,1,South,Home Office
+ORDER-00872,2023-03-04,Standard Class,Office Supplies,Paper,46.84,353.4,834.68,2023-03-08,2023-03-10,2,1,East,Home Office
+ORDER-00873,2023-06-05,First Class,Furniture,Tables,25.92,473.1,992.14,2023-06-08,2023-06-12,4,1,South,Corporate
+ORDER-00874,2024-04-13,Second Class,Technology,Machines,47.54,207.4,598.19,2024-04-19,2024-04-19,0,0,South,Consumer
+ORDER-00875,2023-02-18,Second Class,Technology,Machines,27.02,332.7,556.62,2023-02-19,2023-02-19,0,0,West,Corporate
+ORDER-00876,2023-03-25,Standard Class,Technology,Accessories,20.01,235.1,250.05,2023-03-28,2023-03-28,0,0,South,Consumer
+ORDER-00877,2023-12-27,Same Day,Furniture,Bookcases,42.49,317.1,1359.97,2023-12-28,2023-12-29,1,1,West,Corporate
+ORDER-00878,2023-05-28,Standard Class,Technology,Accessories,24.9,227.6,293.51,2023-05-29,2023-05-31,2,1,South,Consumer
+ORDER-00879,2023-12-08,Standard Class,Office Supplies,Pens,23.86,98.4,125.15,2023-12-12,2023-12-13,1,1,East,Consumer
+ORDER-00880,2024-04-20,Second Class,Office Supplies,Binders,24.77,256.4,387.66,2024-04-23,2024-04-23,0,0,North,Consumer
+ORDER-00881,2023-03-04,Standard Class,Furniture,Tables,42.42,266.6,585.0,2023-03-11,2023-03-12,1,1,East,Corporate
+ORDER-00882,2023-12-26,Standard Class,Furniture,Tables,41.68,406.2,854.52,2023-12-27,2023-12-29,2,1,South,Home Office
+ORDER-00883,2023-11-23,Second Class,Office Supplies,Storage,20.47,369.1,459.23,2023-11-24,2023-11-24,0,0,North,Corporate
+ORDER-00884,2023-05-21,First Class,Office Supplies,Paper,17.0,333.6,473.12,2023-05-26,2023-05-28,2,1,North,Corporate
+ORDER-00885,2023-08-03,Standard Class,Furniture,Tables,24.85,61.1,89.15,2023-08-04,2023-08-05,1,1,North,Consumer
+ORDER-00886,2024-03-10,First Class,Office Supplies,Storage,28.85,361.7,851.75,2024-03-13,2024-03-14,1,1,West,Consumer
+ORDER-00887,2023-11-14,Same Day,Furniture,Chairs,12.3,252.7,316.48,2023-11-15,2023-11-17,2,1,East,Home Office
+ORDER-00888,2023-02-01,Standard Class,Office Supplies,Paper,39.8,447.6,904.23,2023-02-05,2023-02-07,2,1,West,Home Office
+ORDER-00889,2023-10-12,Standard Class,Office Supplies,Binders,24.58,460.3,576.68,2023-10-19,2023-10-20,1,1,North,Consumer
+ORDER-00890,2023-11-01,Standard Class,Technology,Copiers,17.04,32.3,44.1,2023-11-05,2023-11-05,0,0,East,Home Office
+ORDER-00891,2024-03-04,Standard Class,Technology,Copiers,5.79,411.2,124.62,2024-03-05,2024-03-06,1,1,East,Home Office
+ORDER-00892,2024-04-21,Standard Class,Office Supplies,Pens,12.32,23.7,25.62,2024-05-03,2024-05-04,1,1,South,Consumer
+ORDER-00893,2023-10-13,Same Day,Office Supplies,Binders,47.49,186.7,903.62,2023-10-14,2023-10-14,0,0,West,Corporate
+ORDER-00894,2023-05-24,First Class,Office Supplies,Pens,15.6,273.4,354.04,2023-05-26,2023-05-26,0,0,West,Home Office
+ORDER-00895,2024-02-28,Second Class,Technology,Machines,8.86,78.3,54.87,2024-03-03,2024-03-03,0,0,South,Consumer
+ORDER-00896,2023-01-19,Standard Class,Office Supplies,Storage,23.3,374.4,442.63,2023-01-23,2023-01-24,1,1,West,Home Office
+ORDER-00897,2023-01-18,First Class,Furniture,Furnishings,15.7,9.1,18.41,2023-01-23,2023-01-23,0,0,North,Home Office
+ORDER-00898,2024-01-06,Same Day,Furniture,Furnishings,2.24,88.5,34.98,2024-01-07,2024-01-07,0,0,North,Consumer
+ORDER-00899,2023-06-24,First Class,Office Supplies,Paper,16.5,292.5,401.23,2023-06-27,2023-06-27,0,0,West,Home Office
+ORDER-00900,2023-07-13,Standard Class,Office Supplies,Storage,27.43,358.6,511.51,2023-07-17,2023-07-19,2,1,South,Home Office
+ORDER-00901,2024-05-16,Second Class,Technology,Copiers,27.81,458.7,781.07,2024-05-20,2024-05-22,2,1,East,Home Office
+ORDER-00902,2023-04-23,Standard Class,Furniture,Tables,18.15,354.2,333.84,2023-04-27,2023-04-30,3,1,West,Corporate
+ORDER-00903,2023-04-24,Standard Class,Office Supplies,Pens,22.64,337.5,399.91,2023-04-26,2023-04-26,0,0,East,Corporate
+ORDER-00904,2023-08-10,Standard Class,Technology,Machines,48.29,200.2,489.95,2023-08-12,2023-08-13,1,1,South,Home Office
+ORDER-00905,2023-09-21,Second Class,Technology,Phones,19.18,5.6,18.18,2023-09-28,2023-09-29,1,1,East,Consumer
+ORDER-00906,2023-02-24,Second Class,Office Supplies,Storage,13.28,64.5,60.7,2023-03-03,2023-03-04,1,1,South,Home Office
+ORDER-00907,2024-04-02,Standard Class,Office Supplies,Binders,12.55,269.6,175.74,2024-04-05,2024-04-09,4,1,South,Home Office
+ORDER-00908,2023-06-11,Standard Class,Office Supplies,Pens,23.16,339.2,409.25,2023-06-12,2023-06-15,3,1,North,Corporate
+ORDER-00909,2024-01-15,Standard Class,Technology,Accessories,38.1,211.6,415.76,2024-01-20,2024-01-21,1,1,North,Corporate
+ORDER-00910,2023-03-28,Standard Class,Furniture,Tables,10.7,366.7,209.54,2023-04-01,2023-04-02,1,1,South,Corporate
+ORDER-00911,2023-02-24,Standard Class,Technology,Accessories,35.61,263.3,479.97,2023-02-26,2023-02-26,0,0,West,Home Office
+ORDER-00912,2024-04-20,Standard Class,Office Supplies,Pens,1.55,41.7,15.14,2024-04-26,2024-04-27,1,1,North,Home Office
+ORDER-00913,2023-06-27,First Class,Office Supplies,Storage,21.24,100.0,176.66,2023-06-28,2023-06-28,0,0,South,Consumer
+ORDER-00914,2024-01-26,Standard Class,Furniture,Tables,38.91,420.8,833.76,2024-01-31,2024-02-02,2,1,East,Home Office
+ORDER-00915,2023-12-15,Standard Class,Office Supplies,Pens,17.27,363.8,325.63,2023-12-19,2023-12-20,1,1,East,Home Office
+ORDER-00916,2023-01-08,Standard Class,Office Supplies,Paper,28.4,447.9,653.27,2023-01-10,2023-01-12,2,1,West,Corporate
+ORDER-00917,2023-11-09,Same Day,Furniture,Bookcases,10.65,63.2,75.25,2023-11-10,2023-11-10,0,0,East,Corporate
+ORDER-00918,2024-03-18,Second Class,Office Supplies,Paper,37.23,495.2,1114.25,2024-03-25,2024-03-27,2,1,East,Corporate
+ORDER-00919,2023-11-24,Second Class,Technology,Copiers,3.09,108.7,34.84,2023-11-28,2023-11-30,2,1,South,Corporate
+ORDER-00920,2023-02-23,Standard Class,Office Supplies,Storage,42.7,10.8,40.75,2023-02-27,2023-02-28,1,1,East,Corporate
+ORDER-00921,2023-08-27,Second Class,Technology,Accessories,10.31,498.7,320.58,2023-08-28,2023-08-31,3,1,East,Consumer
+ORDER-00922,2023-08-17,Standard Class,Furniture,Furnishings,43.78,144.1,331.34,2023-08-25,2023-08-26,1,1,East,Consumer
+ORDER-00923,2023-02-20,Second Class,Office Supplies,Pens,17.95,335.7,381.54,2023-02-25,2023-03-01,4,1,East,Consumer
+ORDER-00924,2023-09-21,Same Day,Furniture,Tables,36.27,92.5,355.35,2023-09-22,2023-09-27,5,1,South,Corporate
+ORDER-00925,2024-02-22,Second Class,Office Supplies,Paper,16.3,292.2,301.94,2024-02-25,2024-02-28,3,1,East,Corporate
+ORDER-00926,2023-04-06,First Class,Technology,Copiers,45.34,452.5,1657.4,2023-04-07,2023-04-09,2,1,West,Corporate
+ORDER-00927,2023-03-29,First Class,Office Supplies,Binders,6.77,163.5,97.27,2023-03-30,2023-03-31,1,1,North,Consumer
+ORDER-00928,2023-03-19,Standard Class,Furniture,Chairs,9.34,336.8,174.79,2023-03-22,2023-03-25,3,1,West,Corporate
+ORDER-00929,2023-10-15,Same Day,Office Supplies,Paper,24.9,98.0,255.1,2023-10-16,2023-10-17,1,1,North,Consumer
+ORDER-00930,2023-04-30,Standard Class,Office Supplies,Storage,4.56,314.3,91.09,2023-05-01,2023-05-02,1,1,West,Corporate
+ORDER-00931,2024-05-05,Second Class,Office Supplies,Pens,10.2,171.5,111.18,2024-05-07,2024-05-07,0,0,North,Home Office
+ORDER-00932,2024-03-27,Standard Class,Technology,Phones,47.22,109.5,270.07,2024-04-01,2024-04-02,1,1,North,Consumer
+ORDER-00933,2024-05-14,Standard Class,Technology,Accessories,48.84,160.0,404.06,2024-05-18,2024-05-19,1,1,North,Home Office
+ORDER-00934,2023-06-14,Standard Class,Office Supplies,Paper,19.12,93.5,100.46,2023-06-20,2023-06-22,2,1,North,Consumer
+ORDER-00935,2023-07-01,Standard Class,Office Supplies,Paper,46.2,451.4,1050.89,2023-07-07,2023-07-08,1,1,South,Corporate
+ORDER-00936,2024-04-13,Standard Class,Furniture,Furnishings,27.47,201.6,290.79,2024-04-19,2024-04-21,2,1,West,Corporate
+ORDER-00937,2023-01-07,Second Class,Furniture,Furnishings,13.85,126.4,121.38,2023-01-10,2023-01-11,1,1,North,Home Office
+ORDER-00938,2023-11-26,Standard Class,Office Supplies,Binders,35.27,227.0,414.99,2023-12-03,2023-12-05,2,1,West,Corporate
+ORDER-00939,2023-05-31,Standard Class,Office Supplies,Storage,33.12,163.7,279.6,2023-06-05,2023-06-08,3,1,East,Consumer
+ORDER-00940,2023-03-26,Second Class,Office Supplies,Paper,49.46,373.5,1124.37,2023-03-30,2023-03-31,1,1,North,Corporate
+ORDER-00941,2023-05-27,Standard Class,Office Supplies,Paper,13.62,485.8,339.68,2023-06-03,2023-06-04,1,1,West,Corporate
+ORDER-00942,2024-01-16,First Class,Furniture,Furnishings,33.77,221.8,606.84,2024-01-19,2024-01-20,1,1,South,Consumer
+ORDER-00943,2023-10-12,Second Class,Office Supplies,Paper,3.08,431.2,95.05,2023-10-17,2023-10-19,2,1,West,Home Office
+ORDER-00944,2023-03-23,First Class,Furniture,Chairs,6.13,285.1,157.45,2023-03-28,2023-03-29,1,1,North,Home Office
+ORDER-00945,2024-05-28,Second Class,Furniture,Tables,0.69,82.8,15.65,2024-06-03,2024-06-03,0,0,East,Corporate
+ORDER-00946,2024-06-06,Standard Class,Technology,Machines,49.97,346.9,879.7,2024-06-10,2024-06-11,1,1,West,Consumer
+ORDER-00947,2024-01-21,Second Class,Furniture,Chairs,40.21,259.2,634.89,2024-01-24,2024-01-25,1,1,East,Home Office
+ORDER-00948,2024-04-15,Standard Class,Office Supplies,Storage,39.44,327.1,657.46,2024-04-17,2024-04-20,3,1,South,Home Office
+ORDER-00949,2023-04-29,Standard Class,Furniture,Tables,25.73,445.4,579.99,2023-04-30,2023-04-30,0,0,West,Corporate
+ORDER-00950,2024-01-31,First Class,Technology,Machines,15.35,223.0,293.18,2024-02-03,2024-02-04,1,1,West,Consumer
+ORDER-00951,2024-06-15,Standard Class,Office Supplies,Paper,7.99,451.1,197.22,2024-06-19,2024-06-19,0,0,South,Home Office
+ORDER-00952,2023-09-18,First Class,Furniture,Furnishings,14.59,376.6,454.59,2023-09-23,2023-09-25,2,1,South,Corporate
+ORDER-00953,2023-09-13,First Class,Office Supplies,Paper,19.11,246.9,390.53,2023-09-15,2023-09-17,2,1,South,Corporate
+ORDER-00954,2023-08-14,First Class,Technology,Phones,37.94,303.6,938.37,2023-08-16,2023-08-18,2,1,North,Corporate
+ORDER-00955,2023-02-22,Same Day,Technology,Phones,27.21,166.2,464.65,2023-02-23,2023-02-23,0,0,North,Corporate
+ORDER-00956,2024-05-14,Standard Class,Furniture,Tables,4.34,491.9,116.24,2024-05-15,2024-05-17,2,1,West,Home Office
+ORDER-00957,2024-05-20,Standard Class,Technology,Machines,1.39,335.3,30.71,2024-05-21,2024-05-23,2,1,West,Consumer
+ORDER-00958,2023-12-30,Second Class,Technology,Accessories,5.57,26.7,23.64,2023-12-31,2023-12-31,0,0,West,Corporate
+ORDER-00959,2023-10-07,Standard Class,Technology,Machines,20.82,166.7,192.48,2023-10-08,2023-10-09,1,1,East,Corporate
+ORDER-00960,2023-06-07,Second Class,Office Supplies,Binders,46.69,313.5,885.54,2023-06-09,2023-06-11,2,1,South,Home Office
+ORDER-00961,2023-02-28,First Class,Office Supplies,Pens,32.05,32.9,92.06,2023-03-01,2023-03-04,3,1,West,Corporate
+ORDER-00962,2023-05-08,Second Class,Office Supplies,Paper,40.19,16.8,52.02,2023-05-12,2023-05-13,1,1,South,Corporate
+ORDER-00963,2023-04-25,Standard Class,Technology,Phones,23.59,227.8,285.79,2023-04-26,2023-04-27,1,1,North,Consumer
+ORDER-00964,2023-07-28,Standard Class,Office Supplies,Binders,18.4,169.7,165.53,2023-08-05,2023-08-06,1,1,South,Corporate
+ORDER-00965,2024-06-09,Standard Class,Office Supplies,Pens,5.87,222.0,73.97,2024-06-13,2024-06-13,0,0,East,Home Office
+ORDER-00966,2024-06-04,Standard Class,Office Supplies,Paper,43.86,135.0,310.35,2024-06-09,2024-06-10,1,1,East,Consumer
+ORDER-00967,2023-08-25,First Class,Technology,Machines,39.27,86.5,284.78,2023-09-01,2023-09-04,3,1,South,Home Office
+ORDER-00968,2023-10-08,Standard Class,Technology,Accessories,8.82,346.1,158.53,2023-10-16,2023-10-19,3,1,East,Consumer
+ORDER-00969,2023-12-25,Standard Class,Furniture,Chairs,25.86,259.7,342.01,2023-12-27,2024-01-01,5,1,East,Consumer
+ORDER-00970,2023-07-20,Standard Class,Technology,Phones,24.63,104.1,142.84,2023-07-22,2023-07-23,1,1,North,Corporate
+ORDER-00971,2023-10-05,Second Class,Office Supplies,Binders,31.44,163.2,319.84,2023-10-07,2023-10-09,2,1,West,Corporate
+ORDER-00972,2023-08-23,Second Class,Technology,Accessories,47.34,297.9,865.72,2023-08-26,2023-08-28,2,1,East,Corporate
+ORDER-00973,2024-05-08,Standard Class,Office Supplies,Storage,29.2,40.8,74.75,2024-05-14,2024-05-14,0,0,West,Home Office
+ORDER-00974,2023-01-04,Standard Class,Office Supplies,Storage,27.24,78.0,111.39,2023-01-12,2023-01-13,1,1,South,Corporate
+ORDER-00975,2024-03-17,Standard Class,Technology,Phones,2.99,41.3,18.39,2024-03-22,2024-03-22,0,0,South,Corporate
+ORDER-00976,2023-01-29,Standard Class,Furniture,Chairs,3.61,407.1,84.7,2023-02-04,2023-02-08,4,1,East,Consumer
+ORDER-00977,2023-04-19,Second Class,Technology,Accessories,9.77,377.4,227.83,2023-04-23,2023-04-26,3,1,South,Corporate
+ORDER-00978,2023-03-16,Second Class,Office Supplies,Paper,2.11,377.9,66.69,2023-03-20,2023-03-22,2,1,North,Corporate
+ORDER-00979,2023-05-26,Standard Class,Office Supplies,Paper,37.3,359.6,687.73,2023-05-29,2023-06-01,3,1,East,Corporate
+ORDER-00980,2023-05-08,Standard Class,Office Supplies,Binders,36.3,336.3,618.84,2023-05-09,2023-05-10,1,1,East,Corporate
+ORDER-00981,2023-02-11,Same Day,Office Supplies,Paper,7.23,241.1,183.16,2023-02-12,2023-02-12,0,0,East,Consumer
+ORDER-00982,2023-12-22,Standard Class,Office Supplies,Paper,41.89,322.9,681.79,2023-12-29,2023-12-31,2,1,South,Corporate
+ORDER-00983,2023-02-10,Second Class,Furniture,Bookcases,8.16,24.0,21.2,2023-02-14,2023-02-15,1,1,South,Consumer
+ORDER-00984,2023-02-03,Standard Class,Furniture,Furnishings,15.41,312.6,254.63,2023-02-08,2023-02-10,2,1,East,Home Office
+ORDER-00985,2023-01-17,Standard Class,Furniture,Tables,12.82,390.0,261.3,2023-01-21,2023-01-24,3,1,West,Corporate
+ORDER-00986,2023-06-02,Standard Class,Technology,Copiers,18.93,252.7,258.72,2023-06-08,2023-06-08,0,0,South,Corporate
+ORDER-00987,2024-01-13,Second Class,Technology,Machines,13.11,182.0,149.0,2024-01-17,2024-01-20,3,1,South,Corporate
+ORDER-00988,2023-12-08,Same Day,Office Supplies,Storage,24.7,142.3,365.35,2023-12-09,2023-12-09,0,0,East,Consumer
+ORDER-00989,2023-01-27,Standard Class,Technology,Machines,20.67,323.2,351.9,2023-02-02,2023-02-05,3,1,West,Corporate
+ORDER-00990,2023-10-14,Standard Class,Office Supplies,Pens,49.34,347.9,870.48,2023-10-22,2023-10-23,1,1,East,Corporate
+ORDER-00991,2023-06-17,Standard Class,Office Supplies,Pens,3.27,436.1,76.35,2023-06-18,2023-06-19,1,1,South,Home Office
+ORDER-00992,2023-09-25,Standard Class,Technology,Machines,7.54,174.5,74.43,2023-10-01,2023-10-01,0,0,East,Consumer
+ORDER-00993,2024-03-30,Standard Class,Technology,Phones,3.11,386.0,69.88,2024-04-03,2024-04-07,4,1,East,Consumer
+ORDER-00994,2024-02-05,Standard Class,Office Supplies,Paper,31.48,282.9,464.77,2024-02-12,2024-02-12,0,0,East,Home Office
+ORDER-00995,2024-04-20,First Class,Technology,Copiers,3.2,442.0,131.83,2024-04-24,2024-04-24,0,0,West,Consumer
+ORDER-00996,2023-05-10,Standard Class,Furniture,Bookcases,41.9,266.3,577.14,2023-05-12,2023-05-15,3,1,East,Corporate
+ORDER-00997,2023-12-29,Standard Class,Technology,Copiers,25.84,261.2,354.86,2024-01-04,2024-01-04,0,0,South,Corporate
+ORDER-00998,2023-10-19,Same Day,Furniture,Furnishings,26.59,291.0,784.04,2023-10-22,2023-10-23,1,1,East,Home Office
+ORDER-00999,2024-01-06,Standard Class,Office Supplies,Paper,28.3,375.9,550.49,2024-01-10,2024-01-11,1,1,West,Consumer
+ORDER-01000,2023-01-29,Same Day,Office Supplies,Pens,8.96,482.5,452.05,2023-01-30,2023-01-30,0,0,North,Consumer
+ORDER-01001,2023-05-29,Standard Class,Office Supplies,Pens,10.29,41.4,31.55,2023-06-02,2023-06-03,1,1,West,Consumer
+ORDER-01002,2023-10-23,First Class,Furniture,Tables,16.28,31.5,49.93,2023-10-24,2023-10-27,3,1,East,Home Office
+ORDER-01003,2023-01-11,Second Class,Technology,Machines,29.88,469.1,854.21,2023-01-12,2023-01-13,1,1,North,Corporate
+ORDER-01004,2024-05-26,First Class,Furniture,Tables,10.9,267.3,240.89,2024-05-27,2024-05-28,1,1,East,Home Office
+ORDER-01005,2023-04-23,Same Day,Office Supplies,Paper,6.26,309.4,199.17,2023-04-24,2023-04-24,0,0,West,Corporate
+ORDER-01006,2023-07-06,Standard Class,Furniture,Tables,48.52,243.8,610.65,2023-07-08,2023-07-09,1,1,North,Home Office
+ORDER-01007,2023-08-15,Same Day,Office Supplies,Binders,1.59,51.4,27.06,2023-08-16,2023-08-17,1,1,North,Corporate
+ORDER-01008,2023-11-06,Standard Class,Office Supplies,Binders,40.23,385.2,782.27,2023-11-13,2023-11-15,2,1,East,Consumer
+ORDER-01009,2023-04-08,Standard Class,Office Supplies,Storage,39.51,374.9,751.73,2023-04-12,2023-04-14,2,1,East,Consumer
+ORDER-01010,2023-02-24,Standard Class,Furniture,Chairs,15.21,159.3,138.61,2023-02-25,2023-02-25,0,0,West,Consumer
+ORDER-01011,2024-02-10,Second Class,Furniture,Tables,7.21,156.6,82.66,2024-02-13,2024-02-13,0,0,East,Home Office
+ORDER-01012,2023-03-10,Standard Class,Office Supplies,Storage,7.71,419.7,172.72,2023-03-21,2023-03-25,4,1,North,Home Office
+ORDER-01013,2023-11-08,Second Class,Technology,Phones,35.02,40.8,101.89,2023-11-12,2023-11-13,1,1,South,Home Office
+ORDER-01014,2023-10-16,Second Class,Technology,Copiers,32.32,441.1,873.84,2023-10-19,2023-10-19,0,0,South,Consumer
+ORDER-01015,2023-05-28,First Class,Furniture,Tables,39.25,132.0,433.37,2023-06-05,2023-06-06,1,1,West,Corporate
+ORDER-01016,2024-04-11,First Class,Office Supplies,Paper,46.91,298.5,1130.89,2024-04-12,2024-04-14,2,1,East,Consumer
+ORDER-01017,2023-09-01,Standard Class,Furniture,Tables,34.75,468.3,821.27,2023-09-05,2023-09-06,1,1,West,Consumer
+ORDER-01018,2024-05-05,Standard Class,Furniture,Bookcases,8.21,340.7,158.55,2024-05-12,2024-05-13,1,1,South,Corporate
+ORDER-01019,2024-05-21,Standard Class,Office Supplies,Paper,12.55,210.1,138.23,2024-05-23,2024-05-24,1,1,South,Corporate
+ORDER-01020,2023-12-31,Standard Class,Office Supplies,Storage,42.19,346.3,746.35,2024-01-04,2024-01-07,3,1,East,Corporate
+ORDER-01021,2024-04-26,Standard Class,Furniture,Chairs,10.86,175.3,102.3,2024-05-03,2024-05-06,3,1,North,Corporate
+ORDER-01022,2023-07-20,Standard Class,Furniture,Furnishings,4.09,142.2,39.92,2023-07-27,2023-07-29,2,1,East,Consumer
+ORDER-01023,2023-06-03,Standard Class,Furniture,Chairs,35.31,498.4,891.1,2023-06-09,2023-06-10,1,1,South,Home Office
+ORDER-01024,2024-03-25,Same Day,Technology,Machines,20.43,376.6,776.78,2024-03-26,2024-03-26,0,0,North,Consumer
+ORDER-01025,2024-05-15,Second Class,Technology,Copiers,46.04,324.1,914.13,2024-05-16,2024-05-16,0,0,West,Corporate
+ORDER-01026,2023-03-14,Standard Class,Furniture,Bookcases,32.69,180.9,300.72,2023-03-21,2023-03-21,0,0,South,Home Office
+ORDER-01027,2023-10-23,Second Class,Furniture,Bookcases,4.98,29.3,27.16,2023-10-25,2023-10-27,2,1,West,Home Office
+ORDER-01028,2023-01-17,Standard Class,Technology,Phones,47.42,20.4,66.63,2023-01-21,2023-01-23,2,1,North,Consumer
+ORDER-01029,2023-08-05,Standard Class,Technology,Copiers,13.3,279.3,195.49,2023-08-06,2023-08-08,2,1,West,Consumer
+ORDER-01030,2023-03-02,Second Class,Office Supplies,Binders,17.19,382.2,409.77,2023-03-03,2023-03-05,2,1,South,Consumer
+ORDER-01031,2023-02-11,Standard Class,Furniture,Bookcases,20.41,271.0,285.35,2023-02-20,2023-02-21,1,1,East,Home Office
+ORDER-01032,2023-01-25,Standard Class,Furniture,Furnishings,3.04,421.2,80.4,2023-01-29,2023-01-30,1,1,West,Home Office
+ORDER-01033,2023-02-08,Same Day,Office Supplies,Storage,25.08,21.5,67.34,2023-02-09,2023-02-11,2,1,South,Home Office
+ORDER-01034,2023-05-11,First Class,Office Supplies,Storage,6.6,186.5,107.98,2023-05-14,2023-05-14,0,0,South,Corporate
+ORDER-01035,2024-05-12,Second Class,Furniture,Chairs,20.35,122.3,160.33,2024-05-17,2024-05-18,1,1,North,Corporate
+ORDER-01036,2023-08-17,Second Class,Office Supplies,Binders,17.86,226.4,257.96,2023-08-19,2023-08-19,0,0,South,Consumer
+ORDER-01037,2023-04-18,Second Class,Furniture,Bookcases,38.76,40.8,113.48,2023-04-22,2023-04-23,1,1,East,Home Office
+ORDER-01038,2023-06-21,Standard Class,Technology,Accessories,40.26,477.3,967.77,2023-06-22,2023-06-22,0,0,East,Consumer
+ORDER-01039,2024-03-10,Standard Class,Office Supplies,Binders,8.09,115.5,60.29,2024-03-16,2024-03-17,1,1,West,Home Office
+ORDER-01040,2024-04-22,Standard Class,Furniture,Furnishings,18.64,461.5,438.92,2024-04-25,2024-04-25,0,0,West,Consumer
+ORDER-01041,2023-04-12,Standard Class,Office Supplies,Storage,18.98,215.8,221.81,2023-04-13,2023-04-16,3,1,West,Corporate
+ORDER-01042,2024-06-07,Second Class,Office Supplies,Storage,7.99,492.8,242.3,2024-06-12,2024-06-13,1,1,West,Home Office
+ORDER-01043,2023-10-02,Standard Class,Technology,Phones,40.02,279.3,574.21,2023-10-06,2023-10-07,1,1,East,Corporate
+ORDER-01044,2023-02-13,Same Day,Office Supplies,Binders,35.51,465.8,1661.68,2023-02-14,2023-02-16,2,1,North,Home Office
+ORDER-01045,2023-01-17,Same Day,Furniture,Tables,9.92,7.6,21.48,2023-01-18,2023-01-19,1,1,West,Consumer
+ORDER-01046,2023-11-26,First Class,Technology,Phones,18.65,375.4,577.63,2023-11-29,2023-12-01,2,1,North,Home Office
+ORDER-01047,2024-05-11,Second Class,Furniture,Chairs,5.74,452.0,172.0,2024-05-13,2024-05-13,0,0,South,Corporate
+ORDER-01048,2023-01-12,First Class,Technology,Phones,31.6,74.2,203.87,2023-01-13,2023-01-14,1,1,South,Home Office
+ORDER-01049,2023-11-14,Standard Class,Office Supplies,Binders,6.51,52.6,29.89,2023-11-15,2023-11-18,3,1,West,Consumer
+ORDER-01050,2023-08-04,First Class,Office Supplies,Binders,49.3,215.2,867.11,2023-08-10,2023-08-11,1,1,South,Home Office
+ORDER-01051,2023-12-05,Standard Class,Furniture,Furnishings,39.14,467.2,928.13,2023-12-06,2023-12-08,2,1,North,Corporate
+ORDER-01052,2023-03-22,First Class,Office Supplies,Storage,19.82,273.5,452.42,2023-03-27,2023-04-03,7,1,North,Consumer
+ORDER-01053,2024-04-29,Standard Class,Technology,Accessories,29.14,266.1,400.91,2024-05-02,2024-05-02,0,0,South,Corporate
+ORDER-01054,2024-01-09,First Class,Technology,Machines,45.61,74.9,285.88,2024-01-15,2024-01-18,3,1,West,Home Office
+ORDER-01055,2023-07-19,Same Day,Furniture,Chairs,27.93,5.4,23.42,2023-07-20,2023-07-20,0,0,North,Corporate
+ORDER-01056,2024-06-20,Standard Class,Furniture,Bookcases,9.14,406.0,198.71,2024-06-21,2024-06-24,3,1,North,Home Office
+ORDER-01057,2024-04-10,Standard Class,Technology,Machines,19.25,48.3,53.6,2024-04-15,2024-04-15,0,0,East,Consumer
+ORDER-01058,2023-03-30,Same Day,Technology,Accessories,42.24,318.8,1364.66,2023-03-31,2023-04-04,4,1,West,Corporate
+ORDER-01059,2023-09-25,Standard Class,Furniture,Furnishings,32.39,457.7,756.38,2023-10-02,2023-10-06,4,1,East,Corporate
+ORDER-01060,2024-05-03,First Class,Office Supplies,Storage,32.71,108.3,303.3,2024-05-07,2024-05-09,2,1,South,Home Office
+ORDER-01061,2024-06-21,Second Class,Office Supplies,Storage,43.41,334.3,877.1,2024-06-22,2024-06-24,2,1,South,Corporate
+ORDER-01062,2023-02-16,Standard Class,Technology,Copiers,44.75,44.0,107.06,2023-02-19,2023-02-20,1,1,East,Corporate
+ORDER-01063,2023-10-15,Standard Class,Furniture,Chairs,46.03,303.9,717.58,2023-10-20,2023-10-23,3,1,West,Consumer
+ORDER-01064,2023-01-16,Standard Class,Furniture,Tables,5.2,86.1,33.31,2023-01-19,2023-01-20,1,1,North,Home Office
+ORDER-01065,2024-02-05,First Class,Technology,Copiers,27.43,369.3,822.39,2024-02-09,2024-02-09,0,0,South,Home Office
+ORDER-01066,2023-03-27,Standard Class,Furniture,Tables,37.16,154.1,304.23,2023-03-28,2023-03-31,3,1,West,Consumer
+ORDER-01067,2023-09-07,Second Class,Office Supplies,Binders,37.97,234.4,546.84,2023-09-08,2023-09-09,1,1,West,Consumer
+ORDER-01068,2024-01-26,Standard Class,Office Supplies,Binders,30.53,301.7,468.45,2024-02-01,2024-02-03,2,1,South,Home Office
+ORDER-01069,2023-12-01,Second Class,Office Supplies,Pens,8.76,89.8,65.58,2023-12-02,2023-12-02,0,0,South,Consumer
+ORDER-01070,2024-06-02,First Class,Office Supplies,Paper,39.97,372.1,1195.29,2024-06-05,2024-06-06,1,1,West,Consumer
+ORDER-01071,2023-05-17,Same Day,Office Supplies,Binders,36.15,154.8,578.03,2023-05-18,2023-05-19,1,1,North,Consumer
+ORDER-01072,2024-05-12,Standard Class,Furniture,Chairs,4.76,332.9,84.99,2024-05-13,2024-05-14,1,1,East,Home Office
+ORDER-01073,2024-04-21,First Class,Office Supplies,Paper,23.46,83.4,171.51,2024-04-24,2024-04-24,0,0,South,Consumer
+ORDER-01074,2023-08-11,First Class,Technology,Machines,9.11,345.6,257.95,2023-08-13,2023-08-14,1,1,East,Corporate
+ORDER-01075,2024-01-07,Second Class,Technology,Copiers,17.21,68.5,86.33,2024-01-08,2024-01-10,2,1,West,Corporate
+ORDER-01076,2024-02-06,Same Day,Furniture,Bookcases,1.4,215.6,35.69,2024-02-07,2024-02-08,1,1,East,Home Office
+ORDER-01077,2024-03-18,Standard Class,Furniture,Furnishings,20.32,127.4,147.08,2024-03-19,2024-03-19,0,0,North,Consumer
+ORDER-01078,2024-05-04,Standard Class,Furniture,Furnishings,27.72,375.4,532.29,2024-05-06,2024-05-07,1,1,West,Corporate
+ORDER-01079,2023-09-30,First Class,Office Supplies,Paper,31.17,134.7,342.29,2023-10-02,2023-10-03,1,1,North,Home Office
+ORDER-01080,2024-06-09,Standard Class,Office Supplies,Binders,33.34,441.5,751.58,2024-06-13,2024-06-15,2,1,West,Corporate
+ORDER-01081,2023-06-08,First Class,Office Supplies,Pens,41.9,446.5,1509.01,2023-06-09,2023-06-10,1,1,North,Consumer
+ORDER-01082,2023-06-01,First Class,Furniture,Tables,11.17,102.2,99.19,2023-06-03,2023-06-05,2,1,West,Home Office
+ORDER-01083,2023-07-07,Standard Class,Furniture,Tables,6.46,308.9,105.01,2023-07-13,2023-07-15,2,1,North,Corporate
+ORDER-01084,2023-04-08,First Class,Office Supplies,Storage,42.65,48.4,176.41,2023-04-09,2023-04-13,4,1,West,Home Office
+ORDER-01085,2023-05-11,Standard Class,Office Supplies,Binders,8.25,198.8,88.29,2023-05-13,2023-05-14,1,1,North,Corporate
+ORDER-01086,2023-06-20,Second Class,Furniture,Chairs,48.75,358.1,1053.86,2023-06-25,2023-06-27,2,1,West,Corporate
+ORDER-01087,2023-07-02,Second Class,Office Supplies,Storage,42.21,331.4,848.31,2023-07-06,2023-07-09,3,1,North,Consumer
+ORDER-01088,2023-12-30,Same Day,Furniture,Tables,25.29,314.2,809.07,2024-01-01,2024-01-04,3,1,South,Consumer
+ORDER-01089,2023-02-08,Standard Class,Technology,Machines,49.08,144.9,368.53,2023-02-15,2023-02-17,2,1,East,Corporate
+ORDER-01090,2024-06-10,Standard Class,Technology,Phones,5.32,192.1,57.13,2024-06-15,2024-06-16,1,1,West,Home Office
+ORDER-01091,2024-05-11,Second Class,Furniture,Chairs,15.5,56.0,71.61,2024-05-12,2024-05-12,0,0,North,Home Office
+ORDER-01092,2024-05-30,First Class,Furniture,Tables,32.09,360.9,944.81,2024-06-02,2024-06-04,2,1,South,Consumer
+ORDER-01093,2023-12-15,Second Class,Office Supplies,Storage,17.83,254.4,281.05,2023-12-21,2023-12-22,1,1,West,Corporate
+ORDER-01094,2024-02-01,Standard Class,Furniture,Tables,46.45,355.8,833.18,2024-02-04,2024-02-04,0,0,West,Consumer
+ORDER-01095,2023-06-10,Standard Class,Office Supplies,Binders,3.75,128.2,43.17,2023-06-19,2023-06-20,1,1,West,Corporate
+ORDER-01096,2023-01-16,Standard Class,Technology,Machines,27.7,165.6,241.27,2023-01-20,2023-01-22,2,1,East,Corporate
+ORDER-01097,2024-05-07,First Class,Office Supplies,Binders,29.75,170.4,415.22,2024-05-08,2024-05-08,0,0,North,Consumer
+ORDER-01098,2024-03-01,Standard Class,Technology,Phones,32.81,17.7,41.39,2024-03-07,2024-03-07,0,0,North,Home Office
+ORDER-01099,2023-04-18,Standard Class,Office Supplies,Storage,13.16,173.8,130.95,2023-04-21,2023-04-21,0,0,West,Consumer
+ORDER-01100,2024-03-25,Same Day,Furniture,Furnishings,18.55,402.6,754.35,2024-03-26,2024-03-26,0,0,West,Corporate
+ORDER-01101,2023-11-07,Standard Class,Technology,Machines,42.26,449.2,965.67,2023-11-11,2023-11-11,0,0,West,Consumer
+ORDER-01102,2023-06-19,Same Day,Office Supplies,Storage,10.15,261.5,281.66,2023-06-20,2023-06-20,0,0,South,Home Office
+ORDER-01103,2024-06-29,Second Class,Office Supplies,Binders,41.43,230.5,586.07,2024-07-04,2024-07-05,1,1,West,Home Office
+ORDER-01104,2024-02-18,First Class,Furniture,Tables,28.35,20.3,64.03,2024-02-23,2024-02-24,1,1,East,Corporate
+ORDER-01105,2023-09-08,Standard Class,Furniture,Chairs,38.23,440.2,848.42,2023-09-13,2023-09-15,2,1,North,Consumer
+ORDER-01106,2023-05-21,Standard Class,Technology,Copiers,35.82,11.4,34.35,2023-05-24,2023-05-25,1,1,East,Home Office
+ORDER-01107,2023-10-01,First Class,Furniture,Bookcases,10.77,472.7,419.02,2023-10-03,2023-10-04,1,1,West,Consumer
+ORDER-01108,2024-02-20,First Class,Technology,Phones,28.66,247.2,578.11,2024-02-24,2024-02-27,3,1,South,Home Office
+ORDER-01109,2023-02-08,First Class,Technology,Copiers,43.45,174.3,614.66,2023-02-14,2023-02-15,1,1,West,Corporate
+ORDER-01110,2023-01-29,Standard Class,Technology,Phones,21.89,462.5,516.79,2023-02-05,2023-02-08,3,1,West,Corporate
+ORDER-01111,2024-04-21,First Class,Office Supplies,Binders,48.35,17.1,72.77,2024-04-29,2024-04-29,0,0,West,Consumer
+ORDER-01112,2023-11-14,First Class,Office Supplies,Storage,22.88,292.8,544.72,2023-11-16,2023-11-17,1,1,West,Corporate
+ORDER-01113,2023-09-02,Second Class,Technology,Machines,7.57,276.7,134.76,2023-09-04,2023-09-07,3,1,West,Home Office
+ORDER-01114,2023-09-29,First Class,Furniture,Tables,19.78,113.6,195.57,2023-09-30,2023-10-04,4,1,North,Corporate
+ORDER-01115,2024-03-15,First Class,Office Supplies,Storage,47.61,217.3,833.38,2024-03-19,2024-03-21,2,1,East,Home Office
+ORDER-01116,2023-08-27,Second Class,Office Supplies,Storage,16.33,327.9,336.04,2023-08-31,2023-09-02,2,1,South,Home Office
+ORDER-01117,2024-01-12,Standard Class,Office Supplies,Pens,43.47,364.9,801.43,2024-01-16,2024-01-18,2,1,West,Corporate
+ORDER-01118,2023-09-23,Standard Class,Office Supplies,Binders,44.12,5.4,18.14,2023-09-30,2023-09-30,0,0,South,Home Office
+ORDER-01119,2023-12-25,Standard Class,Office Supplies,Pens,17.83,468.7,427.36,2023-12-27,2023-12-27,0,0,North,Home Office
+ORDER-01120,2023-12-06,Standard Class,Office Supplies,Pens,4.62,86.4,28.33,2023-12-10,2023-12-10,0,0,East,Consumer
+ORDER-01121,2024-01-24,Standard Class,Technology,Machines,36.37,120.6,232.59,2024-01-27,2024-01-30,3,1,West,Consumer
+ORDER-01122,2023-01-03,Standard Class,Furniture,Furnishings,15.92,135.4,118.14,2023-01-04,2023-01-04,0,0,North,Consumer
+ORDER-01123,2024-03-04,Standard Class,Technology,Accessories,39.25,23.7,66.0,2024-03-10,2024-03-11,1,1,North,Corporate
+ORDER-01124,2023-05-22,Standard Class,Office Supplies,Storage,22.41,65.9,93.29,2023-05-31,2023-05-31,0,0,East,Consumer
+ORDER-01125,2024-01-11,First Class,Technology,Machines,24.52,493.2,979.12,2024-01-12,2024-01-13,1,1,West,Home Office
+ORDER-01126,2023-11-20,Same Day,Office Supplies,Binders,39.01,161.0,644.99,2023-11-22,2023-11-22,0,0,East,Corporate
+ORDER-01127,2023-05-26,Standard Class,Technology,Machines,19.43,62.1,65.53,2023-06-02,2023-06-02,0,0,East,Corporate
+ORDER-01128,2023-10-20,Same Day,Furniture,Bookcases,22.43,58.0,143.31,2023-10-21,2023-10-22,1,1,South,Corporate
+ORDER-01129,2024-03-07,Second Class,Technology,Accessories,19.12,361.1,430.4,2024-03-13,2024-03-14,1,1,South,Corporate
+ORDER-01130,2024-02-03,Standard Class,Furniture,Furnishings,18.68,428.0,408.01,2024-02-08,2024-02-10,2,1,East,Home Office
+ORDER-01131,2023-12-10,Standard Class,Technology,Phones,26.53,132.2,181.28,2023-12-15,2023-12-15,0,0,South,Home Office
+ORDER-01132,2023-05-20,Second Class,Technology,Accessories,40.54,15.4,44.8,2023-05-27,2023-05-30,3,1,North,Consumer
+ORDER-01133,2023-07-06,First Class,Furniture,Tables,18.41,115.4,181.59,2023-07-08,2023-07-10,2,1,East,Corporate
+ORDER-01134,2023-03-02,First Class,Furniture,Chairs,26.45,33.0,82.42,2023-03-05,2023-03-06,1,1,West,Consumer
+ORDER-01135,2024-01-15,Standard Class,Technology,Machines,33.7,56.2,105.41,2024-01-16,2024-01-16,0,0,West,Home Office
+ORDER-01136,2024-03-15,Standard Class,Furniture,Furnishings,13.84,218.6,162.87,2024-03-19,2024-03-19,0,0,North,Corporate
+ORDER-01137,2023-11-15,Standard Class,Technology,Accessories,14.24,118.8,96.64,2023-11-22,2023-11-23,1,1,West,Home Office
+ORDER-01138,2023-10-29,Standard Class,Furniture,Tables,46.7,260.4,624.58,2023-11-03,2023-11-05,2,1,West,Consumer
+ORDER-01139,2023-12-10,Standard Class,Furniture,Furnishings,36.31,130.5,243.5,2023-12-11,2023-12-14,3,1,East,Home Office
+ORDER-01140,2023-01-11,Standard Class,Technology,Machines,29.07,470.6,700.55,2023-01-20,2023-01-20,0,0,North,Corporate
+ORDER-01141,2023-03-03,First Class,Office Supplies,Pens,32.56,453.4,1196.35,2023-03-08,2023-03-12,4,1,East,Corporate
+ORDER-01142,2023-08-14,Same Day,Technology,Accessories,1.95,285.6,71.82,2023-08-15,2023-08-16,1,1,North,Consumer
+ORDER-01143,2023-06-02,Standard Class,Office Supplies,Binders,31.1,180.4,296.54,2023-06-05,2023-06-06,1,1,East,Corporate
+ORDER-01144,2023-11-06,Same Day,Office Supplies,Paper,25.72,193.7,510.26,2023-11-07,2023-11-08,1,1,East,Home Office
+ORDER-01145,2023-08-31,Standard Class,Office Supplies,Pens,27.51,208.9,295.51,2023-09-04,2023-09-07,3,1,South,Home Office
+ORDER-01146,2024-05-07,Standard Class,Office Supplies,Storage,18.29,365.2,347.02,2024-05-11,2024-05-15,4,1,West,Home Office
+ORDER-01147,2024-01-01,Standard Class,Office Supplies,Pens,4.53,228.6,71.15,2024-01-04,2024-01-05,1,1,North,Home Office
+ORDER-01148,2023-11-26,Second Class,Office Supplies,Storage,10.07,429.1,273.09,2023-11-29,2023-12-02,3,1,West,Consumer
+ORDER-01149,2023-04-17,Same Day,Office Supplies,Storage,47.56,472.3,2251.42,2023-04-18,2023-04-19,1,1,South,Home Office
+ORDER-01150,2023-08-14,Second Class,Furniture,Bookcases,20.73,171.3,218.96,2023-08-18,2023-08-18,0,0,North,Consumer
+ORDER-01151,2023-08-06,Standard Class,Technology,Accessories,23.6,282.5,353.24,2023-08-09,2023-08-10,1,1,South,Home Office
+ORDER-01152,2024-05-20,Second Class,Furniture,Furnishings,3.11,52.1,15.8,2024-05-24,2024-05-25,1,1,West,Consumer
+ORDER-01153,2023-09-16,Standard Class,Office Supplies,Pens,2.36,104.2,17.99,2023-09-19,2023-09-21,2,1,East,Home Office
+ORDER-01154,2024-05-31,First Class,Furniture,Chairs,36.0,209.7,614.23,2024-06-01,2024-06-02,1,1,South,Home Office
+ORDER-01155,2023-02-23,Second Class,Office Supplies,Pens,27.14,107.1,193.94,2023-03-02,2023-03-02,0,0,South,Consumer
+ORDER-01156,2023-02-16,Standard Class,Technology,Phones,25.68,438.9,573.33,2023-02-21,2023-02-24,3,1,East,Corporate
+ORDER-01157,2024-06-04,Second Class,Furniture,Furnishings,12.53,83.4,73.85,2024-06-09,2024-06-12,3,1,West,Corporate
+ORDER-01158,2023-04-09,Second Class,Furniture,Bookcases,37.37,230.6,531.56,2023-04-16,2023-04-17,1,1,South,Corporate
+ORDER-01159,2023-01-20,Standard Class,Furniture,Bookcases,8.83,304.8,139.93,2023-01-21,2023-01-24,3,1,West,Consumer
+ORDER-01160,2024-05-04,Second Class,Office Supplies,Paper,9.9,347.5,224.88,2024-05-08,2024-05-10,2,1,East,Corporate
+ORDER-01161,2024-02-23,Standard Class,Technology,Copiers,23.31,194.6,239.6,2024-02-24,2024-02-25,1,1,North,Corporate
+ORDER-01162,2023-03-03,First Class,Furniture,Bookcases,14.67,435.2,522.75,2023-03-05,2023-03-06,1,1,South,Consumer
+ORDER-01163,2023-05-25,First Class,Technology,Machines,12.75,286.3,309.94,2023-05-27,2023-05-28,1,1,West,Corporate
+ORDER-01164,2023-08-04,First Class,Office Supplies,Pens,32.44,222.6,596.99,2023-08-08,2023-08-10,2,1,East,Corporate
+ORDER-01165,2023-01-03,Second Class,Office Supplies,Binders,32.72,38.3,86.54,2023-01-04,2023-01-06,2,1,East,Corporate
+ORDER-01166,2023-06-09,Second Class,Technology,Phones,41.31,235.0,590.06,2023-06-14,2023-06-16,2,1,South,Consumer
+ORDER-01167,2023-04-30,Standard Class,Office Supplies,Pens,21.18,411.3,452.8,2023-05-03,2023-05-05,2,1,North,Consumer
+ORDER-01168,2023-03-30,First Class,Office Supplies,Paper,4.12,309.2,112.96,2023-04-01,2023-04-01,0,0,South,Corporate
+ORDER-01169,2023-11-25,Standard Class,Furniture,Chairs,14.05,416.9,311.91,2023-11-28,2023-11-29,1,1,West,Corporate
+ORDER-01170,2023-12-23,Standard Class,Furniture,Chairs,49.01,249.5,630.65,2023-12-31,2024-01-02,2,1,East,Consumer
+ORDER-01171,2023-09-24,Standard Class,Furniture,Bookcases,30.01,63.6,102.15,2023-09-29,2023-09-29,0,0,North,Corporate
+ORDER-01172,2023-11-19,Standard Class,Furniture,Bookcases,35.63,11.8,40.37,2023-11-27,2023-11-30,3,1,West,Consumer
+ORDER-01173,2024-06-24,Second Class,Office Supplies,Paper,0.86,155.1,18.53,2024-07-01,2024-07-02,1,1,South,Corporate
+ORDER-01174,2023-07-14,Standard Class,Office Supplies,Binders,26.15,350.5,472.97,2023-07-15,2023-07-17,2,1,East,Consumer
+ORDER-01175,2023-11-28,First Class,Office Supplies,Paper,2.36,396.2,80.32,2023-12-01,2023-12-01,0,0,South,Home Office
+ORDER-01176,2023-06-19,Standard Class,Furniture,Tables,28.68,151.4,235.44,2023-06-20,2023-06-22,2,1,North,Home Office
+ORDER-01177,2024-06-04,Standard Class,Furniture,Chairs,46.08,250.3,591.32,2024-06-07,2024-06-10,3,1,North,Consumer
+ORDER-01178,2024-04-07,Second Class,Office Supplies,Storage,48.44,213.5,635.17,2024-04-09,2024-04-10,1,1,North,Home Office
+ORDER-01179,2023-02-09,Standard Class,Technology,Phones,27.26,208.2,302.31,2023-02-19,2023-02-19,0,0,North,Corporate
+ORDER-01180,2024-06-20,Standard Class,Furniture,Chairs,23.18,119.5,151.13,2024-06-29,2024-06-30,1,1,North,Consumer
+ORDER-01181,2023-09-18,First Class,Technology,Copiers,47.28,72.5,285.38,2023-09-24,2023-09-24,0,0,South,Consumer
+ORDER-01182,2024-01-30,Standard Class,Office Supplies,Binders,33.84,102.4,191.25,2024-02-04,2024-02-07,3,1,North,Corporate
+ORDER-01183,2023-08-14,First Class,Office Supplies,Storage,3.71,32.4,25.75,2023-08-18,2023-08-18,0,0,North,Corporate
+ORDER-01184,2023-05-04,Standard Class,Office Supplies,Binders,23.55,103.1,140.63,2023-05-08,2023-05-08,0,0,East,Consumer
+ORDER-01185,2023-02-07,Standard Class,Furniture,Furnishings,12.39,9.6,25.05,2023-02-13,2023-02-14,1,1,North,Corporate
+ORDER-01186,2023-11-24,First Class,Furniture,Chairs,23.76,315.5,610.44,2023-11-29,2023-11-30,1,1,East,Consumer
+ORDER-01187,2023-09-08,Standard Class,Office Supplies,Pens,23.05,161.6,197.95,2023-09-13,2023-09-14,1,1,East,Corporate
+ORDER-01188,2023-06-25,Standard Class,Office Supplies,Pens,29.32,486.7,722.34,2023-07-01,2023-07-04,3,1,East,Consumer
+ORDER-01189,2024-03-29,Standard Class,Technology,Accessories,18.16,100.9,106.53,2024-04-04,2024-04-04,0,0,South,Corporate
+ORDER-01190,2023-02-06,Standard Class,Office Supplies,Pens,8.63,176.2,86.5,2023-02-15,2023-02-16,1,1,South,Corporate
+ORDER-01191,2023-11-12,First Class,Furniture,Tables,25.43,182.1,387.26,2023-11-13,2023-11-14,1,1,West,Home Office
+ORDER-01192,2023-04-24,Standard Class,Technology,Accessories,41.6,9.2,25.96,2023-04-25,2023-04-26,1,1,West,Home Office
+ORDER-01193,2023-02-09,First Class,Furniture,Furnishings,33.37,420.4,1129.05,2023-02-10,2023-02-14,4,1,East,Home Office
+ORDER-01194,2023-10-28,First Class,Office Supplies,Binders,17.25,20.8,36.77,2023-10-29,2023-10-30,1,1,South,Corporate
+ORDER-01195,2023-08-12,Standard Class,Office Supplies,Storage,46.81,470.4,1107.24,2023-08-16,2023-08-20,4,1,North,Consumer
+ORDER-01196,2023-11-14,Same Day,Technology,Copiers,45.65,446.6,2053.03,2023-11-15,2023-11-19,4,1,West,Corporate
+ORDER-01197,2023-12-15,Standard Class,Technology,Accessories,10.86,270.1,153.87,2023-12-22,2023-12-25,3,1,South,Home Office
+ORDER-01198,2023-04-25,Same Day,Office Supplies,Binders,2.45,274.1,74.55,2023-04-26,2023-04-27,1,1,North,Corporate
+ORDER-01199,2023-11-19,Standard Class,Office Supplies,Paper,37.19,328.6,616.25,2023-11-21,2023-11-22,1,1,North,Home Office
+ORDER-01200,2023-02-09,Second Class,Technology,Accessories,41.47,196.6,505.91,2023-02-12,2023-02-15,3,1,South,Home Office
+ORDER-01201,2023-02-09,Standard Class,Furniture,Tables,48.41,325.4,804.82,2023-02-15,2023-02-17,2,1,West,Consumer
+ORDER-01202,2023-10-16,Standard Class,Furniture,Chairs,44.55,27.2,68.02,2023-10-17,2023-10-19,2,1,South,Consumer
+ORDER-01203,2023-09-19,Second Class,Furniture,Chairs,30.23,31.8,73.77,2023-09-21,2023-09-23,2,1,West,Home Office
+ORDER-01204,2023-08-04,First Class,Furniture,Bookcases,26.74,231.3,506.3,2023-08-09,2023-08-11,2,1,East,Home Office
+ORDER-01205,2023-05-27,Standard Class,Office Supplies,Binders,1.88,277.1,34.64,2023-06-01,2023-06-01,0,0,South,Corporate
+ORDER-01206,2023-12-02,Standard Class,Office Supplies,Pens,12.71,444.5,296.8,2023-12-08,2023-12-11,3,1,South,Home Office
+ORDER-01207,2023-06-17,First Class,Office Supplies,Pens,23.25,56.8,113.33,2023-06-22,2023-06-23,1,1,West,Corporate
+ORDER-01208,2023-04-02,Second Class,Furniture,Chairs,31.61,412.2,798.13,2023-04-09,2023-04-10,1,1,West,Home Office
+ORDER-01209,2023-12-19,Same Day,Technology,Machines,28.08,109.0,311.79,2023-12-20,2023-12-20,0,0,South,Consumer
+ORDER-01210,2023-12-29,First Class,Office Supplies,Pens,37.26,200.1,615.85,2023-12-30,2024-01-01,2,1,North,Consumer
+ORDER-01211,2023-12-11,Same Day,Office Supplies,Storage,14.35,161.7,238.12,2023-12-12,2023-12-13,1,1,North,Home Office
+ORDER-01212,2023-06-19,First Class,Office Supplies,Binders,28.47,203.1,476.27,2023-06-23,2023-06-24,1,1,North,Corporate
+ORDER-01213,2023-12-22,Standard Class,Office Supplies,Paper,4.86,79.5,37.85,2023-12-25,2023-12-27,2,1,East,Corporate
+ORDER-01214,2023-07-10,Standard Class,Furniture,Tables,20.98,254.3,271.94,2023-07-11,2023-07-14,3,1,East,Corporate
+ORDER-01215,2024-02-26,First Class,Furniture,Tables,37.63,401.8,1222.06,2024-02-28,2024-03-01,2,1,West,Home Office
+ORDER-01216,2023-01-07,Second Class,Technology,Phones,34.82,223.6,477.4,2023-01-10,2023-01-13,3,1,East,Home Office
+ORDER-01217,2023-05-13,Standard Class,Technology,Accessories,49.54,247.9,627.75,2023-05-22,2023-05-22,0,0,North,Consumer
+ORDER-01218,2023-01-31,Standard Class,Office Supplies,Paper,14.26,425.1,311.48,2023-02-04,2023-02-04,0,0,South,Consumer
+ORDER-01219,2024-06-18,Same Day,Furniture,Furnishings,25.16,354.5,897.9,2024-06-21,2024-06-21,0,0,East,Home Office
+ORDER-01220,2024-03-01,Second Class,Office Supplies,Binders,16.81,247.8,264.32,2024-03-03,2024-03-03,0,0,East,Consumer
+ORDER-01221,2024-01-29,Standard Class,Technology,Phones,22.31,132.6,159.17,2024-02-03,2024-02-04,1,1,North,Corporate
+ORDER-01222,2023-12-29,Standard Class,Technology,Copiers,42.92,443.0,965.02,2023-12-30,2023-12-31,1,1,East,Corporate
+ORDER-01223,2024-03-12,Standard Class,Furniture,Tables,34.37,290.6,507.55,2024-03-13,2024-03-13,0,0,West,Home Office
+ORDER-01224,2023-03-23,Standard Class,Furniture,Furnishings,44.18,114.5,263.01,2023-03-27,2023-03-29,2,1,South,Corporate
+ORDER-01225,2023-12-22,Standard Class,Technology,Phones,10.57,138.2,86.46,2023-12-26,2023-12-27,1,1,North,Home Office
+ORDER-01226,2023-09-15,Standard Class,Office Supplies,Binders,43.73,402.6,894.18,2023-09-21,2023-09-21,0,0,West,Corporate
+ORDER-01227,2024-06-07,First Class,Furniture,Tables,3.46,26.9,18.03,2024-06-08,2024-06-08,0,0,North,Home Office
+ORDER-01228,2023-10-22,Standard Class,Furniture,Tables,44.49,496.1,1112.78,2023-10-27,2023-10-30,3,1,West,Corporate
+ORDER-01229,2023-08-12,First Class,Office Supplies,Storage,16.79,69.5,102.46,2023-08-13,2023-08-14,1,1,South,Corporate
+ORDER-01230,2024-06-08,First Class,Technology,Phones,16.07,399.1,520.7,2024-06-12,2024-06-13,1,1,South,Consumer
+ORDER-01231,2023-02-15,Standard Class,Technology,Copiers,25.85,200.4,268.9,2023-02-20,2023-02-21,1,1,West,Consumer
+ORDER-01232,2023-04-23,Second Class,Office Supplies,Pens,47.06,248.6,709.94,2023-04-27,2023-04-28,1,1,West,Consumer
+ORDER-01233,2023-08-21,Standard Class,Office Supplies,Pens,2.87,440.9,77.78,2023-08-22,2023-08-22,0,0,West,Consumer
+ORDER-01234,2023-01-17,First Class,Furniture,Chairs,17.94,209.4,314.07,2023-01-19,2023-01-19,0,0,West,Consumer
+ORDER-01235,2023-12-26,Standard Class,Office Supplies,Pens,42.9,271.1,592.25,2024-01-02,2024-01-04,2,1,West,Consumer
+ORDER-01236,2023-08-11,Second Class,Office Supplies,Storage,20.1,29.4,45.34,2023-08-12,2023-08-13,1,1,West,Home Office
+ORDER-01237,2024-03-23,Second Class,Office Supplies,Paper,10.36,6.2,12.42,2024-03-27,2024-03-28,1,1,South,Home Office
+ORDER-01238,2023-12-31,Standard Class,Office Supplies,Binders,21.53,126.2,148.89,2024-01-01,2024-01-02,1,1,West,Consumer
+ORDER-01239,2023-11-22,Standard Class,Furniture,Furnishings,19.58,341.9,353.5,2023-11-26,2023-11-26,0,0,East,Home Office
+ORDER-01240,2024-04-11,Second Class,Furniture,Tables,45.81,65.0,193.94,2024-04-19,2024-04-19,0,0,South,Consumer
+ORDER-01241,2024-02-18,First Class,Office Supplies,Pens,38.22,61.3,203.6,2024-02-19,2024-02-21,2,1,North,Home Office
+ORDER-01242,2024-03-30,Standard Class,Furniture,Furnishings,25.5,208.4,283.23,2024-04-06,2024-04-06,0,0,South,Corporate
+ORDER-01243,2023-08-21,Second Class,Furniture,Chairs,49.42,325.7,976.04,2023-08-26,2023-08-27,1,1,North,Home Office
+ORDER-01244,2023-08-12,Standard Class,Technology,Machines,23.53,357.5,426.54,2023-08-13,2023-08-14,1,1,North,Home Office
+ORDER-01245,2024-02-16,First Class,Office Supplies,Binders,3.38,93.3,39.57,2024-02-21,2024-02-21,0,0,East,Home Office
+ORDER-01246,2023-12-01,Standard Class,Office Supplies,Paper,13.48,44.4,37.76,2023-12-10,2023-12-10,0,0,West,Corporate
+ORDER-01247,2023-08-10,First Class,Technology,Machines,22.09,470.5,845.0,2023-08-15,2023-08-16,1,1,West,Consumer
+ORDER-01248,2023-02-06,Standard Class,Technology,Machines,8.27,134.0,71.5,2023-02-07,2023-02-08,1,1,South,Home Office
+ORDER-01249,2023-10-05,Standard Class,Office Supplies,Storage,47.4,427.4,1029.69,2023-10-09,2023-10-10,1,1,West,Home Office
+ORDER-01250,2023-07-15,Standard Class,Technology,Machines,38.46,432.4,841.03,2023-07-16,2023-07-18,2,1,East,Corporate
+ORDER-01251,2024-04-28,Standard Class,Office Supplies,Paper,13.78,387.4,279.61,2024-05-08,2024-05-10,2,1,South,Consumer
+ORDER-01252,2023-08-30,Second Class,Office Supplies,Binders,29.74,88.6,172.41,2023-09-04,2023-09-04,0,0,South,Home Office
+ORDER-01253,2023-11-20,Standard Class,Office Supplies,Storage,36.21,411.8,762.86,2023-11-22,2023-11-23,1,1,South,Corporate
+ORDER-01254,2023-07-11,First Class,Office Supplies,Paper,47.09,385.8,1469.81,2023-07-12,2023-07-14,2,1,West,Consumer
+ORDER-01255,2023-01-17,Standard Class,Office Supplies,Binders,44.14,300.4,682.8,2023-01-21,2023-01-22,1,1,West,Consumer
+ORDER-01256,2024-06-07,Standard Class,Office Supplies,Storage,26.0,171.9,228.59,2024-06-11,2024-06-12,1,1,West,Home Office
+ORDER-01257,2024-02-05,Standard Class,Furniture,Tables,38.85,134.9,273.61,2024-02-08,2024-02-08,0,0,South,Home Office
+ORDER-01258,2023-01-22,Standard Class,Office Supplies,Binders,28.33,65.3,101.34,2023-02-01,2023-02-01,0,0,South,Home Office
+ORDER-01259,2024-04-18,Standard Class,Furniture,Chairs,27.86,257.3,365.22,2024-04-27,2024-04-27,0,0,North,Home Office
+ORDER-01260,2023-04-30,Standard Class,Office Supplies,Binders,6.18,294.7,109.74,2023-05-04,2023-05-04,0,0,North,Corporate
+ORDER-01261,2023-07-29,Standard Class,Office Supplies,Paper,6.74,182.9,81.61,2023-07-30,2023-07-31,1,1,West,Corporate
+ORDER-01262,2023-11-02,Standard Class,Technology,Machines,26.71,240.3,328.63,2023-11-08,2023-11-08,0,0,South,Home Office
+ORDER-01263,2023-09-27,Second Class,Technology,Accessories,13.81,184.9,158.78,2023-10-02,2023-10-02,0,0,West,Consumer
+ORDER-01264,2023-10-12,Second Class,Technology,Accessories,1.54,322.3,38.91,2023-10-15,2023-10-16,1,1,West,Home Office
+ORDER-01265,2023-08-15,Standard Class,Office Supplies,Pens,36.28,451.1,835.82,2023-08-23,2023-08-24,1,1,North,Consumer
+ORDER-01266,2024-01-16,Standard Class,Technology,Machines,2.11,86.1,18.49,2024-01-22,2024-01-25,3,1,East,Consumer
+ORDER-01267,2024-04-04,Same Day,Office Supplies,Storage,29.97,193.8,586.67,2024-04-05,2024-04-05,0,0,West,Consumer
+ORDER-01268,2023-01-07,Second Class,Furniture,Bookcases,27.19,74.7,127.65,2023-01-09,2023-01-10,1,1,East,Corporate
+ORDER-01269,2023-01-29,Second Class,Furniture,Bookcases,48.46,314.3,925.27,2023-02-04,2023-02-05,1,1,East,Consumer
+ORDER-01270,2023-02-02,Standard Class,Furniture,Chairs,24.47,365.8,466.53,2023-02-07,2023-02-12,5,1,South,Consumer
+ORDER-01271,2023-03-20,First Class,Office Supplies,Paper,3.65,466.3,145.45,2023-03-24,2023-03-25,1,1,South,Corporate
+ORDER-01272,2024-04-03,First Class,Office Supplies,Binders,27.81,143.0,329.55,2024-04-04,2024-04-04,0,0,West,Consumer
+ORDER-01273,2024-06-21,Second Class,Technology,Accessories,42.13,475.4,1208.25,2024-06-26,2024-06-28,2,1,North,Consumer
+ORDER-01274,2024-04-26,Same Day,Furniture,Tables,49.84,36.3,193.32,2024-04-27,2024-04-28,1,1,North,Home Office
+ORDER-01275,2024-03-05,Standard Class,Furniture,Tables,21.8,303.5,346.26,2024-03-11,2024-03-12,1,1,West,Consumer
+ORDER-01276,2023-10-12,Standard Class,Technology,Phones,16.35,33.3,36.29,2023-10-15,2023-10-16,1,1,West,Consumer
+ORDER-01277,2024-05-30,First Class,Furniture,Furnishings,45.38,447.4,1633.69,2024-06-04,2024-06-04,0,0,North,Consumer
+ORDER-01278,2023-04-09,First Class,Office Supplies,Binders,9.97,267.3,230.83,2023-04-10,2023-04-12,2,1,East,Consumer
+ORDER-01279,2024-02-01,Standard Class,Office Supplies,Storage,30.96,336.3,525.75,2024-02-04,2024-02-06,2,1,West,Consumer
+ORDER-01280,2024-05-03,Standard Class,Office Supplies,Binders,20.58,416.6,443.23,2024-05-05,2024-05-10,5,1,East,Corporate
+ORDER-01281,2023-02-08,Standard Class,Furniture,Bookcases,2.53,79.4,20.95,2023-02-13,2023-02-13,0,0,West,Consumer
+ORDER-01282,2023-09-28,Standard Class,Furniture,Tables,17.69,24.1,30.79,2023-09-29,2023-09-30,1,1,West,Consumer
+ORDER-01283,2023-06-06,First Class,Furniture,Tables,13.63,440.0,494.64,2023-06-10,2023-06-11,1,1,East,Corporate
+ORDER-01284,2023-03-16,Second Class,Office Supplies,Binders,34.46,160.9,350.2,2023-03-17,2023-03-21,4,1,East,Corporate
+ORDER-01285,2023-05-10,Standard Class,Office Supplies,Paper,47.47,68.8,176.67,2023-05-18,2023-05-21,3,1,North,Consumer
+ORDER-01286,2023-03-25,Standard Class,Furniture,Bookcases,13.77,236.9,168.57,2023-03-28,2023-03-29,1,1,West,Consumer
+ORDER-01287,2023-01-22,Standard Class,Office Supplies,Binders,40.67,301.2,624.41,2023-01-26,2023-01-28,2,1,South,Consumer
+ORDER-01288,2024-04-03,Standard Class,Technology,Accessories,3.24,20.3,15.23,2024-04-08,2024-04-08,0,0,South,Home Office
+ORDER-01289,2024-06-22,Second Class,Furniture,Furnishings,27.14,141.1,242.92,2024-06-27,2024-06-27,0,0,West,Home Office
+ORDER-01290,2024-01-17,Same Day,Office Supplies,Pens,3.99,21.2,23.52,2024-01-18,2024-01-18,0,0,West,Consumer
+ORDER-01291,2024-03-15,First Class,Office Supplies,Binders,46.73,213.1,801.94,2024-03-16,2024-03-18,2,1,West,Corporate
+ORDER-01292,2023-01-21,Standard Class,Furniture,Furnishings,38.43,448.1,873.55,2023-01-31,2023-02-01,1,1,East,Consumer
+ORDER-01293,2023-10-30,First Class,Office Supplies,Storage,33.07,491.4,1313.87,2023-11-01,2023-11-07,6,1,South,Corporate
+ORDER-01294,2023-03-25,First Class,Office Supplies,Paper,41.28,320.3,1067.91,2023-03-26,2023-03-28,2,1,South,Corporate
+ORDER-01295,2024-03-28,First Class,Technology,Machines,32.55,85.0,236.37,2024-03-31,2024-04-02,2,1,South,Corporate
+ORDER-01296,2024-01-22,Standard Class,Technology,Accessories,48.46,453.4,1107.01,2024-01-23,2024-01-24,1,1,West,Consumer
+ORDER-01297,2024-05-21,Standard Class,Office Supplies,Paper,35.84,260.5,476.58,2024-05-23,2024-05-27,4,1,East,Consumer
+ORDER-01298,2023-09-14,Standard Class,Technology,Phones,46.27,81.1,207.07,2023-09-24,2023-09-24,0,0,West,Corporate
+ORDER-01299,2024-06-10,Standard Class,Office Supplies,Binders,26.1,461.3,612.22,2024-06-13,2024-06-14,1,1,North,Home Office
+ORDER-01300,2023-06-11,Standard Class,Office Supplies,Pens,6.29,379.9,129.68,2023-06-22,2023-06-24,2,1,North,Home Office
+ORDER-01301,2023-06-12,Standard Class,Office Supplies,Storage,26.64,367.2,503.05,2023-06-19,2023-06-21,2,1,South,Home Office
+ORDER-01302,2024-06-07,Standard Class,Furniture,Chairs,6.78,356.0,140.25,2024-06-09,2024-06-09,0,0,West,Corporate
+ORDER-01303,2023-09-28,First Class,Technology,Copiers,29.83,104.2,268.41,2023-10-01,2023-10-01,0,0,North,Consumer
+ORDER-01304,2024-05-06,Standard Class,Office Supplies,Binders,24.38,109.4,147.05,2024-05-08,2024-05-10,2,1,North,Corporate
+ORDER-01305,2023-07-27,Standard Class,Office Supplies,Storage,31.32,345.7,546.38,2023-07-28,2023-07-29,1,1,West,Home Office
+ORDER-01306,2024-06-22,Same Day,Technology,Machines,1.0,113.8,29.89,2024-06-24,2024-06-25,1,1,East,Consumer
+ORDER-01307,2023-03-01,Same Day,Furniture,Chairs,10.14,222.1,238.76,2023-03-02,2023-03-02,0,0,West,Corporate
+ORDER-01308,2024-03-05,First Class,Office Supplies,Storage,24.82,392.1,789.04,2024-03-06,2024-03-06,0,0,West,Corporate
+ORDER-01309,2023-11-05,Same Day,Furniture,Furnishings,47.55,393.1,1886.63,2023-11-06,2023-11-07,1,1,East,Home Office
+ORDER-01310,2024-06-03,Second Class,Technology,Machines,19.49,229.4,279.26,2024-06-04,2024-06-04,0,0,South,Corporate
+ORDER-01311,2023-01-27,Same Day,Technology,Machines,21.51,397.1,859.67,2023-01-28,2023-01-28,0,0,South,Consumer
+ORDER-01312,2023-07-18,Standard Class,Office Supplies,Binders,35.88,420.1,770.98,2023-07-24,2023-07-25,1,1,South,Home Office
+ORDER-01313,2024-01-22,Standard Class,Office Supplies,Pens,30.39,329.1,513.26,2024-01-31,2024-02-02,2,1,East,Home Office
+ORDER-01314,2023-12-15,Standard Class,Office Supplies,Binders,15.3,118.1,100.42,2023-12-18,2023-12-18,0,0,North,Consumer
+ORDER-01315,2024-06-19,Standard Class,Technology,Accessories,20.84,140.6,155.27,2024-06-20,2024-06-21,1,1,East,Home Office
+ORDER-01316,2024-01-13,Standard Class,Office Supplies,Paper,11.28,160.8,104.6,2024-01-19,2024-01-20,1,1,West,Corporate
+ORDER-01317,2024-06-10,Second Class,Office Supplies,Storage,48.32,62.8,190.19,2024-06-12,2024-06-17,5,1,East,Corporate
+ORDER-01318,2023-06-02,First Class,Technology,Accessories,6.97,140.2,88.03,2023-06-03,2023-06-03,0,0,North,Home Office
+ORDER-01319,2023-07-25,Second Class,Furniture,Furnishings,18.91,108.7,137.88,2023-07-27,2023-07-30,3,1,North,Consumer
+ORDER-01320,2024-03-30,Standard Class,Furniture,Tables,1.78,230.4,38.73,2024-04-03,2024-04-03,0,0,West,Corporate
+ORDER-01321,2023-09-30,First Class,Office Supplies,Binders,11.48,454.7,430.59,2023-10-05,2023-10-06,1,1,South,Consumer
+ORDER-01322,2023-08-24,Second Class,Technology,Phones,39.13,56.7,149.51,2023-08-27,2023-08-29,2,1,North,Corporate
+ORDER-01323,2024-06-04,Standard Class,Office Supplies,Pens,10.46,361.5,205.51,2024-06-09,2024-06-10,1,1,North,Corporate
+ORDER-01324,2024-05-15,Second Class,Furniture,Bookcases,4.46,345.2,107.34,2024-05-19,2024-05-20,1,1,North,Home Office
+ORDER-01325,2023-04-27,Standard Class,Office Supplies,Binders,23.99,52.4,71.54,2023-04-30,2023-04-30,0,0,West,Home Office
+ORDER-01326,2024-01-21,Standard Class,Office Supplies,Paper,0.99,461.7,40.86,2024-01-27,2024-01-28,1,1,North,Consumer
+ORDER-01327,2023-12-10,Same Day,Furniture,Furnishings,4.7,286.4,146.15,2023-12-11,2023-12-11,0,0,South,Home Office
+ORDER-01328,2024-01-30,Standard Class,Office Supplies,Storage,40.48,185.0,380.1,2024-02-06,2024-02-08,2,1,West,Corporate
+ORDER-01329,2023-03-05,Standard Class,Technology,Accessories,38.69,379.5,742.81,2023-03-11,2023-03-11,0,0,South,Corporate
+ORDER-01330,2023-03-13,First Class,Office Supplies,Pens,45.8,132.4,501.6,2023-03-15,2023-03-15,0,0,North,Consumer
+ORDER-01331,2023-10-01,First Class,Office Supplies,Paper,42.8,348.3,1198.62,2023-10-02,2023-10-06,4,1,North,Consumer
+ORDER-01332,2023-11-16,Standard Class,Office Supplies,Pens,34.32,24.7,49.6,2023-11-21,2023-11-21,0,0,South,Corporate
+ORDER-01333,2023-12-04,Standard Class,Furniture,Furnishings,3.09,420.5,80.38,2023-12-05,2023-12-07,2,1,West,Home Office
+ORDER-01334,2024-01-01,Standard Class,Technology,Copiers,39.25,226.8,463.48,2024-01-03,2024-01-07,4,1,West,Home Office
+ORDER-01335,2024-05-09,Second Class,Office Supplies,Storage,42.35,320.2,828.13,2024-05-11,2024-05-12,1,1,South,Consumer
+ORDER-01336,2023-06-15,Standard Class,Office Supplies,Paper,40.05,114.5,237.62,2023-06-22,2023-06-26,4,1,North,Consumer
+ORDER-01337,2024-06-27,Standard Class,Office Supplies,Paper,25.67,340.2,442.45,2024-07-05,2024-07-07,2,1,East,Corporate
+ORDER-01338,2023-01-11,Same Day,Office Supplies,Binders,12.03,387.3,480.15,2023-01-12,2023-01-13,1,1,South,Corporate
+ORDER-01339,2023-10-28,Second Class,Office Supplies,Binders,42.34,239.2,613.37,2023-10-29,2023-10-31,2,1,South,Consumer
+ORDER-01340,2023-04-12,Standard Class,Furniture,Bookcases,36.49,310.8,581.25,2023-04-21,2023-04-22,1,1,South,Corporate
+ORDER-01341,2024-02-29,Second Class,Technology,Phones,49.05,230.9,687.92,2024-03-01,2024-03-03,2,1,North,Consumer
+ORDER-01342,2024-01-27,Second Class,Technology,Phones,8.21,447.6,239.06,2024-01-28,2024-01-31,3,1,West,Consumer
+ORDER-01343,2023-08-02,Standard Class,Office Supplies,Binders,11.67,251.4,158.82,2023-08-10,2023-08-10,0,0,North,Home Office
+ORDER-01344,2023-03-29,Standard Class,Technology,Machines,10.98,421.7,239.87,2023-03-30,2023-04-02,3,1,South,Consumer
+ORDER-01345,2024-02-05,First Class,Furniture,Bookcases,39.73,401.7,1294.56,2024-02-07,2024-02-08,1,1,North,Corporate
+ORDER-01346,2023-02-15,Standard Class,Office Supplies,Pens,9.75,208.2,110.31,2023-02-20,2023-02-22,2,1,North,Home Office
+ORDER-01347,2024-04-07,Second Class,Office Supplies,Binders,3.8,118.9,36.71,2024-04-12,2024-04-14,2,1,South,Home Office
+ORDER-01348,2023-11-06,Standard Class,Office Supplies,Paper,49.93,206.0,531.79,2023-11-11,2023-11-16,5,1,North,Corporate
+ORDER-01349,2023-03-27,Standard Class,Office Supplies,Binders,1.73,414.0,45.44,2023-04-02,2023-04-03,1,1,East,Corporate
+ORDER-01350,2023-04-02,Standard Class,Office Supplies,Binders,41.84,117.7,257.38,2023-04-09,2023-04-10,1,1,North,Corporate
+ORDER-01351,2023-08-30,Standard Class,Furniture,Tables,18.59,264.6,256.16,2023-09-06,2023-09-07,1,1,North,Consumer
+ORDER-01352,2023-01-02,Standard Class,Office Supplies,Binders,42.16,404.0,858.38,2023-01-03,2023-01-05,2,1,West,Home Office
+ORDER-01353,2023-08-13,Standard Class,Furniture,Furnishings,27.95,180.0,257.13,2023-08-16,2023-08-17,1,1,West,Consumer
+ORDER-01354,2023-04-26,First Class,Technology,Machines,45.13,322.9,1181.67,2023-04-28,2023-05-02,4,1,South,Consumer
+ORDER-01355,2023-04-13,Same Day,Furniture,Chairs,46.35,126.6,601.47,2023-04-14,2023-04-14,0,0,South,Consumer
+ORDER-01356,2023-07-13,First Class,Furniture,Tables,0.95,59.1,13.73,2023-07-18,2023-07-19,1,1,West,Consumer
+ORDER-01357,2023-06-15,First Class,Office Supplies,Storage,4.23,398.2,144.18,2023-06-16,2023-06-19,3,1,East,Home Office
+ORDER-01358,2023-03-31,Standard Class,Office Supplies,Paper,12.89,54.0,53.98,2023-04-02,2023-04-04,2,1,North,Home Office
+ORDER-01359,2023-05-02,Same Day,Technology,Accessories,33.63,139.3,488.28,2023-05-03,2023-05-04,1,1,East,Consumer
+ORDER-01360,2023-05-23,Standard Class,Office Supplies,Pens,44.47,428.3,964.43,2023-05-24,2023-05-27,3,1,East,Corporate
+ORDER-01361,2023-04-16,Same Day,Office Supplies,Storage,23.27,176.5,427.75,2023-04-17,2023-04-17,0,0,West,Home Office
+ORDER-01362,2024-03-03,Same Day,Technology,Phones,30.55,486.7,1502.92,2024-03-04,2024-03-06,2,1,South,Consumer
+ORDER-01363,2023-11-01,First Class,Office Supplies,Pens,9.83,490.0,394.8,2023-11-03,2023-11-04,1,1,North,Corporate
+ORDER-01364,2023-11-13,Same Day,Furniture,Tables,40.35,137.8,561.9,2023-11-14,2023-11-14,0,0,South,Corporate
+ORDER-01365,2023-01-09,Second Class,Office Supplies,Binders,48.38,25.3,80.58,2023-01-16,2023-01-18,2,1,East,Consumer
+ORDER-01366,2023-03-14,Standard Class,Technology,Accessories,13.8,354.0,261.83,2023-03-16,2023-03-18,2,1,East,Home Office
+ORDER-01367,2023-12-25,Standard Class,Office Supplies,Storage,24.99,228.2,301.1,2023-12-28,2023-12-30,2,1,South,Corporate
+ORDER-01368,2023-08-11,Second Class,Furniture,Chairs,4.76,54.9,30.64,2023-08-14,2023-08-14,0,0,South,Home Office
+ORDER-01369,2024-02-20,Standard Class,Furniture,Bookcases,28.18,355.2,507.44,2024-02-27,2024-02-28,1,1,West,Home Office
+ORDER-01370,2024-01-05,Second Class,Furniture,Chairs,25.39,20.4,45.68,2024-01-08,2024-01-08,0,0,South,Corporate
+ORDER-01371,2023-09-21,Same Day,Office Supplies,Storage,7.65,435.7,349.89,2023-09-22,2023-09-23,1,1,South,Consumer
+ORDER-01372,2023-11-14,Standard Class,Office Supplies,Paper,22.38,73.6,100.27,2023-11-15,2023-11-16,1,1,West,Corporate
+ORDER-01373,2023-03-25,First Class,Furniture,Furnishings,17.04,68.0,97.9,2023-03-28,2023-03-28,0,0,South,Corporate
+ORDER-01374,2023-11-14,Same Day,Technology,Accessories,26.33,92.0,257.5,2023-11-15,2023-11-15,0,0,East,Home Office
+ORDER-01375,2023-04-21,Same Day,Technology,Copiers,29.49,480.3,1421.69,2023-04-22,2023-04-22,0,0,South,Consumer
+ORDER-01376,2023-09-08,Same Day,Office Supplies,Binders,0.92,348.1,47.63,2023-09-09,2023-09-11,2,1,North,Home Office
+ORDER-01377,2024-01-18,Second Class,Technology,Phones,38.17,401.7,934.51,2024-01-20,2024-01-22,2,1,East,Corporate
+ORDER-01378,2023-01-07,Same Day,Furniture,Tables,35.79,201.8,729.47,2023-01-08,2023-01-10,2,1,West,Consumer
+ORDER-01379,2024-04-03,First Class,Office Supplies,Pens,18.63,171.5,272.1,2024-04-06,2024-04-07,1,1,East,Consumer
+ORDER-01380,2023-03-25,Standard Class,Office Supplies,Binders,3.12,121.1,24.92,2023-03-29,2023-03-30,1,1,West,Consumer
+ORDER-01381,2023-07-27,Standard Class,Technology,Copiers,37.87,242.9,477.33,2023-07-28,2023-07-30,2,1,North,Consumer
+ORDER-01382,2024-01-25,First Class,Technology,Copiers,47.78,278.2,1072.32,2024-01-26,2024-01-27,1,1,North,Consumer
+ORDER-01383,2023-11-10,Standard Class,Furniture,Tables,12.39,317.7,212.15,2023-11-13,2023-11-14,1,1,East,Corporate
+ORDER-01384,2023-01-22,Second Class,Technology,Machines,16.51,132.3,149.91,2023-01-24,2023-01-25,1,1,South,Corporate
+ORDER-01385,2024-02-14,Second Class,Furniture,Chairs,9.6,474.6,283.47,2024-02-18,2024-02-21,3,1,East,Corporate
+ORDER-01386,2024-05-29,Standard Class,Technology,Machines,29.06,89.0,141.86,2024-06-03,2024-06-04,1,1,East,Home Office
+ORDER-01387,2023-05-07,Second Class,Technology,Machines,8.16,483.0,248.42,2023-05-13,2023-05-16,3,1,North,Consumer
+ORDER-01388,2023-01-14,First Class,Furniture,Tables,18.13,12.4,25.35,2023-01-17,2023-01-18,1,1,West,Consumer
+ORDER-01389,2023-01-12,Standard Class,Technology,Phones,35.0,243.2,439.45,2023-01-17,2023-01-18,1,1,East,Corporate
+ORDER-01390,2023-03-28,Standard Class,Furniture,Chairs,28.23,170.0,256.1,2023-04-02,2023-04-02,0,0,South,Consumer
+ORDER-01391,2024-06-07,Standard Class,Office Supplies,Storage,19.63,227.3,241.85,2024-06-11,2024-06-12,1,1,North,Home Office
+ORDER-01392,2024-06-20,Standard Class,Office Supplies,Binders,21.3,287.5,323.95,2024-06-22,2024-06-22,0,0,East,Consumer
+ORDER-01393,2023-10-28,Same Day,Office Supplies,Paper,28.32,220.6,637.39,2023-10-29,2023-10-29,0,0,East,Consumer
+ORDER-01394,2023-08-31,Standard Class,Technology,Machines,0.79,210.3,24.09,2023-09-02,2023-09-02,0,0,South,Home Office
+ORDER-01395,2023-05-02,Second Class,Office Supplies,Paper,4.39,367.7,113.86,2023-05-05,2023-05-07,2,1,East,Corporate
+ORDER-01396,2023-05-27,Standard Class,Office Supplies,Binders,44.12,344.5,772.37,2023-06-04,2023-06-06,2,1,East,Corporate
+ORDER-01397,2023-12-22,Standard Class,Technology,Accessories,4.36,417.5,97.75,2023-12-25,2023-12-25,0,0,East,Consumer
+ORDER-01398,2023-11-05,First Class,Technology,Accessories,35.49,128.7,376.97,2023-11-07,2023-11-09,2,1,East,Home Office
+ORDER-01399,2023-10-15,First Class,Furniture,Chairs,46.04,306.7,1147.27,2023-10-19,2023-10-24,5,1,South,Corporate
+ORDER-01400,2023-11-03,Standard Class,Technology,Copiers,13.9,294.7,218.77,2023-11-06,2023-11-06,0,0,East,Corporate
+ORDER-01401,2023-12-18,Standard Class,Furniture,Chairs,18.84,188.0,192.96,2023-12-21,2023-12-21,0,0,East,Corporate
+ORDER-01402,2023-11-08,Standard Class,Technology,Copiers,28.66,245.6,359.72,2023-11-14,2023-11-17,3,1,East,Consumer
+ORDER-01403,2023-02-28,Standard Class,Furniture,Tables,44.14,160.3,373.25,2023-03-04,2023-03-05,1,1,North,Home Office
+ORDER-01404,2023-02-04,Second Class,Furniture,Furnishings,47.12,75.2,223.67,2023-02-09,2023-02-09,0,0,South,Consumer
+ORDER-01405,2024-03-20,Standard Class,Office Supplies,Pens,37.11,110.8,220.39,2024-03-29,2024-03-29,0,0,North,Corporate
+ORDER-01406,2023-04-03,Standard Class,Office Supplies,Binders,4.79,57.2,18.98,2023-04-05,2023-04-06,1,1,North,Home Office
+ORDER-01407,2023-07-26,Standard Class,Office Supplies,Binders,33.62,343.1,583.66,2023-07-31,2023-08-04,4,1,South,Consumer
+ORDER-01408,2023-12-19,Same Day,Furniture,Bookcases,20.81,332.1,707.83,2023-12-20,2023-12-21,1,1,North,Corporate
+ORDER-01409,2023-11-28,Same Day,Office Supplies,Storage,23.8,475.6,1151.45,2023-11-29,2023-12-01,2,1,North,Corporate
+ORDER-01410,2023-06-08,Standard Class,Technology,Accessories,2.93,366.2,63.45,2023-06-12,2023-06-12,0,0,North,Consumer
+ORDER-01411,2023-01-24,First Class,Office Supplies,Pens,9.96,30.8,30.1,2023-01-27,2023-01-29,2,1,South,Corporate
+ORDER-01412,2024-02-08,Standard Class,Furniture,Furnishings,39.63,442.7,887.62,2024-02-15,2024-02-17,2,1,East,Corporate
+ORDER-01413,2024-05-30,Standard Class,Office Supplies,Storage,22.97,432.0,501.41,2024-05-31,2024-06-01,1,1,West,Home Office
+ORDER-01414,2023-12-30,First Class,Furniture,Tables,15.43,224.4,284.88,2023-12-31,2024-01-01,1,1,West,Corporate
+ORDER-01415,2024-01-17,Same Day,Technology,Phones,19.51,295.0,591.83,2024-01-18,2024-01-18,0,0,South,Consumer
+ORDER-01416,2024-06-15,Same Day,Technology,Phones,42.79,488.2,2108.06,2024-06-16,2024-06-17,1,1,West,Home Office
+ORDER-01417,2023-06-01,Second Class,Office Supplies,Binders,37.58,268.5,611.73,2023-06-05,2023-06-09,4,1,South,Consumer
+ORDER-01418,2024-02-24,Standard Class,Office Supplies,Storage,13.98,453.1,330.09,2024-02-28,2024-02-28,0,0,South,Corporate
+ORDER-01419,2023-09-07,First Class,Technology,Accessories,6.32,46.1,32.12,2023-09-12,2023-09-14,2,1,West,Home Office
+ORDER-01420,2023-04-27,Standard Class,Office Supplies,Pens,12.97,99.6,71.68,2023-05-03,2023-05-05,2,1,North,Home Office
+ORDER-01421,2024-05-26,Second Class,Technology,Phones,46.08,223.2,625.39,2024-05-27,2024-05-28,1,1,East,Home Office
+ORDER-01422,2023-12-01,Standard Class,Office Supplies,Pens,29.29,294.5,444.96,2023-12-02,2023-12-03,1,1,West,Home Office
+ORDER-01423,2024-02-22,Second Class,Technology,Accessories,26.91,409.0,666.35,2024-02-28,2024-02-29,1,1,West,Consumer
+ORDER-01424,2023-10-22,Standard Class,Office Supplies,Binders,30.02,494.2,753.31,2023-10-27,2023-10-28,1,1,West,Corporate
+ORDER-01425,2024-01-06,Standard Class,Office Supplies,Storage,18.62,197.5,190.9,2024-01-12,2024-01-14,2,1,West,Corporate
+ORDER-01426,2023-07-05,Same Day,Technology,Machines,40.45,28.5,124.37,2023-07-06,2023-07-07,1,1,South,Home Office
+ORDER-01427,2023-09-03,Standard Class,Office Supplies,Storage,26.4,401.6,537.97,2023-09-04,2023-09-05,1,1,South,Corporate
+ORDER-01428,2023-09-25,Second Class,Office Supplies,Pens,6.28,304.2,132.87,2023-09-29,2023-09-29,0,0,East,Consumer
+ORDER-01429,2023-08-25,Standard Class,Furniture,Furnishings,6.89,103.3,51.21,2023-08-26,2023-08-28,2,1,East,Corporate
+ORDER-01430,2024-06-13,Standard Class,Office Supplies,Binders,27.07,249.9,356.27,2024-06-17,2024-06-19,2,1,West,Consumer
+ORDER-01431,2023-01-21,Standard Class,Office Supplies,Storage,46.86,372.4,883.29,2023-01-24,2023-01-26,2,1,West,Consumer
+ORDER-01432,2024-06-03,Standard Class,Furniture,Chairs,15.76,386.4,314.18,2024-06-06,2024-06-07,1,1,West,Corporate
+ORDER-01433,2023-04-10,First Class,Furniture,Furnishings,43.54,252.3,889.52,2023-04-14,2023-04-14,0,0,East,Consumer
+ORDER-01434,2024-04-22,Standard Class,Office Supplies,Pens,38.32,156.1,304.37,2024-04-23,2024-04-24,1,1,West,Consumer
+ORDER-01435,2023-10-25,Same Day,Technology,Phones,12.77,487.0,637.77,2023-10-26,2023-10-30,4,1,North,Consumer
+ORDER-01436,2024-06-09,Second Class,Office Supplies,Paper,2.3,333.4,56.26,2024-06-15,2024-06-18,3,1,East,Consumer
+ORDER-01437,2023-11-30,Standard Class,Furniture,Chairs,5.54,207.1,67.07,2023-12-04,2023-12-04,0,0,North,Home Office
+ORDER-01438,2023-01-02,Second Class,Office Supplies,Pens,36.56,143.8,329.41,2023-01-05,2023-01-05,0,0,West,Corporate
+ORDER-01439,2024-01-10,Second Class,Furniture,Tables,10.38,366.9,240.05,2024-01-13,2024-01-13,0,0,South,Home Office
+ORDER-01440,2023-10-20,First Class,Office Supplies,Storage,18.88,124.9,208.36,2023-10-21,2023-10-22,1,1,North,Consumer
+ORDER-01441,2023-11-14,Standard Class,Furniture,Chairs,25.33,90.0,124.33,2023-11-18,2023-11-20,2,1,East,Corporate
+ORDER-01442,2024-05-16,Standard Class,Furniture,Chairs,36.41,267.3,500.83,2024-05-17,2024-05-18,1,1,North,Consumer
+ORDER-01443,2024-01-16,First Class,Furniture,Chairs,6.1,148.5,82.14,2024-01-17,2024-01-19,2,1,East,Corporate
+ORDER-01444,2023-01-14,Same Day,Office Supplies,Binders,20.62,316.3,672.07,2023-01-15,2023-01-15,0,0,West,Home Office
+ORDER-01445,2024-05-18,First Class,Furniture,Tables,24.51,63.4,135.99,2024-05-19,2024-05-19,0,0,North,Corporate
+ORDER-01446,2023-08-19,Standard Class,Office Supplies,Pens,27.27,329.2,463.38,2023-08-26,2023-08-27,1,1,South,Consumer
+ORDER-01447,2023-03-25,First Class,Office Supplies,Binders,41.01,145.2,483.27,2023-03-28,2023-03-30,2,1,North,Corporate
+ORDER-01448,2023-05-10,Standard Class,Office Supplies,Storage,9.0,5.1,18.29,2023-05-12,2023-05-12,0,0,South,Corporate
+ORDER-01449,2023-05-25,Standard Class,Office Supplies,Pens,40.49,67.8,146.3,2023-05-29,2023-06-01,3,1,East,Home Office
+ORDER-01450,2023-01-28,Standard Class,Technology,Copiers,34.8,467.1,824.48,2023-02-01,2023-02-05,4,1,West,Consumer
+ORDER-01451,2023-03-07,Second Class,Furniture,Furnishings,28.02,434.3,748.39,2023-03-15,2023-03-17,2,1,West,Corporate
+ORDER-01452,2023-06-12,Standard Class,Office Supplies,Storage,35.13,120.6,231.39,2023-06-15,2023-06-15,0,0,South,Home Office
+ORDER-01453,2023-08-17,Standard Class,Furniture,Furnishings,20.89,390.3,419.04,2023-08-23,2023-08-26,3,1,East,Corporate
+ORDER-01454,2023-09-18,First Class,Furniture,Bookcases,7.35,306.2,197.57,2023-09-20,2023-09-21,1,1,West,Consumer
+ORDER-01455,2024-03-24,Standard Class,Office Supplies,Pens,33.46,485.6,818.21,2024-03-27,2024-03-28,1,1,East,Corporate
+ORDER-01456,2024-02-28,Standard Class,Office Supplies,Pens,26.47,189.9,269.05,2024-03-09,2024-03-12,3,1,South,Corporate
+ORDER-01457,2024-04-04,Standard Class,Technology,Machines,32.15,342.3,564.69,2024-04-16,2024-04-19,3,1,South,Corporate
+ORDER-01458,2023-10-28,Same Day,Office Supplies,Storage,17.23,36.5,75.22,2023-10-29,2023-10-30,1,1,North,Corporate
+ORDER-01459,2023-10-30,Second Class,Technology,Phones,45.39,201.1,566.03,2023-11-03,2023-11-07,4,1,West,Consumer
+ORDER-01460,2023-10-14,Standard Class,Furniture,Tables,29.57,482.1,730.46,2023-10-23,2023-10-27,4,1,West,Home Office
+ORDER-01461,2024-01-30,First Class,Furniture,Chairs,4.73,271.8,112.3,2024-02-02,2024-02-04,2,1,North,Home Office
+ORDER-01462,2023-01-10,First Class,Furniture,Furnishings,22.77,147.5,285.56,2023-01-11,2023-01-13,2,1,South,Corporate
+ORDER-01463,2023-09-27,Standard Class,Furniture,Bookcases,37.94,64.5,128.85,2023-09-29,2023-09-29,0,0,South,Consumer
+ORDER-01464,2023-12-27,Second Class,Office Supplies,Storage,39.81,353.2,860.99,2023-12-28,2023-12-29,1,1,South,Consumer
+ORDER-01465,2023-09-14,First Class,Office Supplies,Binders,24.98,324.2,663.01,2023-09-16,2023-09-17,1,1,South,Consumer
+ORDER-01466,2023-05-13,Second Class,Furniture,Chairs,44.79,190.1,517.19,2023-05-18,2023-05-20,2,1,East,Consumer
+ORDER-01467,2023-10-03,Standard Class,Technology,Phones,13.75,475.7,342.29,2023-10-12,2023-10-13,1,1,West,Consumer
+ORDER-01468,2024-05-27,First Class,Technology,Copiers,20.82,16.0,40.36,2024-05-31,2024-06-01,1,1,West,Consumer
+ORDER-01469,2023-11-09,Second Class,Furniture,Chairs,44.98,155.3,433.04,2023-11-14,2023-11-15,1,1,South,Corporate
+ORDER-01470,2023-10-11,Standard Class,Furniture,Chairs,44.86,460.9,1043.16,2023-10-17,2023-10-19,2,1,South,Home Office
+ORDER-01471,2023-05-01,Standard Class,Furniture,Furnishings,34.44,163.9,291.23,2023-05-11,2023-05-13,2,1,South,Home Office
+ORDER-01472,2023-04-17,Standard Class,Furniture,Chairs,43.02,129.9,295.85,2023-04-19,2023-04-21,2,1,West,Corporate
+ORDER-01473,2023-07-23,Standard Class,Furniture,Chairs,4.89,269.4,74.72,2023-07-27,2023-07-29,2,1,West,Home Office
+ORDER-01474,2023-06-14,First Class,Office Supplies,Paper,43.32,412.8,1442.29,2023-06-19,2023-06-22,3,1,South,Consumer
+ORDER-01475,2023-11-01,Standard Class,Furniture,Bookcases,16.37,56.1,61.34,2023-11-04,2023-11-05,1,1,East,Consumer
+ORDER-01476,2024-05-11,Standard Class,Office Supplies,Pens,9.33,471.8,226.29,2024-05-14,2024-05-17,3,1,North,Home Office
+ORDER-01477,2023-06-05,Second Class,Technology,Machines,12.35,398.6,309.28,2023-06-08,2023-06-08,0,0,North,Consumer
+ORDER-01478,2024-01-02,Standard Class,Office Supplies,Paper,21.19,94.7,114.18,2024-01-10,2024-01-13,3,1,North,Consumer
+ORDER-01479,2023-09-08,Same Day,Technology,Copiers,12.93,357.4,477.38,2023-09-10,2023-09-11,1,1,West,Home Office
+ORDER-01480,2023-11-30,Standard Class,Furniture,Bookcases,16.37,195.6,170.65,2023-12-02,2023-12-02,0,0,West,Corporate
+ORDER-01481,2024-05-25,Standard Class,Office Supplies,Storage,7.18,204.1,85.01,2024-05-29,2024-05-31,2,1,North,Home Office
+ORDER-01482,2023-10-20,Standard Class,Office Supplies,Binders,15.16,392.7,307.62,2023-10-30,2023-11-01,2,1,North,Home Office
+ORDER-01483,2023-01-20,Standard Class,Furniture,Chairs,28.83,481.6,711.35,2023-01-26,2023-01-27,1,1,East,Home Office
+ORDER-01484,2023-10-09,Standard Class,Furniture,Bookcases,22.37,67.7,82.68,2023-10-17,2023-10-17,0,0,West,Home Office
+ORDER-01485,2023-01-01,First Class,Office Supplies,Storage,17.66,213.2,320.65,2023-01-02,2023-01-04,2,1,West,Corporate
+ORDER-01486,2023-04-29,Same Day,Office Supplies,Storage,37.45,243.1,924.93,2023-04-30,2023-04-30,0,0,North,Corporate
+ORDER-01487,2023-02-04,Standard Class,Office Supplies,Storage,44.73,191.3,446.15,2023-02-10,2023-02-11,1,1,East,Consumer
+ORDER-01488,2023-07-17,Second Class,Office Supplies,Pens,37.96,184.8,432.29,2023-07-20,2023-07-21,1,1,East,Consumer
+ORDER-01489,2024-04-29,First Class,Office Supplies,Paper,16.93,30.9,51.84,2024-04-30,2024-05-01,1,1,North,Home Office
+ORDER-01490,2023-02-28,First Class,Furniture,Tables,37.35,344.3,1047.28,2023-03-01,2023-03-05,4,1,North,Consumer
+ORDER-01491,2023-06-10,Standard Class,Office Supplies,Paper,8.02,220.9,95.06,2023-06-12,2023-06-13,1,1,West,Corporate
+ORDER-01492,2023-07-25,Standard Class,Furniture,Furnishings,6.95,101.4,41.99,2023-07-29,2023-07-29,0,0,North,Consumer
+ORDER-01493,2023-01-12,Standard Class,Furniture,Furnishings,17.61,408.9,369.53,2023-01-16,2023-01-18,2,1,South,Consumer
+ORDER-01494,2024-05-04,First Class,Technology,Accessories,40.48,402.3,1322.2,2024-05-05,2024-05-09,4,1,East,Consumer
+ORDER-01495,2023-10-03,First Class,Office Supplies,Paper,12.69,245.8,264.03,2023-10-06,2023-10-09,3,1,North,Home Office
+ORDER-01496,2023-08-30,Standard Class,Technology,Machines,3.63,152.7,41.03,2023-08-31,2023-09-01,1,1,South,Consumer
+ORDER-01497,2023-08-04,Standard Class,Office Supplies,Storage,7.02,320.9,128.22,2023-08-11,2023-08-13,2,1,East,Corporate
+ORDER-01498,2023-09-08,Same Day,Office Supplies,Paper,43.01,147.6,646.09,2023-09-09,2023-09-09,0,0,South,Corporate
+ORDER-01499,2023-05-06,First Class,Furniture,Furnishings,31.87,121.8,326.91,2023-05-10,2023-05-12,2,1,South,Corporate
+ORDER-01500,2023-08-05,Same Day,Furniture,Chairs,13.03,366.6,488.58,2023-08-07,2023-08-07,0,0,North,Corporate
